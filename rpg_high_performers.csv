@@ -1,0 +1,1537 @@
+steam_id_number,game_title,release_month,release_year,release_price,lowest_estimated_owners_number,highest_estimated_owners_number,average_estimated_owners_number,developer,publisher,estimated_revenue
+1,Disco Elysium - The Final Cut,October,2019,39.99,1000000.0,2000000.0,1500000.0,ZA/UM,ZA/UM,59985000.0
+2,BioShock,August,2007,4.99,1000000.0,2000000.0,1500000.0,"2K Boston, 2K Australia",2K,7485000.0
+3,Mass Effect 2 (2010),January,2010,19.99,1000000.0,2000000.0,1500000.0,BioWare,Electronic Arts,29985000.0
+4,Mass Effect 2 Digital Deluxe Edition,January,2010,29.99,1000000.0,2000000.0,1500000.0,BioWare,Electronic Arts,44985000.0
+5,Divinity: Original Sin - Enhanced Edition,October,2015,39.99,1000000.0,2000000.0,1500000.0,Larian Studios,Larian Studios,59985000.0
+6,The Elder Scrolls IV: Oblivion Game of the Year Edition,September,2007,14.99,1000000.0,2000000.0,1500000.0,Bethesda Game Studios,Bethesda Softworks,22485000.0
+7,The Elder Scrolls V: Skyrim,November,2011,19.99,5000000.0,10000000.0,7500000.0,Bethesda Game Studios,Bethesda Softworks,149925000.0
+8,ELDEN RING,February,2022,59.99,20000000.0,50000000.0,35000000.0,FromSoftware Inc.,"FromSoftware Inc., Bandai Namco Entertainment",2099650000.0
+9,God of War,January,2022,49.99,2000000.0,5000000.0,3500000.0,Santa Monica Studio,PlayStation PC LLC,174965000.0
+10,Divinity: Original Sin 2 - Definitive Edition,September,2017,44.99,5000000.0,10000000.0,7500000.0,Larian Studios,Larian Studios,337425000.0
+11,Hades,September,2020,14.99,5000000.0,10000000.0,7500000.0,Supergiant Games,Supergiant Games,112425000.0
+12,The Witcher 3: Wild Hunt,May,2015,39.99,10000000.0,20000000.0,15000000.0,CD PROJEKT RED,CD PROJEKT RED,599850000.0
+13,System Shock 2,August,1999,9.99,500000.0,1000000.0,750000.0,"Nightdive Studios, Irrational Games, Looking Glass Studios",Nightdive Studios,7492500.0
+14,Undertale,September,2015,9.99,2000000.0,5000000.0,3500000.0,tobyfox,tobyfox,34965000.0
+15,The Longest Journey,November,2000,9.99,200000.0,500000.0,350000.0,Funcom,Funcom,3496500.0
+16,Dragon Age: Origins,November,2009,29.99,500000.0,1000000.0,750000.0,BioWare,Electronic Arts,22492500.0
+17,Fallout 3,October,2008,9.99,500000.0,1000000.0,750000.0,Bethesda Game Studios,Bethesda Softworks,7492500.0
+18,Dragon Age: Origins - Ultimate Edition,October,2010,29.99,1000000.0,2000000.0,1500000.0,BioWare,Electronic Arts,44985000.0
+19,Deus Ex: Human Revolution - Director's Cut,October,2013,19.99,2000000.0,5000000.0,3500000.0,Eidos Montreal,Square Enix,69965000.0
+20,Fallout 3: Game of the Year Edition,October,2009,19.99,2000000.0,5000000.0,3500000.0,Bethesda Game Studios,Bethesda Softworks,69965000.0
+21,DARK SOULS II,April,2014,24.99,1000000.0,2000000.0,1500000.0,"FromSoftware, Inc","BANDAI NAMCO Entertainment, FromSoftware, Inc",37485000.0
+22,Crusader Kings III,September,2020,49.99,2000000.0,5000000.0,3500000.0,Paradox Development Studio,Paradox Interactive,174965000.0
+24,Guild Wars 2,August,2022,0.0,500000.0,1000000.0,750000.0,ArenaNet®,NCSOFT,0.0
+25,Into the Breach,February,2018,14.99,1000000.0,2000000.0,1500000.0,Subset Games,Subset Games,22485000.0
+26,Freedom Force,March,2002,4.99,200000.0,500000.0,350000.0,Irrational Games,2K,1746500.0
+28,Mass Effect 3 N7 Digital Deluxe Edition (2012),March,2012,29.99,500000.0,1000000.0,750000.0,BioWare,Electronic Arts,22492500.0
+29,Fallout: A Post Nuclear Role Playing Game,September,1997,9.99,2000000.0,5000000.0,3500000.0,Interplay Inc.,Bethesda Softworks,34965000.0
+30,Mass Effect (2007),May,2008,19.99,1000000.0,2000000.0,1500000.0,BioWare,Electronic Arts,29985000.0
+31,Nuclear Throne,December,2015,11.99,500000.0,1000000.0,750000.0,Vlambeer,Vlambeer,8992500.0
+32,Pillars of Eternity,March,2015,29.99,1000000.0,2000000.0,1500000.0,Obsidian Entertainment,Paradox Interactive,44985000.0
+33,The Elder Scrolls III: Morrowind Game of the Year Edition,April,2002,14.99,1000000.0,2000000.0,1500000.0,Bethesda Game Studios,Bethesda Softworks,22485000.0
+34,Borderlands 2,September,2012,19.99,10000000.0,20000000.0,15000000.0,"Gearbox Software, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",299850000.0
+35,Stardew Valley,February,2016,14.99,10000000.0,20000000.0,15000000.0,ConcernedApe,ConcernedApe,224850000.0
+36,Sid Meier's Pirates!,July,2005,9.99,200000.0,500000.0,350000.0,Firaxis Games,2K,3496500.0
+37,Rogue Legacy 2,April,2022,24.99,200000.0,500000.0,350000.0,Cellar Door Games,Cellar Door Games,8746500.0
+38,Pillars of Eternity II: Deadfire,May,2018,39.99,500000.0,1000000.0,750000.0,Obsidian Entertainment,"Versus Evil, Obsidian Entertainment",29992500.0
+39,EVE Online,May,2003,0.0,2000000.0,5000000.0,3500000.0,CCP,CCP,0.0
+40,Torchlight II,September,2012,7.49,500000.0,1000000.0,750000.0,Runic Games,Runic Games,5617500.0
+41,The Witcher 2: Assassins of Kings Enhanced Edition,May,2011,19.99,2000000.0,5000000.0,3500000.0,CD PROJEKT RED,"CD PROJEKT RED, 1C-SoftClub",69965000.0
+42,HEX: Shards of Fate,April,2016,0.0,200000.0,500000.0,350000.0,Hex Entertainment,Hex Entertainment,0.0
+43,Unavowed,August,2018,14.99,100000.0,200000.0,150000.0,Wadjet Eye Games,Wadjet Eye Games,2248500.0
+44,Sunless Skies: Sovereign Edition,January,2019,24.99,500000.0,1000000.0,750000.0,Failbetter Games,Failbetter Games,18742500.0
+45,Shadowrun: Dragonfall - Director's Cut,September,2014,14.99,500000.0,1000000.0,750000.0,Harebrained Schemes,Paradox Interactive,11242500.0
+46,West of Loathing,August,2017,10.99,500000.0,1000000.0,750000.0,Asymmetric,Asymmetric,8242500.0
+47,Divinity: Original Sin (Classic),June,2014,39.99,1000000.0,2000000.0,1500000.0,Larian Studios,Larian Studios,59985000.0
+48,Wildermyth,June,2021,18.74,200000.0,500000.0,350000.0,Worldwalker Games LLC,"Worldwalker Games LLC, WhisperGames",6558999.999999999
+49,Crypt of the NecroDancer,April,2015,14.99,2000000.0,5000000.0,3500000.0,Brace Yourself Games,"Brace Yourself Games, Klei Entertainment",52465000.0
+50,OMORI,December,2020,19.99,500000.0,1000000.0,750000.0,"OMOCAT, LLC","OMOCAT, LLC",14992499.999999998
+51,Persona 4 Golden,June,2020,19.99,1000000.0,2000000.0,1500000.0,ATLUS,SEGA,29985000.0
+52,Wasteland 2: Director's Cut,September,2014,14.99,500000.0,1000000.0,750000.0,inXile Entertainment,inXile Entertainment,11242500.0
+57,Dungeon Siege,April,2002,6.99,500000.0,1000000.0,750000.0,Gas Powered Games,Square Enix,5242500.0
+59,Fallout 2: A Post Nuclear Role Playing Game,August,2009,9.99,500000.0,1000000.0,750000.0,Black Isle Studios,Bethesda Softworks,7492500.0
+60,CrossCode,September,2018,19.99,200000.0,500000.0,350000.0,Radical Fish Games,"Deck13, WhisperGames, DANGEN Entertainment, Mayflower Entertainment",6996499.999999999
+61,The Lord of the Rings Online,June,2012,0.0,2000000.0,5000000.0,3500000.0,"Standing Stone Games, LLC","Standing Stone Games, LLC",0.0
+62,ENDER LILIES: Quietus of the Knights,June,2021,24.99,200000.0,500000.0,350000.0,"Live Wire, Adglobe",Binary Haze Interactive,8746500.0
+63,Nioh 2 – The Complete Edition,February,2021,29.99,500000.0,1000000.0,750000.0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",22492500.0
+64,Mass Effect Legendary Edition,May,2021,59.99,500000.0,1000000.0,750000.0,BioWare,Electronic Arts,44992500.0
+65,Bastion,August,2011,2.24,2000000.0,5000000.0,3500000.0,Supergiant Games,Supergiant Games,7840000.000000001
+66,Yakuza 0,August,2018,19.99,1000000.0,2000000.0,1500000.0,SEGA,SEGA,29985000.0
+67,The Witcher: Enhanced Edition Director's Cut,September,2008,9.99,1000000.0,2000000.0,1500000.0,CD PROJEKT RED,"CD PROJEKT RED, 1C-SoftClub",14985000.0
+68,Path of Exile,October,2013,0.0,20000000.0,50000000.0,35000000.0,Grinding Gear Games,Grinding Gear Games,0.0
+69,Cyberpunk 2077,December,2020,59.99,10000000.0,20000000.0,15000000.0,CD PROJEKT RED,CD PROJEKT RED,899850000.0
+70,Wizardry 8,November,2001,9.99,100000.0,200000.0,150000.0,Sir-Tech Canada,"Drecom Co. Ltd., Nightdive Studios",1498500.0
+72,System Shock: Enhanced Edition,September,2015,9.99,200000.0,500000.0,350000.0,"Looking Glass Studios, Nightdive Studios",Nightdive Studios,3496500.0
+73,Full Metal Furies,January,2018,19.99,200000.0,500000.0,350000.0,Cellar Door Games,Cellar Door Games,6996499.999999999
+74,Planescape: Torment: Enhanced Edition,April,2017,19.99,200000.0,500000.0,350000.0,Beamdog,Beamdog,6996499.999999999
+75,TUNIC,March,2022,29.99,200000.0,500000.0,350000.0,TUNIC Team,Finji,10496500.0
+76,DRAGON QUEST BUILDERS 2,December,2019,29.99,200000.0,500000.0,350000.0,"Square Enix, KOEI TECMO GAMES CO., LTD.",Square Enix,10496500.0
+77,The Legend of Heroes: Trails in the Sky,July,2014,19.99,200000.0,500000.0,350000.0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",6996499.999999999
+78,Dragon Age Inquisition,June,2020,39.99,200000.0,500000.0,350000.0,BioWare,Electronic Arts,13996500.0
+79,Death's Door,July,2021,19.99,200000.0,500000.0,350000.0,Acid Nerve,Devolver Digital,6996499.999999999
+80,Thronebreaker: The Witcher Tales,November,2018,19.99,500000.0,1000000.0,750000.0,CD PROJEKT RED,CD PROJEKT RED,14992499.999999998
+81,Wasteland 3,August,2020,16.49,200000.0,500000.0,350000.0,inXile Entertainment,inXile Entertainment,5771499.999999999
+82,Rogue Legacy,June,2013,14.99,1000000.0,2000000.0,1500000.0,Cellar Door Games,Cellar Door Games,22485000.0
+83,STAR WARS Knights of the Old Republic II - The Sith Lords,February,2005,9.99,1000000.0,2000000.0,1500000.0,"Obsidian Entertainment, Aspyr (Mac, Linux, & Windows Update)","LucasArts, Disney, Lucasfilm, Aspyr (Mac, Linux)",14985000.0
+84,STAR WARS: The Old Republic,December,2011,0.0,5000000.0,10000000.0,7500000.0,BioWare,Electronic Arts,0.0
+85,DARK SOULS: Prepare To Die Edition,August,2012,4.99,2000000.0,5000000.0,3500000.0,FromSoftware,Bandai Namco Entertainment,17465000.0
+96,Atelier Ryza 2: Lost Legends & the Secret Fairy,January,2021,29.99,100000.0,200000.0,150000.0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",4498500.0
+98,Rakuen,May,2017,9.99,100000.0,200000.0,150000.0,Laura Shigihara,Laura Shigihara,1498500.0
+99,The Forgotten City,July,2021,24.99,200000.0,500000.0,350000.0,Modern Storyteller,Dear Villagers,8746500.0
+100,RIFT,October,2013,0.0,2000000.0,5000000.0,3500000.0,gamigo US Inc.,gamigo US Inc.,0.0
+101,FINAL FANTASY IX,April,2016,10.49,500000.0,1000000.0,750000.0,Square Enix,Square Enix,7867500.0
+102,Hyper Light Drifter,March,2016,19.99,500000.0,1000000.0,750000.0,Heart Machine,Heart Machine,14992499.999999998
+103,Salt and Sanctuary,May,2016,17.99,500000.0,1000000.0,750000.0,Ska Studios,Ska Studios,13492499.999999998
+104,ICEY,November,2016,10.99,500000.0,1000000.0,750000.0,FantaBlade Network,XD,8242500.0
+105,Tales of Arise,September,2021,59.99,2000000.0,5000000.0,3500000.0,Bandai Namco Studios Inc.,Bandai Namco Entertainment,209965000.0
+106,Nioh: Complete Edition,November,2017,12.49,1000000.0,2000000.0,1500000.0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",18735000.0
+107,SPORE,December,2008,4.99,2000000.0,5000000.0,3500000.0,Maxis™,Electronic Arts,17465000.0
+108,Fallout: New Vegas,October,2010,9.99,500000.0,1000000.0,750000.0,Obsidian Entertainment,Bethesda Softworks,7492500.0
+109,The Binding of Isaac,September,2011,4.99,2000000.0,5000000.0,3500000.0,"Edmund McMillen, Florian Himsl",Edmund McMillen,17465000.0
+110,NieR:Automata,March,2017,39.99,1000000.0,2000000.0,1500000.0,"Square Enix, PlatinumGames Inc.",Square Enix,59985000.0
+111,Darkest Dungeon,January,2016,24.99,2000000.0,5000000.0,3500000.0,Red Hook Studios,Red Hook Studios,87465000.0
+112,Fallout 4,November,2015,19.99,5000000.0,10000000.0,7500000.0,Bethesda Game Studios,Bethesda Softworks,149925000.0
+113,Silent Storm Gold Edition,September,2004,9.99,100000.0,200000.0,150000.0,Nival,THQ Nordic,1498500.0
+114,Demeo,May,2021,29.99,100000.0,200000.0,150000.0,Resolution Games,Resolution Games,4498500.0
+115,The Legend of Heroes: Trails in the Sky the 3rd,May,2017,29.99,100000.0,200000.0,150000.0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",4498500.0
+117,EverQuest II,December,2011,0.0,500000.0,1000000.0,750000.0,Darkpaw Games,Daybreak Game Company,0.0
+118,Valdis Story: Abyssal City,October,2013,14.99,200000.0,500000.0,350000.0,Endlessfluff Games,Endlessfluff Games,5246500.0
+119,Crown Trick,October,2020,19.99,200000.0,500000.0,350000.0,NEXT Studios,"Team17, NEXT Studios",6996499.999999999
+120,Valkyria Chronicles 4 Complete Edition,September,2018,49.99,200000.0,500000.0,350000.0,SEGA,SEGA,17496500.0
+121,Torchlight,October,2009,7.49,1000000.0,2000000.0,1500000.0,Runic Games,Runic Games,11235000.0
+122,Fable - The Lost Chapters,December,2011,2.49,500000.0,1000000.0,750000.0,Lionhead Studios,Xbox Game Studios,1867500.0
+123,Everhood,March,2021,9.99,200000.0,500000.0,350000.0,"Chris Nordgren, Jordi Roca","Foreign Gnomes, Surefire.Games",3496500.0
+124,The Riftbreaker,October,2021,20.99,1000000.0,2000000.0,1500000.0,EXOR Studios,"EXOR Studios, Surefire.Games",31485000.0
+125,Yakuza: Like a Dragon,November,2020,59.99,200000.0,500000.0,350000.0,Ryu Ga Gotoku Studio,SEGA,20996500.0
+126,Orcs Must Die! 2,July,2012,14.99,2000000.0,5000000.0,3500000.0,Robot Entertainment,Robot Entertainment,52465000.0
+127,Pathfinder: Wrath of the Righteous,September,2021,49.99,1000000.0,2000000.0,1500000.0,Owlcat Games,"META Publishing, Owlcat Games",74985000.0
+128,Transistor,May,2014,19.99,1000000.0,2000000.0,1500000.0,Supergiant Games,Supergiant Games,29985000.0
+129,Deus Ex: Mankind Divided,August,2016,29.99,2000000.0,5000000.0,3500000.0,"Eidos Montreal, Feral Interactive (Linux), Feral Interactive (Mac)","Square Enix, Feral Interactive (Linux), Feral Interactive (Mac)",104965000.0
+130,FINAL FANTASY XIV Online,February,2014,19.99,2000000.0,5000000.0,3500000.0,Square Enix,Square Enix,69965000.0
+131,Grim Dawn,February,2016,24.99,5000000.0,10000000.0,7500000.0,Crate Entertainment,Crate Entertainment,187425000.0
+132,Terraria,May,2011,9.99,20000000.0,50000000.0,35000000.0,Re-Logic,Re-Logic,349650000.0
+137,Dragon Age: Origins Awakening,March,2010,9.99,100000.0,200000.0,150000.0,BioWare,Electronic Arts,1498500.0
+138,Avadon 2: The Corruption,October,2013,9.99,100000.0,200000.0,150000.0,Spiderweb Software,Spiderweb Software,1498500.0
+143,Age of Wonders Shadow Magic,October,2010,9.99,100000.0,200000.0,150000.0,Triumph Studios,Paradox Interactive,1498500.0
+144,King's Bounty: Armored Princess,November,2009,9.99,500000.0,1000000.0,750000.0,Katauri Interactive,Fulqrum Publishing,7492500.0
+145,Desktop Dungeons,November,2013,14.99,100000.0,200000.0,150000.0,QCF Design,QCF Design,2248500.0
+147,The Banner Saga 3,July,2018,24.99,100000.0,200000.0,150000.0,Stoic,Stoic Studio,3748500.0
+148,Dragon Age II: Ultimate Edition,June,2020,29.99,500000.0,1000000.0,750000.0,BioWare,Electronic Arts,22492500.0
+149,The Banner Saga 2,April,2016,24.99,200000.0,500000.0,350000.0,Stoic,Stoic Studio,8746500.0
+150,WildStar,June,2014,0.0,1000000.0,2000000.0,1500000.0,Carbine Studios,NCSOFT,0.0
+151,The Life and Suffering of Sir Brante,March,2021,19.99,100000.0,200000.0,150000.0,Sever,101XP,2998499.9999999995
+152,Fell Seal: Arbiter's Mark,April,2019,29.99,200000.0,500000.0,350000.0,6 Eyes Studio,Fulqrum Publishing,10496500.0
+153,Tainted Grail: Conquest,May,2021,19.99,100000.0,200000.0,150000.0,Awaken Realms Digital,Awaken Realms,2998499.9999999995
+154,Legend of Grimrock,April,2012,14.99,500000.0,1000000.0,750000.0,Almost Human Games,Almost Human Games,11242500.0
+155,Recettear: An Item Shop's Tale,September,2010,19.99,500000.0,1000000.0,750000.0,EasyGameStation,Carpe Fulgur LLC,14992499.999999998
+156,Pyre,July,2017,19.99,500000.0,1000000.0,750000.0,Supergiant Games,Supergiant Games,14992499.999999998
+157,Gloomhaven,October,2021,34.99,200000.0,500000.0,350000.0,Flaming Fowl Studios,Twin Sails Interactive,12246500.0
+158,Yakuza Kiwami 2,May,2019,19.99,200000.0,500000.0,350000.0,SEGA,SEGA,6996499.999999999
+159,Eastward,September,2021,24.99,200000.0,500000.0,350000.0,Pixpil,Chucklefish,8746500.0
+160,Monster Hunter Stories 2: Wings of Ruin,July,2021,29.99,1000000.0,2000000.0,1500000.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",44985000.0
+161,Children of Morta,September,2019,7.47,1000000.0,2000000.0,1500000.0,Dead Mage,11 bit studios,11205000.0
+162,ENDLESS Legend,September,2014,29.99,1000000.0,2000000.0,1500000.0,AMPLITUDE Studios,SEGA,44985000.0
+163,The Outer Worlds,October,2020,59.99,500000.0,1000000.0,750000.0,Obsidian Entertainment,Private Division,44992500.0
+164,S.T.A.L.K.E.R.: Shadow of Chernobyl,March,2007,19.99,1000000.0,2000000.0,1500000.0,GSC Game World,GSC Game World,29985000.0
+165,Realm of the Mad God Exalt,February,2012,0.0,2000000.0,5000000.0,3500000.0,"Wild Shadow Studios, Deca Games",Deca Games,0.0
+166,Crusader Kings II,February,2012,0.0,2000000.0,5000000.0,3500000.0,Paradox Development Studio,Paradox Interactive,0.0
+167,Lone Survivor: The Director's Cut,April,2012,14.99,200000.0,500000.0,350000.0,Jasper Byrne,Superflat Games,5246500.0
+168,Arcanum: Of Steamworks and Magick Obscura,August,2001,5.99,200000.0,500000.0,350000.0,Troika Games,Activision,2096500.0
+169,Disgaea 2 PC,January,2017,19.99,100000.0,200000.0,150000.0,"Nippon Ichi Software, Inc.","NIS America, Inc.",2998499.9999999995
+170,Jade Empire: Special Edition,February,2007,14.99,200000.0,500000.0,350000.0,BioWare,"BioWare, Electronic Arts",5246500.0
+171,Stygian: Reign of the Old Ones,September,2019,19.99,100000.0,200000.0,150000.0,Cultic Games,Fulqrum Publishing,2998499.9999999995
+172,Ashen,December,2019,11.99,100000.0,200000.0,150000.0,A44,Annapurna Interactive,1798500.0
+174,Trials of Fire,April,2021,19.99,100000.0,200000.0,150000.0,Whatboy Games,Whatboy Games,2998499.9999999995
+175,Divine Divinity,September,2002,5.99,500000.0,1000000.0,750000.0,Larian Studios,Larian Studios,4492500.0
+176,Paradise Killer,September,2020,9.99,200000.0,500000.0,350000.0,Kaizen Game Works,"Fellow Traveller, Leoful",3496500.0
+178,GRIME,August,2021,24.99,100000.0,200000.0,150000.0,Clover Bite,Akupara Games,3748500.0
+179,Torment: Tides of Numenera,February,2017,11.54,200000.0,500000.0,350000.0,inXile Entertainment,inXile Entertainment,4039000.0
+180,Death's Gambit: Afterlife,August,2018,19.99,200000.0,500000.0,350000.0,White Rabbit,Serenity Forge,6996499.999999999
+181,Shadowrun: Hong Kong - Extended Edition,August,2015,19.99,500000.0,1000000.0,750000.0,Harebrained Schemes,Paradox Interactive,14992499.999999998
+182,Suzerain,December,2020,7.49,500000.0,1000000.0,750000.0,Torpor Games,Fellow Traveller,5617500.0
+183,SteamWorld Heist,June,2016,2.99,500000.0,1000000.0,750000.0,Image & Form Games,Image & Form Games,2242500.0
+184,F.I.S.T.: Forged In Shadow Torch,October,2021,29.99,200000.0,500000.0,350000.0,TiGames,bilibili,10496500.0
+185,Emily is Away Too,May,2017,4.99,200000.0,500000.0,350000.0,Kyle Seeley,Kyle Seeley,1746500.0
+186,"Warhammer 40,000: Chaos Gate - Daemonhunters",May,2022,44.99,200000.0,500000.0,350000.0,Complex Games,Frontier Foundry,15746500.0
+187,Overlord,June,2007,4.99,500000.0,1000000.0,750000.0,Triumph Studios,"Codemasters, Electronic Arts",3742500.0
+188,Faeria,March,2017,19.99,500000.0,1000000.0,750000.0,Abrakam Entertainment SA,Versus Evil,14992499.999999998
+189,The Elder Scrolls V: Skyrim VR,April,2018,59.99,500000.0,1000000.0,750000.0,Bethesda Game Studios,Bethesda Softworks,44992500.0
+190,SUNLESS SEA,February,2015,18.99,1000000.0,2000000.0,1500000.0,Failbetter Games,Failbetter Games,28485000.0
+191,Ni no Kuni II: Revenant Kingdom,March,2018,59.99,500000.0,1000000.0,750000.0,Level-5,BANDAI NAMCO Entertainment,44992500.0
+192,Gothic 1,March,2001,9.99,500000.0,1000000.0,750000.0,Piranha Bytes,THQ Nordic,7492500.0
+193,Kingdoms of Amalur: Reckoning,July,1989,39.99,1000000.0,2000000.0,1500000.0,"Big Huge Games, 38 Studios","38 Studios, Electronic Arts",59985000.0
+194,Finding Paradise,December,2017,9.99,200000.0,500000.0,350000.0,Freebird Games,Freebird Games,3496500.0
+195,Dungeon Defenders,October,2011,14.99,2000000.0,5000000.0,3500000.0,Trendy Entertainment,Trendy Entertainment,52465000.0
+196,Dragon's Dogma: Dark Arisen,January,2016,4.79,1000000.0,2000000.0,1500000.0,Capcom,Capcom,7185000.0
+197,Borderlands Game of the Year,June,1983,29.99,2000000.0,5000000.0,3500000.0,Gearbox Software,2K,104965000.0
+198,To the Moon,September,2012,9.99,1000000.0,2000000.0,1500000.0,Freebird Games,Freebird Games,14985000.0
+199,Borderlands 3,March,2020,59.99,2000000.0,5000000.0,3500000.0,Gearbox Software,2K,209965000.0
+200,Starbound,July,2016,14.99,2000000.0,5000000.0,3500000.0,Chucklefish,Chucklefish,52465000.0
+209,SpellForce 2 - Anniversary Edition,October,2009,14.99,100000.0,200000.0,150000.0,"Phenomic, THQ Nordic",THQ Nordic,2248500.0
+210,Kingsway,July,2017,9.99,100000.0,200000.0,150000.0,Andrew Morrish,Adult Swim Games,1498500.0
+211,Dark Deity,June,2021,12.49,100000.0,200000.0,150000.0,Sword & Axe LLC,Freedom Games,1873500.0
+212,Dungeon Siege II,August,2005,6.99,500000.0,1000000.0,750000.0,Gas Powered Games,Square Enix,5242500.0
+213,SpellForce 3: Soul Harvest,May,2019,19.99,100000.0,200000.0,150000.0,Grimlore Games,THQ Nordic,2998499.9999999995
+214,Fallen Enchantress: Legendary Heroes,May,2013,24.99,200000.0,500000.0,350000.0,Stardock Entertainment,Stardock Entertainment,8746500.0
+216,Battle Chef Brigade Deluxe,November,2017,19.99,100000.0,200000.0,150000.0,Trinket Studios,Trinket Studios,2998499.9999999995
+218,Icewind Dale: Enhanced Edition,October,2014,19.99,200000.0,500000.0,350000.0,Beamdog,Beamdog,6996499.999999999
+219,The Legend of Heroes: Trails in the Sky SC,October,2015,29.99,100000.0,200000.0,150000.0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",4498500.0
+220,ATOM RPG Trudograd,September,2021,10.99,100000.0,200000.0,150000.0,AtomTeam,AtomTeam,1648500.0
+221,FATE,May,2005,7.99,200000.0,500000.0,350000.0,WildTangent,WildTangent,2796500.0
+222,Tales of Vesperia: Definitive Edition,January,2019,49.99,200000.0,500000.0,350000.0,"QLOC, BANDAI NAMCO Studios Inc.",BANDAI NAMCO Entertainment,17496500.0
+223,Expeditions: Rome,January,2022,29.69,200000.0,500000.0,350000.0,Logic Artists,THQ Nordic,10391500.0
+224,Rampage Knights,September,2015,11.99,200000.0,500000.0,350000.0,Rake in Grass,Rake in Grass,4196500.0
+225,ArcheAge,March,2015,0.0,1000000.0,2000000.0,1500000.0,XLGAMES,Kakao Games Europe B.V.,0.0
+226,Card Hunter,July,2015,0.0,1000000.0,2000000.0,1500000.0,The Knights of Unity,The Knights of Unity,0.0
+227,The Legend of Heroes: Trails of Cold Steel,August,2017,39.99,200000.0,500000.0,350000.0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",13996500.0
+228,Hand of Fate 2,November,2017,29.99,200000.0,500000.0,350000.0,Defiant Development,Defiant Development,10496500.0
+229,WORLD OF HORROR,February,2020,14.99,200000.0,500000.0,350000.0,panstasz,Ysbryd Games,5246500.0
+230,Monster Sanctuary,December,2020,19.99,200000.0,500000.0,350000.0,moi rai games,Team17,6996499.999999999
+231,Impostor Factory,September,2021,9.99,100000.0,200000.0,150000.0,Freebird Games,Freebird Games,1498500.0
+232,Ruined King: A League of Legends Story,November,2021,29.99,200000.0,500000.0,350000.0,Airship Syndicate,Riot Forge,10496500.0
+233,Age of Wonders III,March,2014,29.99,1000000.0,2000000.0,1500000.0,Triumph Studios,Paradox Interactive,44985000.0
+234,OCTOPATH TRAVELER,June,2019,29.99,500000.0,1000000.0,750000.0,"Square Enix, ACQUIRE Corp.",Square Enix,22492500.0
+235,Tyranny,November,2016,29.99,500000.0,1000000.0,750000.0,Obsidian Entertainment,Paradox Interactive,22492500.0
+236,The Banner Saga,January,2014,7.99,500000.0,1000000.0,750000.0,Stoic,Stoic Studio,5992500.0
+237,Yakuza Kiwami,February,2019,19.99,500000.0,1000000.0,750000.0,SEGA,SEGA,14992499.999999998
+238,Darkwood,August,2017,14.99,500000.0,1000000.0,750000.0,Acid Wizard Studio,Acid Wizard Studio,11242500.0
+239,Tales of Berseria,January,2017,49.99,500000.0,1000000.0,750000.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,37492500.0
+240,Battle Brothers,March,2017,14.99,500000.0,1000000.0,750000.0,Overhype Studios,Overhype Studios,11242500.0
+241,GWENT: The Witcher Card Game,May,2020,0.0,1000000.0,2000000.0,1500000.0,CD PROJEKT RED,CD PROJEKT RED,0.0
+242,S.T.A.L.K.E.R.: Call of Pripyat,February,2010,19.99,1000000.0,2000000.0,1500000.0,GSC Game World,GSC Game World,29985000.0
+243,BioShock Remastered,September,2016,4.99,1000000.0,2000000.0,1500000.0,"2K Boston, 2K Australia, Blind Squirrel, Feral Interactive (Mac)","2K, Feral Interactive (Mac)",7485000.0
+244,Elite Dangerous,April,2015,29.99,2000000.0,5000000.0,3500000.0,Frontier Developments,Frontier Developments,104965000.0
+245,The Elder Scrolls Online,May,2017,19.99,5000000.0,10000000.0,7500000.0,ZeniMax Online Studios,Bethesda Softworks,149925000.0
+247,Ragnarok Online,June,2003,0.0,500000.0,1000000.0,750000.0,Gravity Interactive,Gravity Interactive,0.0
+248,Fury Unleashed,May,2020,19.99,100000.0,200000.0,150000.0,Awesome Games Studio,Awesome Games Studio,2998499.9999999995
+249,Sang-Froid - Tales of Werewolves,April,2013,0.0,200000.0,500000.0,350000.0,Artifice Studio,Artifice Studio,0.0
+250,Shin Megami Tensei III Nocturne HD Remaster,May,2021,49.99,100000.0,200000.0,150000.0,ATLUS,SEGA,7498500.0
+251,The Incredible Adventures of Van Helsing: Final Cut,November,2015,4.49,500000.0,1000000.0,750000.0,NeocoreGames,NeocoreGames,3367500.0
+252,King's Bounty: The Legend,September,2008,6.99,200000.0,500000.0,350000.0,Fulqrum Publishing,Fulqrum Publishing,2446500.0
+253,Overlord II,June,2009,9.99,1000000.0,2000000.0,1500000.0,Triumph Studios,"Codemasters, Electronic Arts",14985000.0
+254,THE LONGING,March,2020,14.99,200000.0,500000.0,350000.0,Studio Seufz,Application Systems Heidelberg,5246500.0
+255,Dungeons of Dredmor,July,2011,4.99,200000.0,500000.0,350000.0,"Gaslamp Games, Inc.","Gaslamp Games, Inc.",1746500.0
+256,Cat Quest,August,2017,6.49,500000.0,1000000.0,750000.0,The Gentlebros,PQube,4867500.0
+257,Gothic II: Gold Edition,November,2005,9.99,500000.0,1000000.0,750000.0,Piranha Bytes,THQ Nordic,7492500.0
+258,State of Decay,November,2013,20.0,500000.0,1000000.0,750000.0,Undead Labs,Xbox Game Studios,15000000.0
+259,For The King,April,2018,19.99,1000000.0,2000000.0,1500000.0,IronOak Games,Curve Games,29985000.0
+260,DARK SOULS II: Scholar of the First Sin,April,2015,29.99,2000000.0,5000000.0,3500000.0,"FromSoftware, Inc","Bandai Namco Entertainment, FromSoftware, Inc",104965000.0
+261,PAYDAY 2,August,2013,4.99,20000000.0,50000000.0,35000000.0,OVERKILL - a Starbreeze Studio.,Starbreeze Publishing AB,174650000.0
+267,Else Heart.Break(),September,2015,24.99,200000.0,500000.0,350000.0,"Erik Svedäng, El Huervo / Niklas Åkerblad, Tobias Sjögren, Oscar ""Ratvader"" Rydelius, Johannes Gotlén",Erik Svedäng AB,8746500.0
+270,Tales of Monkey Island: Complete Season,July,2009,14.99,200000.0,500000.0,350000.0,Telltale,Telltale,5246500.0
+276,Etherlords II,February,2014,4.99,100000.0,200000.0,150000.0,Nival,Nival,748500.0
+277,Summoner,March,2001,4.99,100000.0,200000.0,150000.0,Volition,THQ Nordic,748500.0
+281,Werewolf: The Apocalypse — Heart of the Forest,October,2020,14.99,100000.0,200000.0,150000.0,Different Tales,"Walkabout, Different Tales",2248500.0
+284,King's Bounty: Crossworlds,September,2010,14.99,200000.0,500000.0,350000.0,Katauri Interactive,Fulqrum Publishing,5246500.0
+285,Wytchwood,December,2021,19.99,100000.0,200000.0,150000.0,Alientrap,"Whitethorn Games, WhisperGames",2998499.9999999995
+287,Sairento VR,February,2018,29.99,100000.0,200000.0,150000.0,"Mixed Realms Pte Ltd, Swag Soft Holdings Pte Ltd",Mixed Realms Pte Ltd,4498500.0
+288,The Adventure Pals,April,2018,14.99,200000.0,500000.0,350000.0,Massive Monster,Armor Games Studios,5246500.0
+289,The Count Lucanor,March,2016,9.99,100000.0,200000.0,150000.0,Baroque Decay,Neon Doctrine,1498500.0
+290,Plebby Quest: The Crusades,April,2020,19.99,200000.0,500000.0,350000.0,PiedPipers Team,NEOWIZ,6996499.999999999
+291,Indivisible,October,2019,39.99,100000.0,200000.0,150000.0,Lab Zero Games,505 Games,5998500.0
+292,Roguebook,June,2021,24.99,100000.0,200000.0,150000.0,Abrakam Entertainment SA,Nacon,3748500.0
+293,Everything,April,2017,14.99,100000.0,200000.0,150000.0,David OReilly,"David OReilly, PLAYISM (Japan)",2248500.0
+294,Apotheon,February,2015,14.99,200000.0,500000.0,350000.0,Alientrap,Alientrap,5246500.0
+295,Dungeon Fighter Online,August,2016,0.0,500000.0,1000000.0,750000.0,Neople,Neople,0.0
+296,Cthulhu Saves the World,July,2011,2.99,1000000.0,2000000.0,1500000.0,Zeboyd Games,Zeboyd Games,4485000.0
+297,Crashlands,January,2016,14.99,100000.0,200000.0,150000.0,Butterscotch Shenanigans,Butterscotch Shenanigans,2248500.0
+298,Fallout 4 VR,December,2017,59.99,500000.0,1000000.0,750000.0,Bethesda Game Studios,Bethesda Softworks,44992500.0
+299,Wuppo: Definitive Edition,September,2016,14.99,100000.0,200000.0,150000.0,Knuist & Perzik,SOEDESCO,2248500.0
+300,Iratus: Lord of the Dead,April,2020,29.99,200000.0,500000.0,350000.0,Unfrozen,Daedalic Entertainment,10496500.0
+301,Battle Chasers: Nightwar,October,2017,7.49,200000.0,500000.0,350000.0,Airship Syndicate,THQ Nordic,2621500.0
+303,Pit People,March,2018,19.99,200000.0,500000.0,350000.0,The Behemoth,The Behemoth,6996499.999999999
+304,Hand of Fate,February,2015,19.99,500000.0,1000000.0,750000.0,Defiant Development,Defiant Development,14992499.999999998
+305,SCARLET NEXUS,June,2021,17.99,500000.0,1000000.0,750000.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,13492499.999999998
+306,Baldur's Gate: Enhanced Edition,January,2013,19.99,1000000.0,2000000.0,1500000.0,Beamdog,Beamdog,29985000.0
+307,Mutant Year Zero: Road to Eden,December,2018,34.99,500000.0,1000000.0,750000.0,The Bearded Ladies,Funcom,26242500.0
+308,Remnant: From the Ashes,August,2019,15.99,2000000.0,5000000.0,3500000.0,Gunfire Games,Perfect World Entertainment,55965000.0
+309,Mount & Blade: Warband,March,2010,19.99,2000000.0,5000000.0,3500000.0,TaleWorlds Entertainment,TaleWorlds Entertainment,69965000.0
+310,Cosmic Star Heroine,April,2017,14.99,100000.0,200000.0,150000.0,Zeboyd Games,Zeboyd Games,2248500.0
+311,DeathSpank,October,2010,14.99,100000.0,200000.0,150000.0,Hothead Games,Electronic Arts,2248500.0
+312,SpellForce 3: Fallen God,November,2020,19.99,100000.0,200000.0,150000.0,Grimlore Games,THQ Nordic,2998499.9999999995
+314,Expeditions: Conquistador,May,2013,19.99,100000.0,200000.0,150000.0,Logic Artists,THQ Nordic,2998499.9999999995
+315,Arx Fatalis,November,2002,4.99,200000.0,500000.0,350000.0,Arkane Studios,Arkane Studios,1746500.0
+316,The Incredible Adventures of Van Helsing II,May,2014,1.49,200000.0,500000.0,350000.0,NeocoreGames,NeocoreGames,521500.0
+317,Deathtrap,February,2015,1.99,200000.0,500000.0,350000.0,NeocoreGames,NeocoreGames,696500.0
+318,Shadows: Awakening,August,2018,29.99,100000.0,200000.0,150000.0,Games Farm,Kalypso Media,4498500.0
+320,Star Renegades,September,2020,24.99,200000.0,500000.0,350000.0,"Massive Damage, Inc.",Raw Fury,8746500.0
+321,Eldritch,October,2013,14.99,200000.0,500000.0,350000.0,Minor Key Games,Minor Key Games,5246500.0
+322,Might & Magic: Heroes VI,October,2011,19.99,500000.0,1000000.0,750000.0,Blackhole,Ubisoft,14992499.999999998
+323,NEO Scavenger,December,2014,14.99,500000.0,1000000.0,750000.0,Blue Bottle Games,Blue Bottle Games,11242500.0
+324,TERA - Action MMORPG,January,2017,0.0,1000000.0,2000000.0,1500000.0,"Bluehole, Inc.",Gameforge 4D GmbH,0.0
+325,Reigns,August,2016,2.99,500000.0,1000000.0,750000.0,Nerial,Devolver Digital,2242500.0
+326,Risen,October,2009,9.99,500000.0,1000000.0,750000.0,Piranha Bytes,THQ Nordic,7492500.0
+327,Tales of Zestiria,October,2015,49.99,500000.0,1000000.0,750000.0,BANDAI NAMCO Studio Inc.,BANDAI NAMCO Entertainment,37492500.0
+328,Child of Light,April,2014,14.99,500000.0,1000000.0,750000.0,Ubisoft Montréal,Ubisoft,11242500.0
+329,LISA: The Painful,December,2014,9.99,200000.0,500000.0,350000.0,Dingaling,"Dingaling Productions, LLC",3496500.0
+330,Risk of Rain,November,2013,9.99,1000000.0,2000000.0,1500000.0,Hopoo Games,Chucklefish,14985000.0
+347,Ys VI: The Ark of Napishtim,April,2015,19.99,100000.0,200000.0,150000.0,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",2998499.9999999995
+349,Overture,January,2015,4.99,200000.0,500000.0,350000.0,Black Shell Games,Plug In Digital,1746500.0
+351,Avernum: Escape From the Pit,April,2012,9.99,100000.0,200000.0,150000.0,Spiderweb Software,Spiderweb Software,1498500.0
+352,Fight The Dragon,December,2014,9.99,100000.0,200000.0,150000.0,3 Sprockets,3 Sprockets,1498500.0
+353,Driftland: The Magic Revival,April,2019,19.99,100000.0,200000.0,150000.0,Star Drifters,Star Drifters,2998499.9999999995
+354,Aegis Defenders,February,2018,19.99,200000.0,500000.0,350000.0,GUTS Department,Humble Games,6996499.999999999
+356,Weird West,March,2022,39.99,100000.0,200000.0,150000.0,WolfEye Studios,Devolver Digital,5998500.0
+357,Neo Cab,October,2019,2.99,200000.0,500000.0,350000.0,Chance Agency,Fellow Traveller,1046500.0
+358,Mercenary Kings: Reloaded Edition,March,2014,19.99,200000.0,500000.0,350000.0,Tribute Games Inc.,Tribute Games Inc.,6996499.999999999
+359,Might & Magic: Clash of Heroes,September,2011,9.99,200000.0,500000.0,350000.0,Capybara Games,Ubisoft,3496500.0
+360,Sable,September,2021,9.99,100000.0,200000.0,150000.0,Shedworks,Raw Fury,1498500.0
+361,Curious Expedition 2,January,2021,9.99,200000.0,500000.0,350000.0,Maschinen-Mensch,Thunderful Publishing,3496500.0
+362,Pathologic Classic HD,October,2015,12.99,100000.0,200000.0,150000.0,"Ice-Pick Lodge, General Arcade",Good Shepherd Entertainment,1948500.0
+363,Ys Origin,May,2012,19.99,200000.0,500000.0,350000.0,Nihon Falcom,XSEED Games,6996499.999999999
+364,Cat Quest II,September,2019,4.49,100000.0,200000.0,150000.0,The Gentlebros,PQube,673500.0
+365,Dig or Die,July,2018,11.99,200000.0,500000.0,350000.0,Gaddy Games,Gaddy Games,4196500.0
+366,The Surge 2,September,2019,29.99,500000.0,1000000.0,750000.0,Deck13,Focus Entertainment,22492500.0
+367,Vindictus,June,2012,0.0,1000000.0,2000000.0,1500000.0,devCAT,NEXON Korea Corp. & NEXON America Inc.,0.0
+368,The Ship: Murder Party,July,2006,9.99,1000000.0,2000000.0,1500000.0,Outerlight Ltd.,Blazing Griffin,14985000.0
+369,Secret World Legends,July,2017,0.0,1000000.0,2000000.0,1500000.0,Funcom,Funcom,0.0
+370,WAKFU,September,2014,0.0,1000000.0,2000000.0,1500000.0,Ankama Studio,Ankama Games,0.0
+371,Shadowrun Returns,July,2013,9.99,1000000.0,2000000.0,1500000.0,Harebrained Schemes,Paradox Interactive,14985000.0
+372,Kingdom Come: Deliverance,February,2018,29.99,2000000.0,5000000.0,3500000.0,Warhorse Studios,"Warhorse Studios, Prime Matter",104965000.0
+374,Dreamfall: The Longest Journey,April,2006,19.99,200000.0,500000.0,350000.0,Funcom,Funcom,6996499.999999999
+376,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,September,2012,9.99,200000.0,500000.0,350000.0,Opus,Marvelous,3496500.0
+378,Rebuild 3: Gangs of Deadsville,May,2015,5.99,200000.0,500000.0,350000.0,"Northway Games, Sarah Northway",Northway Games,2096500.0
+379,Captain Tsubasa: Rise of New Champions,September,2020,59.99,100000.0,200000.0,150000.0,TAMSOFT CORPORATION,BANDAI NAMCO Entertainment,8998500.0
+380,Vigil: The Longest Night,October,2020,21.99,100000.0,200000.0,150000.0,Glass Heart Games,Neon Doctrine,3298499.9999999995
+381,Ziggurat,October,2014,14.99,200000.0,500000.0,350000.0,Milkstone Studios,Milkstone Studios,5246500.0
+382,Chroma Squad,April,2015,14.99,100000.0,200000.0,150000.0,Behold Studios,Behold Studios,2248500.0
+383,Black Book,August,2021,24.99,100000.0,200000.0,150000.0,Morteshka,HypeTrain Digital,3748500.0
+384,Ghost of a Tale,March,2018,24.99,200000.0,500000.0,350000.0,SeithCG,SeithCG,8746500.0
+385,Two Worlds II HD,February,2011,19.99,500000.0,1000000.0,750000.0,Reality Pump Studios,"Topware Interactive, ACE",14992499.999999998
+386,Victor Vran ARPG,July,2015,4.99,500000.0,1000000.0,750000.0,Haemimont Games,"Haemimont Games, EuroVideo Medien",3742500.0
+387,Atelier Ryza: Ever Darkness & the Secret Hideout,October,2019,29.99,200000.0,500000.0,350000.0,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",10496500.0
+388,Chernobylite,July,2021,29.99,500000.0,1000000.0,750000.0,The Farm 51,The Farm 51,22492500.0
+389,Tropico 5,May,2014,19.99,500000.0,1000000.0,750000.0,Haemimont Games,Kalypso Media Digital,14992499.999999998
+390,Armello,September,2015,19.99,1000000.0,2000000.0,1500000.0,League of Geeks,League of Geeks,29985000.0
+391,S.T.A.L.K.E.R.: Clear Sky,September,2008,9.99,1000000.0,2000000.0,1500000.0,GSC Game World,GSC World Publishing,14985000.0
+392,Borderlands: The Pre-Sequel,October,2014,39.99,2000000.0,5000000.0,3500000.0,"2K Australia, Gearbox Software, Aspyr (Linux)","2K, Aspyr (Linux)",139965000.0
+393,Kenshi,December,2018,29.99,1000000.0,2000000.0,1500000.0,Lo-Fi Games,Lo-Fi Games,44985000.0
+401,Avadon: The Black Fortress,August,2011,4.99,200000.0,500000.0,350000.0,Spiderweb Software,Spiderweb Software,1746500.0
+402,Drakensang,February,2009,9.99,100000.0,200000.0,150000.0,Radon Labs,DTP Entertainment,1498500.0
+405,Patrician III,November,2010,4.99,100000.0,200000.0,150000.0,Ascaron Entertainment ltd.,Kalypso Media Digital,748500.0
+407,Ring Runner: Flight of the Sages,July,2013,4.99,100000.0,200000.0,150000.0,Triple.B.Titles,Triple.B.Titles,748500.0
+413,AirBuccaneers,January,1986,0.0,100000.0,200000.0,150000.0,LudoCraft Ltd.,LudoCraft Ltd.,0.0
+415,Vampire: The Masquerade - Redemption,June,2000,5.99,100000.0,200000.0,150000.0,Nihilistic Software,Activision,898500.0
+416,"Warhammer 40,000: Deathwatch - Enhanced Edition",October,2015,14.99,100000.0,200000.0,150000.0,Rodeo Games,Rodeo Games,2248500.0
+419,Nantucket,January,2018,17.99,100000.0,200000.0,150000.0,Picaresque Studio,Fish Eagle,2698499.9999999995
+422,Neon Chrome,April,2016,14.99,200000.0,500000.0,350000.0,10tons Ltd,10tons Ltd,5246500.0
+423,Dead In Vinland,April,2018,19.99,100000.0,200000.0,150000.0,Ishtar Games,Dear Villagers,2998499.9999999995
+424,King's Bounty: Warriors of the North,October,2012,9.99,200000.0,500000.0,350000.0,Fulqrum Publishing,Fulqrum Publishing,3496500.0
+425,The Swords of Ditto: Mormo's Curse,April,2018,4.94,100000.0,200000.0,150000.0,onebitbeyond,Devolver Digital,741000.0000000001
+426,Oceanhorn: Monster of Uncharted Seas,March,2015,14.99,200000.0,500000.0,350000.0,Cornfox & Brothers Ltd.,Cornfox & Brothers Ltd.,5246500.0
+427,SpellForce - Platinum Edition,November,2009,9.99,200000.0,500000.0,350000.0,Phenomic,THQ Nordic,3496500.0
+428,The Red Solstice,July,2015,9.99,1000000.0,2000000.0,1500000.0,Ironward,Ironward,14985000.0
+429,Eador. Masters of the Broken World,April,2013,19.99,1000000.0,2000000.0,1500000.0,Snowbird Games,Snowbird Games,29985000.0
+430,Bladed fury,December,2018,9.99,100000.0,200000.0,150000.0,NEXT Studios,NEXT Studios,1498500.0
+431,Space Pirates and Zombies,August,2011,9.99,500000.0,1000000.0,750000.0,MinMax Games Ltd.,MinMax Games Ltd.,7492500.0
+432,Dungeon Defenders: Awakened,May,2020,29.99,100000.0,200000.0,150000.0,Chromatic Games,Chromatic Games,4498500.0
+433,Sacred Gold,August,2006,9.99,200000.0,500000.0,350000.0,Studio II,THQ Nordic,3496500.0
+434,Expeditions: Viking,April,2017,29.99,200000.0,500000.0,350000.0,Logic Artists,THQ Nordic,10496500.0
+435,Phoenix Point,December,2020,24.99,200000.0,500000.0,350000.0,Snapshot Games Inc.,Snapshot Games Inc.,8746500.0
+436,Curious Expedition,September,2016,2.99,500000.0,1000000.0,750000.0,Maschinen-Mensch,Maschinen-Mensch,2242500.0
+437,Disgaea PC,February,2016,19.99,200000.0,500000.0,350000.0,"Nippon Ichi Software, Inc.","NIS America, Inc.",6996499.999999999
+438,Mordheim: City of the Damned,November,2015,1.99,500000.0,1000000.0,750000.0,Rogue Factor,Nacon,1492500.0
+439,Stories: The Path of Destinies,April,2016,3.74,2000000.0,5000000.0,3500000.0,Spearhead Games,Spearhead Games,13090000.0
+440,Magicka,January,2011,9.99,2000000.0,5000000.0,3500000.0,Arrowhead Game Studios,Paradox Interactive,34965000.0
+441,Neverwinter,December,2013,0.0,2000000.0,5000000.0,3500000.0,Cryptic Studios,Gearbox Publishing,0.0
+442,The Elder Scrolls V: Skyrim Special Edition,October,2016,39.99,5000000.0,10000000.0,7500000.0,Bethesda Game Studios,Bethesda Softworks,299925000.0
+445,Sherlock Holmes versus Jack the Ripper,December,2009,9.99,100000.0,200000.0,150000.0,Frogwares,Frogwares,1498500.0
+446,Tesla vs Lovecraft,January,2018,14.99,100000.0,200000.0,150000.0,10tons Ltd,10tons Ltd,2248500.0
+447,King's Bounty: Dark Side,August,2014,12.99,200000.0,500000.0,350000.0,Fulqrum Publishing,Fulqrum Publishing,4546500.0
+448,Ys: The Oath in Felghana,March,2012,14.99,100000.0,200000.0,150000.0,Nihon Falcom,XSEED Games,2248500.0
+450,WWII Online,June,2001,0.0,500000.0,1000000.0,750000.0,Cornered Rat Software,"Playnet, Inc.",0.0
+452,Always Sometimes Monsters,May,2014,9.99,200000.0,500000.0,350000.0,Vagabond Dog,Vagabond Dog,3496500.0
+453,Timespinner,September,2018,19.99,100000.0,200000.0,150000.0,Lunar Ray Games,Chucklefish,2998499.9999999995
+454,Coromon,March,2022,13.99,100000.0,200000.0,150000.0,TRAGsoft,Freedom Games,2098500.0
+455,Killsquad,July,2019,29.99,200000.0,500000.0,350000.0,Novarama,Novarama,10496500.0
+456,Starpoint Gemini Warlords,May,2017,34.99,200000.0,500000.0,350000.0,Little Green Men Games,Little Green Men Games,12246500.0
+457,Phantom Doctrine,August,2018,3.99,200000.0,500000.0,350000.0,CreativeForge Games,Good Shepherd Entertainment,1396500.0
+458,Thea: The Awakening,November,2015,19.99,200000.0,500000.0,350000.0,MuHa Games,MuHa Games,6996499.999999999
+459,Haven,December,2020,14.99,100000.0,200000.0,150000.0,The Game Bakers,The Game Bakers,2248500.0
+460,Hard West,November,2015,19.99,200000.0,500000.0,350000.0,CreativeForge Games,Good Shepherd Entertainment,6996499.999999999
+461,Punch Club,January,2016,9.99,500000.0,1000000.0,750000.0,Lazy Bear Games,tinyBuild,7492500.0
+462,Cloudpunk,April,2020,19.99,500000.0,1000000.0,750000.0,ION LANDS,"ION LANDS, Maple Whispering Limited",14992499.999999998
+463,Lords Of The Fallen 2014,October,2014,29.99,500000.0,1000000.0,750000.0,"CI Games, Deck 13",CI Games,22492500.0
+464,Pathfinder: Kingmaker - Enhanced Plus Edition,September,2018,19.99,1000000.0,2000000.0,1500000.0,Owlcat Games,Prime Matter,29985000.0
+465,Medieval Dynasty,September,2021,34.99,500000.0,1000000.0,750000.0,Render Cube,Toplitz Productions,26242500.0
+466,DRAGON BALL Z: KAKAROT,January,2020,59.99,500000.0,1000000.0,750000.0,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,44992500.0
+467,My Time At Portia,January,2019,29.99,1000000.0,2000000.0,1500000.0,Pathea Games,Team17,44985000.0
+468,Black Desert,May,2017,0.99,5000000.0,10000000.0,7500000.0,Pearl Abyss,Pearl Abyss,7425000.0
+471,Beyond Divinity,April,2004,5.99,200000.0,500000.0,350000.0,Larian Studios,Larian Studios,2096500.0
+476,Dungeons - The Dark Lord,September,2011,9.99,100000.0,200000.0,150000.0,Realmforge Studios,Kalypso Media Digital,1498500.0
+480,Anarchy Online,June,2001,0.0,100000.0,200000.0,150000.0,Funcom,Funcom,0.0
+484,Gamedec,September,2021,29.99,100000.0,200000.0,150000.0,Anshar Studios,Anshar Publishing,4498500.0
+485,Convoy,April,2015,14.99,200000.0,500000.0,350000.0,Convoy Games,Indietopia Games,5246500.0
+486,Chasm,July,2018,9.99,100000.0,200000.0,150000.0,"Bit Kid, Inc.","Bit Kid, Inc.",1498500.0
+487,Dungeon Siege III,June,2011,14.99,200000.0,500000.0,350000.0,Obsidian Entertainment,Square Enix,5246500.0
+489,Guild of Dungeoneering Ultimate Edition,July,2015,19.99,200000.0,500000.0,350000.0,Gambrinous,Gambrinous,6996499.999999999
+490,Champions Online,September,2009,0.0,1000000.0,2000000.0,1500000.0,Cryptic Studios,Perfect World Entertainment,0.0
+491,Alpha Protocol,June,2010,11.97,200000.0,500000.0,350000.0,Obsidian Entertainment,SEGA,4189500.0
+492,UnderRail,December,2015,14.99,200000.0,500000.0,350000.0,Stygian Software,Stygian Software,5246500.0
+493,The Dungeon Of Naheulbeuk: The Amulet Of Chaos,September,2020,34.99,500000.0,1000000.0,750000.0,Artefacts Studio,"Dear Villagers, E-Home Entertainment",26242500.0
+494,Mount & Blade,September,2008,9.99,500000.0,1000000.0,750000.0,TaleWorlds Entertainment,TaleWorlds Entertainment,7492500.0
+495,Hammerwatch,August,2013,9.99,500000.0,1000000.0,750000.0,Crackshell,Crackshell,7492500.0
+496,The Surge,May,2017,14.99,500000.0,1000000.0,750000.0,Deck13,Focus Entertainment,11242500.0
+497,The Incredible Adventures of Van Helsing,May,2013,1.49,500000.0,1000000.0,750000.0,NeocoreGames,NeocoreGames,1117500.0
+498,Dark Messiah of Might & Magic,October,2006,9.99,1000000.0,2000000.0,1500000.0,Arkane Studios,Ubisoft,14985000.0
+499,Mass Effect: Andromeda Deluxe Edition,March,2017,29.99,1000000.0,2000000.0,1500000.0,BioWare,Electronic Arts,44985000.0
+500,Book of Demons,December,2018,6.24,500000.0,1000000.0,750000.0,Thing Trunk,Thing Trunk,4680000.0
+501,Hyperdimension Neptunia Re;Birth1,January,2015,14.99,200000.0,500000.0,350000.0,"IDEA FACTORY Co., Ltd., COMPILE HEART Co., Ltd., FELISTELLA Co., Ltd.","Idea Factory International, Inc., IDEA FACTORY Co., Ltd.",5246500.0
+502,GreedFall,September,2019,34.99,500000.0,1000000.0,750000.0,Spiders,Focus Entertainment,26242500.0
+503,Vampyr,June,2018,39.99,500000.0,1000000.0,750000.0,DONTNOD Entertainment,Focus Entertainment,29992500.0
+504,DC Universe Online,November,2011,0.0,2000000.0,5000000.0,3500000.0,Dimensional Ink Games,Daybreak Game Company,0.0
+505,Portal Knights,May,2017,19.99,1000000.0,2000000.0,1500000.0,Keen Games,505 Games,29985000.0
+506,Unheard,March,2019,6.99,1000000.0,2000000.0,1500000.0,NEXT Studios,"NEXT Studios, bilibili",10485000.0
+507,CODE VEIN,September,2019,59.99,1000000.0,2000000.0,1500000.0,Bandai Namco Studios,Bandai Namco Entertainment,89985000.0
+508,Albion Online,July,2017,0.0,2000000.0,5000000.0,3500000.0,Sandbox Interactive GmbH,Sandbox Interactive GmbH,0.0
+509,Bionic Dues,October,2013,9.99,200000.0,500000.0,350000.0,"Arcen Games, LLC","Arcen Games, LLC",3496500.0
+510,Runes of Magic,March,2009,0.0,200000.0,500000.0,350000.0,Runewaker Entertainment,Gameforge 4D GmbH‬,0.0
+511,You Must Build A Boat,June,2015,4.99,200000.0,500000.0,350000.0,EightyEightGames,EightyEightGames,1746500.0
+514,Halcyon 6: Starbase Commander,September,2016,14.99,100000.0,200000.0,150000.0,"Massive Damage, Inc.","Massive Damage, Inc.",2248500.0
+515,The Sinking City,February,2021,39.99,100000.0,200000.0,150000.0,Frogwares,Nacon,5998500.0
+516,Legends of Eisenwald,July,2015,19.99,100000.0,200000.0,150000.0,Aterdux Entertainment,Aterdux Entertainment,2998499.9999999995
+517,Not Tonight,August,2018,19.99,100000.0,200000.0,150000.0,PanicBarn,No More Robots,2998499.9999999995
+518,Fallen Earth Free2Play,October,2011,0.0,1000000.0,2000000.0,1500000.0,Little Orbit,Little Orbit,0.0
+519,Enclave,March,2003,4.99,1000000.0,2000000.0,1500000.0,Starbreeze,Topware Interactive,7485000.0
+520,SD GUNDAM G GENERATION CROSS RAYS,November,2019,59.99,500000.0,1000000.0,750000.0,"TOM CREATE, 株式会社トムクリエイト","BANDAI NAMCO Entertainment, 株式会社バンダイナムコエンターテインメント",44992500.0
+521,Cultist Simulator,May,2018,19.99,500000.0,1000000.0,750000.0,Weather Factory,Weather Factory,14992499.999999998
+527,Gyromancer,November,2009,2.99,100000.0,200000.0,150000.0,"Square Enix, PopCap Games, Inc.",Square Enix,448500.00000000006
+530,Sherlock Holmes - Nemesis,April,2008,9.99,100000.0,200000.0,150000.0,Frogwares,Frogwares,1498500.0
+532,9 Monkeys of Shaolin,October,2020,19.99,100000.0,200000.0,150000.0,Sobaka Studio,ESDigital Games,2998499.9999999995
+535,Soulbringer,June,2000,0.74,100000.0,200000.0,150000.0,Infogames Europe SA,Funbox Media Ltd,111000.0
+538,Sengoku,September,2011,9.99,100000.0,200000.0,150000.0,Paradox Development Studio,Paradox Interactive,1498500.0
+539,Immortal Realms: Vampire Wars,August,2020,29.99,200000.0,500000.0,350000.0,Palindrome Interactive,Kalypso Media,10496500.0
+543,Vertical Drop Heroes HD,July,2014,6.99,100000.0,200000.0,150000.0,Nerdook Productions,Digerati,1048500.0
+544,Garden Story,August,2021,19.99,100000.0,200000.0,150000.0,Picogram,Rose City Games,2998499.9999999995
+545,Ember,September,2016,9.99,100000.0,200000.0,150000.0,N-Fusion Interactive,505 Games,1498500.0
+546,The Bard's Tale ARPG: Remastered and Resnarkled,June,2005,6.59,200000.0,500000.0,350000.0,inXile Entertainment,inXile Entertainment,2306500.0
+547,HELLGATE: London,November,2018,12.99,100000.0,200000.0,150000.0,T3Entertainment,HanbitSoft Inc.,1948500.0
+548,Before the Echo,October,2011,4.99,100000.0,200000.0,150000.0,Iridium Studios,Daybreak Game Company,748500.0
+551,Dead State: Reanimated,December,2014,19.99,100000.0,200000.0,150000.0,DoubleBear Productions,DoubleBear Productions,2998499.9999999995
+552,Might & Magic X - Legacy,January,2014,29.99,200000.0,500000.0,350000.0,Ubisoft,Ubisoft,10496500.0
+553,Starpoint Gemini 2,September,2014,34.99,500000.0,1000000.0,750000.0,Little Green Men Games,Little Green Men Games,26242500.0
+554,Dungeons 2,April,2015,19.99,1000000.0,2000000.0,1500000.0,Realmforge Studios,Kalypso Media Digital,29985000.0
+555,ATOM RPG: Post-apocalyptic indie game,December,2018,14.99,500000.0,1000000.0,750000.0,AtomTeam,AtomTeam,11242500.0
+556,Maneater,May,2021,39.99,200000.0,500000.0,350000.0,Tripwire Interactive,Tripwire Interactive,13996500.0
+557,Darksiders III,November,2018,14.99,1000000.0,2000000.0,1500000.0,Gunfire Games,THQ Nordic,22485000.0
+558,New World,September,2021,39.99,50000000.0,100000000.0,75000000.0,Amazon Games,Amazon Games,2999250000.0
+559,ARK: Survival Evolved,August,2017,19.99,10000000.0,20000000.0,15000000.0,"Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",Studio Wildcard,299850000.0
+561,Allods Online RU,October,2009,0.0,200000.0,500000.0,350000.0,IT Territory,MY.GAMES,0.0
+562,Of Orcs And Men,October,2012,1.49,200000.0,500000.0,350000.0,"Cyanide Studio, Spiders","Cyanide Studio, Nacon",521500.0
+564,Lichdom: Battlemage,August,2014,9.99,200000.0,500000.0,350000.0,Xaviant,Xaviant Games,3496500.0
+565,FINAL FANTASY TYPE-0 HD,August,2015,11.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,4196500.0
+566,.hack//G.U. Last Recode,November,2017,49.99,100000.0,200000.0,150000.0,CyberConnect2,Bandai Namco Entertainment,7498500.0
+567,Warhammer: Chaosbane,May,2019,5.99,500000.0,1000000.0,750000.0,Eko Software,Nacon,4492500.0
+568,Ys VIII: Lacrimosa of DANA,April,2018,59.99,100000.0,200000.0,150000.0,Nihon Falcom,"NIS America, Inc.",8998500.0
+569,Risen 2: Dark Waters,April,2012,9.99,1000000.0,2000000.0,1500000.0,Piranha Bytes,THQ Nordic,14985000.0
+570,How to Survive 2,September,2016,14.99,500000.0,1000000.0,750000.0,Eko Software,505 Games,11242500.0
+571,Graveyard Keeper,August,2018,19.99,1000000.0,2000000.0,1500000.0,Lazy Bear Games,tinyBuild,29985000.0
+572,State of Decay 2: Juggernaut Edition,March,2020,14.99,1000000.0,2000000.0,1500000.0,Undead Labs,Xbox Game Studios,22485000.0
+573,Warframe,March,2013,0.0,20000000.0,50000000.0,35000000.0,Digital Extremes,Digital Extremes,0.0
+574,Rust,February,2018,39.99,20000000.0,50000000.0,35000000.0,Facepunch Studios,Facepunch Studios,1399650000.0
+582,Allods Online,October,2009,0.0,100000.0,200000.0,150000.0,IT Territory,MY.GAMES,0.0
+583,Sorcery! Parts 1 and 2,February,2016,12.99,100000.0,200000.0,150000.0,inkle Ltd,inkle Ltd,1948500.0
+584,Diaries of a Spaceport Janitor,September,2016,9.99,100000.0,200000.0,150000.0,Sundae Month,tinyBuild,1498500.0
+601,Rollers of the Realm,November,2014,9.99,100000.0,200000.0,150000.0,Phantom Compass,Phantom Compass,1498500.0
+602,Costume Quest 2,October,2014,14.99,100000.0,200000.0,150000.0,Double Fine Productions,"Midnight City , Majesco Entertainment",2248500.0
+604,WASTED,June,2016,12.99,100000.0,200000.0,150000.0,Mr. Podunkian,Adult Swim Games,1948500.0
+605,The Long Journey Home,May,2017,9.99,100000.0,200000.0,150000.0,Daedalic Studio West,Daedalic Entertainment,1498500.0
+606,Pathway,April,2019,15.99,200000.0,500000.0,350000.0,Robotality,Chucklefish,5596500.0
+607,Blackguards,January,2014,9.99,500000.0,1000000.0,750000.0,Daedalic Entertainment,Daedalic Entertainment,7492500.0
+608,60 Parsecs!,September,2018,9.99,200000.0,500000.0,350000.0,Robot Gentleman,Robot Gentleman,3496500.0
+609,Final Fantasy III (3D Remake),May,2014,7.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,2796500.0
+610,Crimsonland,June,2014,13.99,100000.0,200000.0,150000.0,10tons Ltd,10tons Ltd,2098500.0
+611,Space Rangers HD: A War Apart,October,2013,14.99,200000.0,500000.0,350000.0,"SNK Games, Elemental Games, Katauri Interactive",Fulqrum Publishing,5246500.0
+612,UnEpic,July,2014,12.99,500000.0,1000000.0,750000.0,@unepic_fran,@unepic_fran,9742500.0
+613,Mount & Blade: With Fire & Sword,May,2011,9.99,1000000.0,2000000.0,1500000.0,TaleWorlds Entertainment,TaleWorlds Entertainment,14985000.0
+615,Genesis Alpha One Deluxe Edition,February,2020,19.99,100000.0,200000.0,150000.0,Radiation Blue,Team17 Digital Ltd,2998499.9999999995
+617,Dungeon Souls,December,2016,12.99,200000.0,500000.0,350000.0,"Lamina Studios, Mike Studios",Plug In Digital,4546500.0
+618,"10,000,000",January,2013,4.99,100000.0,200000.0,150000.0,EightyEightGames,EightyEightGames,748500.0
+619,The Guild 3,June,2022,29.99,100000.0,200000.0,150000.0,"Purple Lamp, GolemLabs",THQ Nordic,4498500.0
+620,The Council,March,2018,0.0,200000.0,500000.0,350000.0,Big Bad Wolf,Focus Entertainment,0.0
+621,Long Live The Queen,November,2013,9.99,200000.0,500000.0,350000.0,Hanako Games,Hanako Games,3496500.0
+622,"Warhammer 40,000: Inquisitor - Martyr",June,2018,9.99,1000000.0,2000000.0,1500000.0,NeocoreGames,NeocoreGames,14985000.0
+623,ELEX,October,2017,29.99,500000.0,1000000.0,750000.0,Piranha Bytes,THQ Nordic,22492500.0
+636,The Banner Saga: Factions,February,2013,0.0,200000.0,500000.0,350000.0,Stoic,Versus Evil,0.0
+643,Hot Tin Roof: The Cat That Wore A Fedora,February,2015,1.49,100000.0,200000.0,150000.0,Glass Bottom Games,Glass Bottom Games,223500.0
+648,King Arthur II: The Role-Playing Wargame,January,2012,9.99,100000.0,200000.0,150000.0,NeocoreGames,Paradox Interactive,1498500.0
+649,Citizens of Earth,January,2015,14.99,100000.0,200000.0,150000.0,Eden Industries,SEGA,2248500.0
+650,Diluvion: Resubmerged,February,2017,19.99,100000.0,200000.0,150000.0,Arachnid Games,Good Shepherd Entertainment,2998499.9999999995
+653,Fairy Fencer F,August,2015,9.99,200000.0,500000.0,350000.0,"Idea Factory, Compile Heart",Idea Factory International,3496500.0
+654,The Last Remnant,April,2009,12.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,9742500.0
+655,Lord of the Rings: War in the North,November,2011,78.0,1000000.0,2000000.0,1500000.0,Snowblind Studios,Warner Bros. Interactive Entertainment,117000000.0
+656,A Bird Story,November,2014,3.99,200000.0,500000.0,350000.0,Freebird Games,Freebird Games,1396500.0
+657,BIOMUTANT,May,2021,39.99,200000.0,500000.0,350000.0,Experiment 101,THQ Nordic,13996500.0
+658,Star Trek Online,February,2010,0.0,2000000.0,5000000.0,3500000.0,Cryptic Studios,Gearbox Publishing,0.0
+659,Dragon Saga,October,2010,0.0,200000.0,500000.0,350000.0,Gravity Interactive,Gravity Interactive,0.0
+662,Prime World,March,2014,0.0,1000000.0,2000000.0,1500000.0,Nival,Nival,0.0
+663,Ash of Gods: Redemption,March,2018,24.99,500000.0,1000000.0,750000.0,AurumDust,"AurumDust, WhisperGames",18742500.0
+664,Two Worlds Epic Edition,April,2009,9.99,1000000.0,2000000.0,1500000.0,Reality Pump Studios,Topware Interactive,14985000.0
+665,Risen 3 - Titan Lords,August,2014,14.99,500000.0,1000000.0,750000.0,Piranha Bytes,THQ Nordic,11242500.0
+666,Heroes of Might & Magic III - HD Edition,January,2015,14.99,1000000.0,2000000.0,1500000.0,Dotemu,Ubisoft Entertainment,22485000.0
+670,Immortal Planet,July,2017,7.49,100000.0,200000.0,150000.0,teedoubleuGAMES,teedoubleuGAMES,1123500.0
+672,Grotesque Tactics: Evil Heroes,October,2010,1.99,100000.0,200000.0,150000.0,Silent Dreams,Headup,298500.0
+673,Dungeons,February,2011,9.99,200000.0,500000.0,350000.0,Realmforge Studios,Kalypso Media Digital,3496500.0
+675,Ryzom,May,2016,0.0,200000.0,500000.0,350000.0,Winch Gate Property Limited,Winch Gate Property Limited,0.0
+677,Serious Sam: The Random Encounter,October,2011,4.99,200000.0,500000.0,350000.0,"Vlambeer, Croteam",Devolver Digital,1746500.0
+679,Inquisitor,September,2012,9.99,200000.0,500000.0,350000.0,"CINEMAX, s.r.o.","CINEMAX, s.r.o.",3496500.0
+680,Masquerada: Songs and Shadows,September,2016,19.99,100000.0,200000.0,150000.0,Witching Hour Studios,Ysbryd Games,2998499.9999999995
+681,The Incredible Adventures of Van Helsing III,May,2015,1.49,200000.0,500000.0,350000.0,NeocoreGames,NeocoreGames,521500.0
+682,Fictorum,August,2017,9.99,100000.0,200000.0,150000.0,Scraping Bottom Games,Scraping Bottom Games,1498500.0
+683,Hammerting,November,2021,24.99,200000.0,500000.0,350000.0,Warpzone Studios,Team17 Digital,8746500.0
+684,Pagan: Absent Gods,August,2019,9.99,100000.0,200000.0,150000.0,Mad Head Games,Mad Head Games,1498500.0
+685,Hellpoint,July,2020,34.99,200000.0,500000.0,350000.0,Cradle Games,tinyBuild,12246500.0
+686,Defiance,June,2014,0.0,2000000.0,5000000.0,3500000.0,Trion Worlds,Trion Worlds,0.0
+687,Spiral Knights,June,2011,0.0,2000000.0,5000000.0,3500000.0,Grey Havens,Grey Havens,0.0
+688,ArcaniA,October,2010,19.99,500000.0,1000000.0,750000.0,Spellbound,THQ Nordic,14992499.999999998
+689,Gothic 3,October,2006,9.99,1000000.0,2000000.0,1500000.0,Piranha Bytes,THQ Nordic,14985000.0
+690,Life is Feudal: Your Own,November,2015,19.99,200000.0,500000.0,350000.0,Bitbox Ltd.,Bitbox Ltd.,6996499.999999999
+691,Fallout Shelter,March,2017,0.0,5000000.0,10000000.0,7500000.0,Bethesda Game Studios,Bethesda Softworks,0.0
+692,Jagged Alliance: Crossfire,August,2012,14.99,100000.0,200000.0,150000.0,Coreplay GmbH,THQ Nordic,2248500.0
+697,Space Hack,August,2014,4.99,200000.0,500000.0,350000.0,0,Meridian4,1746500.0
+699,Dragon's Prophet,September,2013,0.0,200000.0,500000.0,350000.0,Runewaker,Infernum Productions AG,0.0
+703,Chantelise - A Tale of Two Sisters,July,2011,9.99,100000.0,200000.0,150000.0,EasyGameStation,Carpe Fulgur LLC,1498500.0
+705,Jagged Alliance - Back in Action,February,2012,19.99,200000.0,500000.0,350000.0,"Coreplay GmbH, Bigmoon Studios",THQ Nordic,6996499.999999999
+706,Legend of Dungeon,September,2013,9.99,200000.0,500000.0,350000.0,Robot Loves Kitty,SNK CORPORATION,3496500.0
+707,Dex,May,2015,19.99,200000.0,500000.0,350000.0,Dreadlocks Ltd.,"Dreadlocks Ltd., Techland, WhisperGames",6996499.999999999
+709,Sheltered,March,2016,14.99,200000.0,500000.0,350000.0,"Unicube, Team 17 Digital Ltd",Team17 Digital Ltd,5246500.0
+710,Warface,April,2012,0.0,10000000.0,20000000.0,15000000.0,MY.GAMES,MY.GAMES,0.0
+711,The Dwarves,December,2016,39.99,200000.0,500000.0,350000.0,KING Art,"THQ Nordic, EuroVideo Medien",13996500.0
+712,Tharsis,January,2016,14.99,500000.0,1000000.0,750000.0,Choice Provisions,Choice Provisions,11242500.0
+713,Windward,May,2015,9.99,200000.0,500000.0,350000.0,Tasharen Entertainment Inc.,Tasharen Entertainment Inc.,3496500.0
+714,Evoland,April,2013,9.99,200000.0,500000.0,350000.0,Shiro Games,Shiro Unlimited,3496500.0
+715,Sword Art Online: Fatal Bullet,February,2018,39.99,500000.0,1000000.0,750000.0,DIMPS,BANDAI NAMCO Entertainment,29992500.0
+721,Venetica - Gold Edition,September,2009,9.99,100000.0,200000.0,150000.0,Deck13,Deck13,1498500.0
+725,""" We Are The Dwarves",February,2016,9.99,100000.0,200000.0,150000.0,Whale Rock Games,Whale Rock Games,1498500.0
+728,Terminator: Resistance,November,2019,39.99,500000.0,1000000.0,750000.0,Teyon,Reef Entertainment,29992500.0
+729,How to Survive,August,2014,14.99,1000000.0,2000000.0,1500000.0,Eko Software,505 Games,22485000.0
+730,Wolcen: Lords of Mayhem,February,2020,39.99,2000000.0,5000000.0,3500000.0,WOLCEN Studio,WOLCEN Studio,139965000.0
+731,Mars: War Logs,April,2013,4.99,200000.0,500000.0,350000.0,Spiders,Focus Entertainment,1746500.0
+732,Crossroads Inn Anniversary Edition,October,2019,24.99,200000.0,500000.0,350000.0,Klabater,Klabater,8746500.0
+733,Murdered: Soul Suspect,June,2014,19.99,1000000.0,2000000.0,1500000.0,Airtight Games,Square Enix,29985000.0
+737,Jagged Alliance: Rage!,December,2018,19.99,100000.0,200000.0,150000.0,Cliffhanger Productions,HandyGames,2998499.9999999995
+738,Rise of the Argonauts,January,2009,9.99,200000.0,500000.0,350000.0,Liquid Entertainment,"Codemasters, Electronic Arts",3496500.0
+743,Prime World: Defenders,June,2013,9.99,100000.0,200000.0,150000.0,Nival,Nival,1498500.0
+744,Shroud of the Avatar: Forsaken Virtues,March,2018,0.0,500000.0,1000000.0,750000.0,Catnip Games,Catnip Games,0.0
+745,Game of Thrones,June,2012,14.99,200000.0,500000.0,350000.0,Cyanide Studios,HandyGames,5246500.0
+747,Sacred 3,August,2014,14.99,200000.0,500000.0,350000.0,Keen Games,THQ Nordic,5246500.0
+748,Calico,December,2020,11.99,100000.0,200000.0,150000.0,Peachy Keen Games,"Whitethorn Games, Maple Whispering Limited",1798500.0
+749,Nether: Resurrected,June,2014,14.21,500000.0,1000000.0,750000.0,"Nether Productions, LLC","Nether Productions, LLC",10657500.0
+753,Lionheart: Legacy of the Crusader,March,2017,9.99,200000.0,500000.0,350000.0,"Reflexive Entertainment, Black Isle Studios",Interplay Entertainment Corp.,3496500.0
+757,Orangeblood,January,2020,19.99,100000.0,200000.0,150000.0,Grayfax Software,PLAYISM,2998499.9999999995
+758,Zenith,September,2016,7.99,100000.0,200000.0,150000.0,Infinigon,BadLand Publishing,1198500.0
+762,Disciples III - Renaissance Steam Special Edition,July,2010,9.99,200000.0,500000.0,350000.0,"Akella, .dat",Kalypso Media Digital,3496500.0
+764,The Technomancer,June,2016,9.99,100000.0,200000.0,150000.0,Spiders,Focus Entertainment,1498500.0
+765,Bound By Flame,May,2014,6.99,200000.0,500000.0,350000.0,Spiders,Focus Entertainment,2446500.0
+766,Warhammer Quest,January,2015,14.99,100000.0,200000.0,150000.0,"Rodeo Games, Twistplay",Chilled Mouse,2248500.0
+770,SpellForce 2: Faith in Destiny,June,2012,14.99,100000.0,200000.0,150000.0,Mind Over Matter Studios,THQ Nordic,2248500.0
+773,X-Blades,February,2009,1.89,500000.0,1000000.0,750000.0,Gaijin Entertainment,Topware Interactive,1417500.0
+774,RAID: World War II,September,2017,19.99,100000.0,200000.0,150000.0,Lion game Lion,Starbreeze Publishing AB,2998499.9999999995
+775,Dead Effect 2,May,2016,2.39,100000.0,200000.0,150000.0,"BadFly Interactive, a.s.",App Holdings,358500.0
+786,Krater,June,2012,14.99,200000.0,500000.0,350000.0,Fatshark,Fatshark,5246500.0
+788,Confrontation,April,2012,9.99,100000.0,200000.0,150000.0,Cyanide Studio,Focus Home Interactive,1498500.0
+790,Swag and Sorcery,May,2019,12.99,200000.0,500000.0,350000.0,"Lazy Bear Games, Uroboros Games",tinyBuild,4546500.0
+791,Talisman: Digital Edition,February,2014,6.99,500000.0,1000000.0,750000.0,Nomad Games,Nomad Games,5242500.0
+795,Dungeons and Dragons: Daggerdale,June,2011,14.99,100000.0,200000.0,150000.0,Bedlam Games,Atari,2248500.0
+798,Starpoint Gemini,February,2012,13.99,100000.0,200000.0,150000.0,Little Green Men Games,Little Green Men Games,2098500.0
+799,Deus Ex: The Fall,March,2014,9.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,7492500.0
+800,Dragons and Titans,March,2014,0.0,1000000.0,2000000.0,1500000.0,Wyrmbyte,Versus Evil,0.0
+802,DARK,July,2013,9.99,100000.0,200000.0,150000.0,Realmforge Studios,Kalypso Media Digital,1498500.0
+851,Spirit Messages,December,2019,0.0,100000.0,200000.0,150000.0,Kevin Wacknov,Mind Body Aware Games LLC,0.0
+907,Sanatorium «Anthropocene Retreat»,July,2020,0.0,100000.0,200000.0,150000.0,Mikhail Maksimov,VAC Foundation,0.0
+970,Agents of Aggro City Online,January,2018,0.0,100000.0,200000.0,150000.0,none,none,0.0
+1032,极限求生,March,2021,0.0,200000.0,500000.0,350000.0,陈 世杰,陈 世杰,0.0
+1072,Mercenary Skirmish,March,2021,0.0,100000.0,200000.0,150000.0,4ugui,4ugui,0.0
+1073,孙美琪疑案 第二季,January,2021,3.99,100000.0,200000.0,150000.0,QZQ Studio,"H.P.Y.S,LLC",598500.0
+1130,Mist of the Undead,September,2020,0.0,200000.0,500000.0,350000.0,"Hayden, Rothman","Hayden , Rothman",0.0
+1240,スピリットウィッシュ〜三英雄と冒険の大地‪〜,April,2021,0.0,200000.0,500000.0,350000.0,NEONSTUDIO Corp.,SUBETE,0.0
+1261,football girl,December,2010,0.0,100000.0,200000.0,150000.0,bluesky,bluesky,0.0
+1269,Lords of Kingdoms,August,2020,0.0,200000.0,500000.0,350000.0,ThankGame.com,ThankGame.com,0.0
+1271,All Over,April,2020,0.0,100000.0,200000.0,150000.0,Overall Adventures ltd,Overall Adventures ltd,0.0
+1285,Last Days,June,2016,0.0,100000.0,200000.0,150000.0,CrackedGhostGames,2ndDimensionGhost,0.0
+1297,Brick Building,July,2020,0.0,100000.0,200000.0,150000.0,VR Labs,VR Labs,0.0
+1298,Giants,May,2021,0.0,200000.0,500000.0,350000.0,Singta inc.,Singta Inc.,0.0
+1382,C. Kane,January,2016,0.0,100000.0,200000.0,150000.0,Super Walrus Games,Super Walrus Games,0.0
+1460,Wild Dose: First Session,March,2021,0.0,100000.0,200000.0,150000.0,Lappi Soft,Lappi Soft,0.0
+1463,鋼鉄戦記C21,March,2006,0.0,100000.0,200000.0,150000.0,"CyberStep, Inc.","CyberStep, Inc.",0.0
+1468,Underlight,March,1998,0.0,100000.0,200000.0,150000.0,"KoiWare, LLC","KoiWare, LLC",0.0
+1482,Eternal Dreamers,July,2021,0.0,100000.0,200000.0,150000.0,Studio Biest,Studio Biest,0.0
+1489,Clash: Mutants Vs Pirates,June,2020,0.0,100000.0,200000.0,150000.0,NewGen,NewGen,0.0
+1529,Elements II: Hearts of Light,April,2016,4.99,100000.0,200000.0,150000.0,Soul Catapult,New Reality Games,748500.0
+1592,All Our Asias,February,2018,0.0,100000.0,200000.0,150000.0,Melos Han-Tani,Analgesic Productions,0.0
+1596,Phobos,November,2020,0.0,100000.0,200000.0,150000.0,Myth Entertainment,Myth Entertainment,0.0
+1604,Legend of Dungeon: Masters,November,2015,0.0,100000.0,200000.0,150000.0,Robot Loves Kitty,Robot Loves Kitty,0.0
+1607,4X-Galaxy 无主之地：银河,December,2018,0.0,100000.0,200000.0,150000.0,Mercator,Mercator,0.0
+1622,Deus Ex: Breach,January,2017,0.0,100000.0,200000.0,150000.0,Eidos Montreal,Square Enix,0.0
+1626,Combat Monsters,January,2015,0.0,100000.0,200000.0,150000.0,Rubicon Development,Rubicon Development,0.0
+1627,Heroes of Dire,March,2017,0.0,100000.0,200000.0,150000.0,Spellbook,www.Spellbook.com,0.0
+1629,LastCloudia,February,2021,0.0,100000.0,200000.0,150000.0,AIDIS,Boltrend Games,0.0
+1640,Spellwake,September,2018,0.0,100000.0,200000.0,150000.0,Norrman Brothers,Norrman Brothers,0.0
+1645,Flora,December,2017,0.0,100000.0,200000.0,150000.0,The Game Bakery,The Game Bakery,0.0
+1660,Heroes Tactics,May,2017,0.0,100000.0,200000.0,150000.0,Camex Games,Camex Games,0.0
+1661,Lucent Heart,February,2016,0.0,100000.0,200000.0,150000.0,Playcoo,Suba Games,0.0
+1674,Exocraft,March,2019,0.0,100000.0,200000.0,150000.0,GoldFire Studios,GoldFire Studios,0.0
+1700,Heroes of SoulCraft - Arcade MOBA,July,2015,0.0,200000.0,500000.0,350000.0,MobileBits,MobileBits,0.0
+1702,Dungeon Hunter 5,May,2019,0.0,200000.0,500000.0,350000.0,Gameloft,Gameloft,0.0
+1703,Sphere III: Rage of the Devastator,August,2015,0.0,100000.0,200000.0,150000.0,GameXP.com,GameXP.com,0.0
+1708,The Huntsman: Winter's Curse,April,2016,0.0,100000.0,200000.0,150000.0,Desert Owl Games LLC,Desert Owl Games LLC,0.0
+1709,Talisman: Prologue,October,2013,6.99,200000.0,500000.0,350000.0,Nomad Games,Nomad Games,2446500.0
+1710,Struckd - 3D Game Creator,December,2016,0.0,100000.0,200000.0,150000.0,Struckd AG,Struckd AG,0.0
+1711,Immortal Empire,December,2015,0.0,100000.0,200000.0,150000.0,Tactic Studios Inc.,Tactic Studios Inc.,0.0
+1724,Braveland Heroes,September,2019,0.0,100000.0,200000.0,150000.0,Tortuga Team,Tortuga Team,0.0
+1725,Darkwind: War on Wheels,August,2014,0.0,100000.0,200000.0,150000.0,Psychic Software,Psychic Software,0.0
+1726,Golden Rush,September,2015,0.0,100000.0,200000.0,150000.0,Forbes Consult Ltd,ELYLAND INVESTMENT COMPANY Ltd,0.0
+1727,DK Online,March,2019,0.0,100000.0,200000.0,150000.0,Masangsoft,Masangsoft,0.0
+1730,God Awe-full Clicker,September,2018,0.0,100000.0,200000.0,150000.0,Mad Labyrinth Studios LLC,Mad Labyrinth Studios LLC,0.0
+1731,La Tale - Evolved,November,2017,0.0,100000.0,200000.0,150000.0,Actoz Soft,Papaya Play,0.0
+1734,Life Forge - Reborn ORPG,March,2017,0.0,100000.0,200000.0,150000.0,Life Forge Team,Pixel Life,0.0
+1739,The Last Spell: Prologue,October,2020,0.0,100000.0,200000.0,150000.0,Ishtar Games,"The Arcade Crew, Gamera Game (China)",0.0
+1740,Luna Online: Reborn,April,2016,0.0,100000.0,200000.0,150000.0,Funtime,Subagames,0.0
+1741,Horse Riding Tales,April,2019,0.0,100000.0,200000.0,150000.0,Foxie Games,App Business Ventures LLC,0.0
+1744,Spell Fighter VR,March,2016,0.0,100000.0,200000.0,150000.0,Kubold,Kubold,0.0
+1746,Booty Calls,September,2018,0.0,100000.0,200000.0,150000.0,3X Entertainment Limited,Nutaku Publishing,0.0
+1747,Spellstone,November,2016,0.0,100000.0,200000.0,150000.0,Synapse Games,Kongregate,0.0
+1752,DarkStory Online,May,2020,0.0,200000.0,500000.0,350000.0,BraveWolf,BraveWolf,0.0
+1753,Idle Adventure,April,2018,0.0,100000.0,200000.0,150000.0,"zha7, Phaedruns, Yingke Wu",zha7,0.0
+1755,Firefly Online Cortex,January,2015,0.0,100000.0,200000.0,150000.0,Spark Plug Games,QMx Interactive,0.0
+1760,The Ranger: Lost Tribe,August,2017,0.0,200000.0,500000.0,350000.0,Leiting Interactive,Leiting Interactive,0.0
+1761,RoShamBo,July,2016,0.0,100000.0,200000.0,150000.0,Blam! Games LLC,Blam! Games LLC,0.0
+1765,Acan's Call: Act 1,August,2016,0.0,100000.0,200000.0,150000.0,Cyberith GmbH,Cyberith GmbH,0.0
+1766,Dream Of Mirror Online,August,2015,0.0,100000.0,200000.0,150000.0,SoftStar,SubaGames,0.0
+1771,Descent: Road to Legend,June,2016,0.0,100000.0,200000.0,150000.0,Fantasy Flight Games,Fantasy Flight Games,0.0
+1772,Age of Fear: The Free World,January,2019,0.0,100000.0,200000.0,150000.0,Leslaw Sliwko,Age of Fear,0.0
+1773,Famaze,May,2014,0.0,100000.0,200000.0,150000.0,Oryx Design Lab,Oryx Design Lab,0.0
+1774,Ashland:Explore,April,2020,9.99,100000.0,200000.0,150000.0,"探X索, Explore X Studio","探X索, Explore X Studio",1498500.0
+1775,Emporea: Realms of War and Magic,March,2016,0.0,100000.0,200000.0,150000.0,Pixel Federation,Pixel Federation,0.0
+1776,Anomaly Zone,October,2019,0.0,100000.0,200000.0,150000.0,Cybertime Games,Cybertime Games,0.0
+1779,ROSE Online,October,2012,0.0,200000.0,500000.0,350000.0,Gravity Interactive,Gravity Interactive,0.0
+1782,Lilly and Sasha: Curse of the Immortals,April,2015,0.46,100000.0,200000.0,150000.0,John Wizard,John Wizard,69000.0
+1784,Dungeon Hunter Champions,December,2018,0.0,200000.0,500000.0,350000.0,Gameloft,Gameloft,0.0
+1785,Might & Magic Heroes Online,November,2015,0.0,200000.0,500000.0,350000.0,Blue Byte,Ubisoft,0.0
+1786,Fantasy Tales Online,May,2016,0.0,100000.0,200000.0,150000.0,Cold Tea Studio,0,0.0
+1787,Space Commander: War and Trade,November,2020,0.0,100000.0,200000.0,150000.0,Home Net Games,Home Net Games,0.0
+1788,Cereal Soup,February,2015,0.0,100000.0,200000.0,150000.0,Wild Arts LLC,Wild Arts LLC,0.0
+1795,Therian Saga,June,2013,0.0,100000.0,200000.0,150000.0,Virtys,Virtys,0.0
+1796,Karos,December,2014,0.0,200000.0,500000.0,350000.0,Galaxy Gate,GameXP.com,0.0
+1804,Zoria: Age of Shattering Prologue,April,2020,0.0,100000.0,200000.0,150000.0,Tiny Trinket Games,Anshar Publishing,0.0
+1806,UFO Online: Invasion,June,2016,0.0,200000.0,500000.0,350000.0,Bad Pixel,Bad Pixel,0.0
+1809,Crusaders of Light,April,2017,0.0,100000.0,200000.0,150000.0,Hong Kong Netease Interactive Entertainment Limited,Hong Kong Netease Interactive Entertainment Limited,0.0
+1810,Heroes Evolved,January,2017,0.0,200000.0,500000.0,350000.0,Net Dragon,R2Games,0.0
+1812,绝望监牢 / 絶望プリズン,February,2020,0.0,100000.0,200000.0,150000.0,STUDIO WASABI,Pujia8 Studio,0.0
+1816,Revelation Online,February,2017,0.0,200000.0,500000.0,350000.0,Netease Games,MY.GAMES,0.0
+1817,Karos Returns,February,2017,0.0,100000.0,200000.0,150000.0,Galaxy Gate,RedFox Games,0.0
+1818,Puzzle Pirates: Dark Seas,July,2018,0.0,100000.0,200000.0,150000.0,Grey Havens,Grey Havens,0.0
+1819,Skara - The Blade Remains,February,2017,0.0,200000.0,500000.0,350000.0,Atomic Kraken,Atomic Kraken,0.0
+1820,Merchant,January,2015,0.0,100000.0,200000.0,150000.0,Retora Games,Retora Games,0.0
+1821,Nocturne: Prelude,March,2020,0.0,100000.0,200000.0,150000.0,Pracy Studios,Pracy Studios,0.0
+1822,The Emperor's Own: Alpha Teaser,November,2020,0.0,100000.0,200000.0,150000.0,Volga Studios,Volga Studios,0.0
+1824,Fiesta Online NA,February,2008,0.0,200000.0,500000.0,350000.0,Onson Soft,gamigo AG,0.0
+1826,Tale of Toast,February,2018,0.0,200000.0,500000.0,350000.0,Toasty Leaf AB,Toasty Leaf AB,0.0
+1830,Florensia,November,2016,0.0,200000.0,500000.0,350000.0,AHA Entertainment,Giiku Games,0.0
+1834,Deepworld,April,2015,0.0,200000.0,500000.0,350000.0,Bytebin,Bytebin,0.0
+1835,MilMo,December,2009,0.0,200000.0,500000.0,350000.0,Dohi Sweden AB,Dohi Sweden AB,0.0
+1836,LuckCatchers,November,2016,0.0,200000.0,500000.0,350000.0,DiP Online,DiP Online,0.0
+1837,Stash,September,2017,0.0,100000.0,200000.0,150000.0,Frogdice,Frogdice,0.0
+1838,Leafling,December,2020,0.0,200000.0,500000.0,350000.0,Celtaria Productions,Celtaria Productions,0.0
+1839,Divine Souls F2P MMO,November,2014,0.0,500000.0,1000000.0,750000.0,GamePrix,Suba Games,0.0
+1844,Orake Classic,August,2016,0.0,200000.0,500000.0,350000.0,PigLion Games,PigLion Games,0.0
+1847,NAVYFIELD,March,2000,0.0,200000.0,500000.0,350000.0,SDEnterNET,Naiadgames,0.0
+1848,Deuterium Wars,October,2019,0.0,100000.0,200000.0,150000.0,Disquire,Disquire,0.0
+1849,Eternal Magic,April,2020,0.0,100000.0,200000.0,150000.0,Duoyi,101XP,0.0
+1850,Helmet Heroes,March,2013,0.0,200000.0,500000.0,350000.0,Helmet Games,Helmet Games,0.0
+1851,Black Skylands: Origins,April,2020,17.11,200000.0,500000.0,350000.0,Hungry Couch Games,tinyBuild,5988500.0
+1853,Incremental Adventures,August,2020,0.0,100000.0,200000.0,150000.0,Gniller,Gniller,0.0
+1856,Atlantica Global,May,2020,0.0,100000.0,200000.0,150000.0,"VALOFE, NEXON",VALOFE,0.0
+1858,Gods and Idols,December,2016,0.0,100000.0,200000.0,150000.0,Viking Tao,Viking Tao,0.0
+1860,Requiem: Rise of the Reaver,June,2008,0.0,200000.0,500000.0,350000.0,"Gravity Interactive, Inc.","Gravity Interactive, Inc.",0.0
+1861,The Lord of the Rings: Journeys in Middle-earth,April,2019,0.0,100000.0,200000.0,150000.0,Fantasy Flight Games,Fantasy Flight Games,0.0
+1862,Pox Nora,October,2014,0.0,200000.0,500000.0,350000.0,Desert Owl Games LLC,Desert Owl Games LLC,0.0
+1867,Tactical Craft Online,February,2016,0.0,200000.0,500000.0,350000.0,Crematorium of Time,Crematorium of Time,0.0
+1868,Second Galaxy,September,2019,0.0,100000.0,200000.0,150000.0,Zilong Game Limited,Zilong Game Limited,0.0
+1870,Scarlet Hollow,September,2020,0.0,100000.0,200000.0,150000.0,Black Tabby Games,Black Tabby Games,0.0
+1871,Twin Saga,April,2017,0.0,200000.0,500000.0,350000.0,X-Legend,Aeria Games,0.0
+1873,RaidLand,May,2020,0.0,100000.0,200000.0,150000.0,SideQuestNZ,Blue Wizard Digital,0.0
+1874,Navy Field 2 : Conqueror of the Ocean,March,2015,0.0,500000.0,1000000.0,750000.0,SDEnterNet,SDEnterNet,0.0
+1875,Onigiri,March,2019,0.0,100000.0,200000.0,150000.0,"CyberStep, Inc.","CyberStep, Inc.",0.0
+1876,The Ship: Single Player,November,2006,9.99,200000.0,500000.0,350000.0,Outerlight Ltd.,Blazing Griffin Ltd.,3496500.0
+1877,CosmicBreak Universal,December,2008,0.0,200000.0,500000.0,350000.0,"CyberStep, Inc.","CyberStep, Inc.",0.0
+1879,VALKYRIE CONNECT,April,2020,0.0,200000.0,500000.0,350000.0,Ateam Entertainment Inc.,Ateam Entertainment Inc.,0.0
+1881,Tap Tap Infinity,June,2015,0.0,200000.0,500000.0,350000.0,Scary Bee LLC,Scary Bee LLC,0.0
+1882,King’s Bounty: Legions,December,2013,0.0,200000.0,500000.0,350000.0,Nival,Nival,0.0
+1883,Big Bang Empire,August,2016,0.0,100000.0,200000.0,150000.0,Playata GmbH,European Games Group AG,0.0
+1884,Champions of Regnum,May,2007,0.0,200000.0,500000.0,350000.0,Nimble Giant Entertainment,Nimble Giant Entertainment,0.0
+1885,Star Trek Timelines,January,2016,0.0,200000.0,500000.0,350000.0,Tilting Point,Tilting Point,0.0
+1886,CABAL Online,February,2016,0.0,200000.0,500000.0,350000.0,ESTgames Corp.,ESTsoft Inc.,0.0
+1887,KOEWOTAYORINI / 声之寄托,March,2018,0.0,100000.0,200000.0,150000.0,あみそ組,"Pujia8 Studio, Gamera Game",0.0
+1888,Survived By,December,2018,0.0,200000.0,500000.0,350000.0,Human Head Studios,Digital Extremes,0.0
+1889,SolForge,July,2016,0.0,200000.0,500000.0,350000.0,Stone Blade Entertainment,Stone Blade Entertainment,0.0
+1890,Shadowrun Chronicles - Boston Lockdown,April,2015,0.0,200000.0,500000.0,350000.0,Cliffhanger Productions,Cliffhanger Productions,0.0
+1891,Untrusted,May,2021,0.0,100000.0,200000.0,150000.0,evolvedlabs,evolvedlabs,0.0
+1892,Dungeon Defenders Eternity,July,2014,0.0,100000.0,200000.0,150000.0,Nom Nom Games,Trendy Entertainment,0.0
+1893,Your Chronicle,April,2021,0.0,100000.0,200000.0,150000.0,Samurai Games,Samurai Games,0.0
+1894,Soul Dossier,January,2021,0.0,100000.0,200000.0,150000.0,（Hong Kong）GKD Game Studio,鸽屋咕游戏,0.0
+1895,March of Empires,December,2017,0.0,200000.0,500000.0,350000.0,Gameloft,Gameloft,0.0
+1896,Siege Survival: Gloria Victis Prologue,August,2020,0.0,200000.0,500000.0,350000.0,"Black Eye Games, FishTankStudio",Ravenscourt,0.0
+1897,Ragnarok Clicker,August,2016,0.0,200000.0,500000.0,350000.0,Playsaurus,Gravity Interactive,0.0
+1899,圣歌德嘉的晚钟,December,2021,0.0,100000.0,200000.0,150000.0,二律背反,旅人计划,0.0
+1900,Sniper 3D Assassin: Free to Play,September,2018,0.0,200000.0,500000.0,350000.0,Fun Games For Free,Fun Games For Free,0.0
+1901,SC2VN - The eSports Visual Novel,September,2015,0.0,100000.0,200000.0,150000.0,Team Eleven,Team Eleven,0.0
+1902,SpellForce 3: Versus Edition,November,2020,0.0,100000.0,200000.0,150000.0,Grimlore Games,THQ Nordic,0.0
+1905,Immune - True Survival,December,2016,0.0,100000.0,200000.0,150000.0,vidiludi games and entertainment,vidiludi games and entertainment,0.0
+1906,ANOTHER EDEN,March,2021,0.0,200000.0,500000.0,350000.0,"WFS, Inc.","WFS, Inc.",0.0
+1909,Aberoth,July,2015,0.0,200000.0,500000.0,350000.0,"Jarbit, Castle art by Yuriy Gusev",Jarbit,0.0
+1912,Bombix,March,2018,0.0,200000.0,500000.0,350000.0,Pragmatix Ltd,Pragmatix Ltd,0.0
+1913,Project Genom,October,2016,0.0,200000.0,500000.0,350000.0,NeuronHaze,NeuronHaze,0.0
+1915,Tabletopia,November,2016,0.0,100000.0,200000.0,150000.0,Tabletopia,Tabletopia,0.0
+1916,Steambirds Alliance,August,2019,0.0,200000.0,500000.0,350000.0,Spry Fox LLC,Spry Fox LLC,0.0
+1917,Wurm Online,December,2012,0.0,200000.0,500000.0,350000.0,Code Club AB,Code Club AB,0.0
+1918,Royal Quest,August,2014,0.0,500000.0,1000000.0,750000.0,Katauri,1C Online Games,0.0
+1920,Cadria Item Shop,August,2018,0.0,200000.0,500000.0,350000.0,Orange Cat Studio,BEST KIRIN GLOBAL LIMITED,0.0
+1921,Continent of the Ninth Seal,September,2012,0.0,500000.0,1000000.0,750000.0,"VALOFE, Webzen",VALOFE,0.0
+1923,Wild Terra Online,December,2017,0.0,200000.0,500000.0,350000.0,Juvty Worlds Ltd.,Juvty Worlds Ltd.,0.0
+1924,Destination Sol,February,2015,0.0,500000.0,1000000.0,750000.0,MovingBlocks,MovingBlocks,0.0
+1925,Folk Tale,January,1986,11.99,200000.0,500000.0,350000.0,Games Foundry,Games Foundry,4196500.0
+1926,Book of Yog Idle RPG,July,2022,0.0,200000.0,500000.0,350000.0,QiHeShe Technology Co.Ltd,QiHeShe Technology Co.Ltd,0.0
+1927,CUPID - A free to play Visual Novel,March,2016,0.0,100000.0,200000.0,150000.0,Fervent,Afterthought Studios,0.0
+1928,Pixel Starships,May,2020,0.0,200000.0,500000.0,350000.0,SavySoda,SavySoda,0.0
+1930,Velvet Sundown,July,2014,0.0,500000.0,1000000.0,750000.0,Tribe Studios,Tribe Studios,0.0
+1931,Game of Thrones Winter is Coming,November,2019,0.0,200000.0,500000.0,350000.0,YOUZU (SINGAPORE) PTE. LTD.,YOUZU (SINGAPORE) PTE. LTD.,0.0
+1932,The Desolate Hope,May,2014,9.99,500000.0,1000000.0,750000.0,Scott Cawthon,Scott Cawthon,7492500.0
+1933,Guns and Robots,August,2014,0.0,200000.0,500000.0,350000.0,Masthead Studios Ltd,"Masthead Studios Ltd, Thegamewallstudios, Gamigo AG",0.0
+1934,Heroine's Quest: The Herald of Ragnarok,March,2014,0.0,200000.0,500000.0,350000.0,Crystal Shard,Crystal Shard,0.0
+1935,仙剑奇侠传九野,October,2020,0.0,200000.0,500000.0,350000.0,软星科技（上海）有限公司,"SOFTSTAR TECHNOLOGY (SHANGHAI) CO., LTD",0.0
+1936,Guild Quest,January,2017,0.0,200000.0,500000.0,350000.0,Hyper Hippo Games,Hyper Hippo Games,0.0
+1937,Spellsworn,March,2018,0.0,100000.0,200000.0,150000.0,Frogsong Studios,Frogsong Studios,0.0
+1938,Metal Waltz: Anime tank girls,April,2017,0.0,200000.0,500000.0,350000.0,"Shanghai JingCai Computer Software Development Co., Ltd","Shanghai JingCai Computer Software Development Co., Ltd",0.0
+1940,像素女友,August,2020,0.0,100000.0,200000.0,150000.0,HIROKO IMAKI,Pujia8 Studio,0.0
+1942,Inferna,December,2019,0.0,200000.0,500000.0,350000.0,INFERNA LIMITED,INFERNA LIMITED,0.0
+1943,Eldevin,November,2014,0.0,200000.0,500000.0,350000.0,Hunted Cow Studios,Hunted Cow Studios,0.0
+1944,Jesus Christ RPG Trilogy,March,2016,0.0,100000.0,200000.0,150000.0,Wholetone Games,Wholetone Games,0.0
+1945,Mighty Party,March,2017,0.0,200000.0,500000.0,350000.0,Panoramik Inc,Panoramik Inc,0.0
+1946,Warfork,August,2019,0.0,200000.0,500000.0,350000.0,Team Forbidden,Team Forbidden,0.0
+1947,EverQuest,December,2012,0.0,500000.0,1000000.0,750000.0,Darkpaw Games,Daybreak Game Company,0.0
+1948,狐の旅路,January,2020,0.0,100000.0,200000.0,150000.0,狐の旅路制作组,DZ,0.0
+1949,Midas Gold Plus,February,2017,0.0,200000.0,500000.0,350000.0,Holyday Studios,Holyday Studios,0.0
+1950,There is No GreenDam,November,2019,0.0,100000.0,200000.0,150000.0,格林达姆136工程团,格林达姆136工程团,0.0
+1951,At Home Alone,November,2018,0.0,100000.0,200000.0,150000.0,阿正不经,0Cube,0.0
+1952,Mortal Online,August,2015,0.0,500000.0,1000000.0,750000.0,Star Vault AB,Star Vault AB,0.0
+1953,Age of Conan: Unchained,February,2013,0.0,500000.0,1000000.0,750000.0,Funcom,Funcom,0.0
+1954,Warspear Online,November,2017,0.0,200000.0,500000.0,350000.0,AIGRIND,AIGRIND,0.0
+1955,Dragon Nest,December,2012,0.0,500000.0,1000000.0,750000.0,Eyedentity Games Inc.,Eyedentity Games Inc.,0.0
+1956,Oasis VR,December,2019,0.0,100000.0,200000.0,150000.0,Oasis VR,Oasis VR Inc.,0.0
+1957,Epic Battle Fantasy 3,September,2010,0.0,200000.0,500000.0,350000.0,Matt Roszak,Matt Roszak,0.0
+1959,Hunger Dungeon,December,2016,0.0,200000.0,500000.0,350000.0,No Stuck Game Studio,No Stuck Game Studio,0.0
+1960,Grim Clicker,January,2020,0.0,100000.0,200000.0,150000.0,EvilCharm Games,EvilCharm Games,0.0
+1961,The SKIES - BETA,April,2016,0.0,1000000.0,2000000.0,1500000.0,Eforb,Eforb,0.0
+1962,ChilloutVR,February,2021,0.0,200000.0,500000.0,350000.0,Alpha Blend Interactive,Alpha Blend Interactive,0.0
+1963,Dreamscaper: Prologue,April,2020,0.0,200000.0,500000.0,350000.0,Afterburner Studios,"Afterburner Studios, Maple Whispering Limited",0.0
+1964,Ragnarok Online 2,May,2013,0.0,1000000.0,2000000.0,1500000.0,"Gravity, Inc.",Gravity Interactive,0.0
+1965,MU Legend,August,2018,0.0,500000.0,1000000.0,750000.0,VALOFE,VALOFE,0.0
+1966,Kingdom Wars,April,2013,0.0,500000.0,1000000.0,750000.0,Reverie World Studios,Space Bullet Dynamics Corporation,0.0
+1967,Insanity Clicker,June,2016,0.0,500000.0,1000000.0,750000.0,PlayFlock,PlayFlock,0.0
+1968,NosTale - Anime MMORPG,September,2017,0.0,500000.0,1000000.0,750000.0,"Entwell Co., Ltd.",Gameforge 4D GmbH,0.0
+1969,New Frontier,December,2019,0.0,500000.0,1000000.0,750000.0,Free Reign Entertainment,Free Reign Entertainment,0.0
+1970,Rakion Chaos Force,March,2020,0.0,500000.0,1000000.0,750000.0,"Neosonyx Co., Ltd.","Neosonyx Co., Ltd.",0.0
+1971,Villagers and Heroes,April,2014,0.0,500000.0,1000000.0,750000.0,Mad Otter Games,Mad Otter Games,0.0
+1972,The Life and Suffering of Sir Brante — Chapter 1&2,December,2020,0.0,100000.0,200000.0,150000.0,Sever,101XP,0.0
+1973,九劫曲：诅咒之地 NINE TRIALS,June,2019,0.0,200000.0,500000.0,350000.0,爱玩工作室,爱玩工作室,0.0
+1974,Forge of Gods (RPG),May,2016,0.0,500000.0,1000000.0,750000.0,Panoramik Inc,Panoramik Inc,0.0
+1975,Onmyoji,April,2018,0.0,200000.0,500000.0,350000.0,NetEase Games,NetEase Games,0.0
+1976,Bit Heroes,December,2017,0.0,500000.0,1000000.0,750000.0,Juppiomenz,Kongregate,0.0
+1978,RPG MO,August,2015,0.0,200000.0,500000.0,350000.0,Marxnet,Marxnet,0.0
+1979,Legend of Keepers: Prologue,October,2019,0.0,200000.0,500000.0,350000.0,Goblinz Studio,Goblinz Publishing,0.0
+1980,Depression Quest,August,2014,0.0,200000.0,500000.0,350000.0,"The Quinnspiracy, Patrick Lindsey, Isaac Schankler",The Quinnspiracy,0.0
+1981,Skyforge,April,2017,0.0,500000.0,1000000.0,750000.0,Allods Team,Music Guru LLC,0.0
+1982,Prison Simulator: Prologue,May,2021,0.0,200000.0,500000.0,350000.0,Baked Games S.A.,"Baked Games S.A., PlayWay S.A.",0.0
+1983,Shop Heroes,August,2016,0.0,500000.0,1000000.0,750000.0,"Cloudcade, Inc.","Cloudcade, Inc.",0.0
+1984,Animation Throwdown: The Quest for Cards,May,2017,0.0,200000.0,500000.0,350000.0,"Synapse Games, Chinzilla",Kongregate,0.0
+1985,MINDNIGHT,August,2017,0.0,200000.0,500000.0,350000.0,No Moon,No Moon,0.0
+1986,Dying Light: Bad Blood,September,2018,0.0,100000.0,200000.0,150000.0,Techland,Techland Publishing,0.0
+1987,Sunrider: Mask of Arcadius,July,2014,0.0,500000.0,1000000.0,750000.0,Love in Space,Sekai Project,0.0
+1988,Mabinogi,December,2012,0.0,500000.0,1000000.0,750000.0,NEXON Korea Corp.,Nexon America Inc.,0.0
+1989,Angel Legion,August,2020,0.0,100000.0,200000.0,150000.0,Shanghai SilverMoon Network Technology Co.Ltd,Shanghai SilverMoon Network Technology Co.Ltd,0.0
+1990,Hero Zero,July,2016,0.0,200000.0,500000.0,350000.0,Playata GmbH,European Games Group AG,0.0
+1991,Infinity Wars: Animated Trading Card Game,September,2014,0.0,500000.0,1000000.0,750000.0,Lightmare Studios,"Lightmare Studios, Yodo1 Games",0.0
+1993,异化之恶〇Abnormal Treatment,August,2019,0.0,200000.0,500000.0,350000.0,Eternal Dream,"Eternal Dream, 迷糊的安安",0.0
+1994,Nomad,June,2015,0.0,500000.0,1000000.0,750000.0,Diminished Studios,Diminished Studios,0.0
+1995,Life is Feudal: MMO,January,2018,0.0,200000.0,500000.0,350000.0,Bitbox Ltd.,Bitbox Ltd.,0.0
+1996,School of Dragons,December,2014,0.0,500000.0,1000000.0,750000.0,"JumpStart Games, Inc.","JumpStart Games, Inc.",0.0
+1997,MARVEL Puzzle Quest,December,2013,0.0,500000.0,1000000.0,750000.0,Broken Circle Studios,D3 Go!,0.0
+1998,Lords Mobile,June,2019,0.0,500000.0,1000000.0,750000.0,IGG SINGAPORE PTE. LTD.,IGG SINGAPORE PTE. LTD.,0.0
+1999,Stoneshard: Prologue,June,2018,0.0,200000.0,500000.0,350000.0,Ink Stains Games,HypeTrain Digital,0.0
+2000,Touhou Big Big Battle,April,2020,0.0,100000.0,200000.0,150000.0,MyACG Studio,MyACG Studio,0.0
+2001,Shadow Arena,May,2020,0.0,1000000.0,2000000.0,1500000.0,Pearl Abyss,Pearl Abyss,0.0
+2002,Never Split the Party,September,2018,0.0,500000.0,1000000.0,750000.0,Legend Studio,Legend Studio,0.0
+2003,MOBIUS FINAL FANTASY,February,2017,0.0,1000000.0,2000000.0,1500000.0,Square Enix,Square Enix,0.0
+2004,Wasteland Survival,June,2019,0.0,500000.0,1000000.0,750000.0,"Joyloft Co., Limited","Joyloft Co., Limited",0.0
+2005,Endless World Idle RPG,August,2019,0.0,200000.0,500000.0,350000.0,Radiance Games,Radiance Games,0.0
+2006,League of Maidens,February,2021,0.0,500000.0,1000000.0,750000.0,Maiden Gaming Inc.,Maiden Gaming Inc.,0.0
+2007,Panzar,April,2013,0.0,500000.0,1000000.0,750000.0,Panzar Studio,OVALIS INVESTMENTS LIMITED,0.0
+2008,Closers,February,2018,0.0,500000.0,1000000.0,750000.0,Naddic Games,Naddic Games,0.0
+2009,Firestone Idle RPG,September,2019,0.0,200000.0,500000.0,350000.0,Holyday Studios,Holyday Studios,0.0
+2010,Kritika:REBOOT,November,2019,0.0,500000.0,1000000.0,750000.0,"ALLM Co., Ltd.","ALLM Co., Ltd.",0.0
+2011,Strife,May,2015,0.0,500000.0,1000000.0,750000.0,S2 Games,S2 Games,0.0
+2012,Bless Online,October,2018,0.0,1000000.0,2000000.0,1500000.0,NEOWIZ BLESS STUDIO,NEOWIZ,0.0
+2013,The Riftbreaker: Prologue,August,2020,0.0,200000.0,500000.0,350000.0,EXOR Studios,"EXOR Studios, Surefire.Games",0.0
+2014,Wizard101,September,2008,0.0,500000.0,1000000.0,750000.0,KingsIsle Entertainment,KingsIsle Entertainment,0.0
+2015,Dungeons & Dragons Online,June,2012,0.0,1000000.0,2000000.0,1500000.0,"Standing Stone Games, LLC","Standing Stone Games, LLC",0.0
+2016,Backbone: Prologue,April,2019,0.0,200000.0,500000.0,350000.0,EggNut,Raw Fury,0.0
+2017,Tactical Monsters Rumble Arena,January,2018,0.0,500000.0,1000000.0,750000.0,Camex Games,Camex Games,0.0
+2018,Confess My Love,May,2017,0.0,200000.0,500000.0,350000.0,LR Studio,LR Studio,0.0
+2019,Left on Read,May,2020,0.0,200000.0,500000.0,350000.0,Weston Bell-Geddes,Spookulele Games,0.0
+2020,Word Game: Episode 0,January,2021,0.0,200000.0,500000.0,350000.0,Team9,Team9,0.0
+2021,Planet Explorers,November,2016,0.0,200000.0,500000.0,350000.0,Pathea Games,Pathea Games,0.0
+2022,Soda Dungeon 2,July,2020,0.0,500000.0,1000000.0,750000.0,"AN Productions, Poxpower",Armor Games Studios,0.0
+2023,the static speaks my name,August,2015,0.0,200000.0,500000.0,350000.0,the whale husband,the whale husband,0.0
+2024,Tree of Life,August,2017,0.0,200000.0,500000.0,350000.0,OddOneGames,OddOneGames,0.0
+2025,Knight Online,January,2016,0.0,2000000.0,5000000.0,3500000.0,"Noah System, Mgame",NTTGame,0.0
+2026,Realm Grinder,June,2017,0.0,500000.0,1000000.0,750000.0,Divine Games,Kongregate,0.0
+2027,Endless Sky,October,2015,0.0,500000.0,1000000.0,750000.0,Michael Zahniser,Michael Zahniser,0.0
+2028,Soda Dungeon,February,2017,0.0,500000.0,1000000.0,750000.0,"AN Productions, Poxpower",Armor Games Studios,0.0
+2029,Digimon Masters Online,November,2016,0.0,1000000.0,2000000.0,1500000.0,"Move Games Co., Ltd.",MOVE ON USA CO.,0.0
+2030,BLEACH Brave Souls,August,2020,0.0,500000.0,1000000.0,750000.0,KLab Inc.,KLab Inc.,0.0
+2031,SAS: Zombie Assault 4,October,2017,0.0,500000.0,1000000.0,750000.0,Ninja Kiwi,Ninja Kiwi,0.0
+2032,AdventureQuest 3D,October,2016,0.0,200000.0,500000.0,350000.0,"Artix Entertainment, LLC","Artix Entertainment, LLC",0.0
+2033,ARK: Survival Of The Fittest,August,2017,19.99,5000000.0,10000000.0,7500000.0,"Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",Studio Wildcard,149925000.0
+2034,Soulworker,October,2020,0.0,1000000.0,2000000.0,1500000.0,"Lion Games Co., Ltd.","Lion Games Co., Ltd.",0.0
+2035,Elsword,July,2014,0.0,1000000.0,2000000.0,1500000.0,KOG,KOG Games,0.0
+2036,MapleStory,August,2012,0.0,1000000.0,2000000.0,1500000.0,Nexon,Nexon America Inc.,0.0
+2037,Aura Kingdom,July,2014,0.0,2000000.0,5000000.0,3500000.0,X-Legend,Aeria Games,0.0
+2038,Riders of Icarus,July,2016,0.0,1000000.0,2000000.0,1500000.0,"WeMade, VALOFE",VALOFE,0.0
+2039,Gems of War - Puzzle RPG,November,2014,0.0,1000000.0,2000000.0,1500000.0,Infinity Plus 2,505 Games,0.0
+2040,DRAGON QUEST XI: Echoes of an Elusive Age - Digital Edition of Light,September,2018,49.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,17496500.0
+2041,Legends of IdleOn - Idle MMO,April,2021,0.0,500000.0,1000000.0,750000.0,Lavaflame2,Lavaflame2,0.0
+2042,Stay Out,November,2019,0.0,2000000.0,5000000.0,3500000.0,Mobile Technologies LLC,Mobile Technologies LLC,0.0
+2043,SEGA Mega Drive and Genesis Classics,June,2010,24.79,1000000.0,2000000.0,1500000.0,D3T Limited,SEGA,37185000.0
+2044,Walking Zombie 2,October,2019,0.0,200000.0,500000.0,350000.0,Alda Games,Alda Games,0.0
+2045,封灵档案,March,2021,0.0,1000000.0,2000000.0,1500000.0,（Hong Kong）GKD,（Hong Kong）GKD,0.0
+2046,Paunch,December,2019,0.0,500000.0,1000000.0,750000.0,Kozhakov,Kozhakov,0.0
+2047,Will To Live Online,April,2018,0.0,500000.0,1000000.0,750000.0,AlphaSoft LLC,AlphaSoft LLC,0.0
+2048,Shop Titans,May,2020,0.0,1000000.0,2000000.0,1500000.0,"Kabam Games, Inc.","Kabam Games, Inc.",0.0
+2049,Gothic Playable Teaser,December,2019,0.0,500000.0,1000000.0,750000.0,THQ Nordic Barcelona,THQ Nordic,0.0
+2050,Grimm's Hollow,October,2019,0.0,500000.0,1000000.0,750000.0,ghosthunter,ghosthunter,0.0
+2051,Metin2,December,2006,0.0,2000000.0,5000000.0,3500000.0,WEBZEN Inc.,Gameforge 4D GmbH,0.0
+2052,Infestation: Survivor Stories 2020,January,1988,0.0,1000000.0,2000000.0,1500000.0,Fredaikis AB,OP Productions LLC,0.0
+2053,Old School RuneScape,February,2013,0.0,1000000.0,2000000.0,1500000.0,Jagex Ltd,Jagex Ltd,0.0
+2054,Spellbreak,December,2020,0.0,1000000.0,2000000.0,1500000.0,"Proletariat, Inc.","Proletariat, Inc.",0.0
+2055,Eternal Senia,June,2015,0.0,500000.0,1000000.0,750000.0,Sanctum Games,Sanctum Games,0.0
+2056,Action Taimanin,October,2020,0.0,1000000.0,2000000.0,1500000.0,LiLith,Infini-Brain inc.,0.0
+2057,SoulWorker - Anime Action MMO,February,2018,0.0,2000000.0,5000000.0,3500000.0,"Lion Games Co., Ltd.",Gameforge 4D GmbH,0.0
+2058,Tree of Savior (English Ver.),March,2016,0.0,500000.0,1000000.0,750000.0,"IMCGAMES Co.,Ltd.","IMCGAMES Co.,Ltd.",0.0
+2059,Survarium,April,2015,0.0,2000000.0,5000000.0,3500000.0,Vostok Games,Vostok Games,0.0
+2060,Phantasy Star Online 2,August,2020,0.0,2000000.0,5000000.0,3500000.0,SEGA,SEGA,0.0
+2061,Dead Frontier 2,July,2019,0.0,2000000.0,5000000.0,3500000.0,Creaky Corpse Ltd,Creaky Corpse Ltd,0.0
+2062,Bless Unleashed,August,2021,0.0,2000000.0,5000000.0,3500000.0,VALOFE,VALOFE,0.0
+2063,Dungeon Defenders II,June,2017,0.0,2000000.0,5000000.0,3500000.0,Trendy Entertainment,Trendy Entertainment,0.0
+2064,RuneScape,October,2020,0.0,1000000.0,2000000.0,1500000.0,Jagex Ltd,Jagex Ltd,0.0
+2065,Infestation: The New Z,November,2016,0.0,5000000.0,10000000.0,7500000.0,Fredaikis AB,OP Productions LLC,0.0
+2066,Russian Fishing 4,November,2021,0.0,2000000.0,5000000.0,3500000.0,"FishSoft, LLC","FishSoft, LLC",0.0
+2067,Creativerse,May,2017,0.0,1000000.0,2000000.0,1500000.0,Playful Corp.,Playful Corp.,0.0
+2068,Shakes and Fidget,February,2016,0.0,1000000.0,2000000.0,1500000.0,Playa Games GmbH,Playa Games GmbH,0.0
+2069,Clicker Heroes,May,2015,0.0,2000000.0,5000000.0,3500000.0,Playsaurus,Playsaurus,0.0
+2070,Minion Masters,May,2019,0.0,5000000.0,10000000.0,7500000.0,BetaDwarf,BetaDwarf,0.0
+2071,Trove,July,2015,0.0,10000000.0,20000000.0,15000000.0,gamigo US Inc.,gamigo US Inc.,0.0
+2072,Robocraft,August,2017,0.0,10000000.0,20000000.0,15000000.0,Freejam,Freejam,0.0
+2076,Terra Incognita ~ Chapter One: The Descendant,February,2015,0.99,500000.0,1000000.0,750000.0,Back To Basics Gaming,Back To Basics Gaming,742500.0
+2081,Guns n Zombies,October,2014,7.99,100000.0,200000.0,150000.0,Krealit,Krealit,1198500.0
+2090,16bit Trader,June,2015,2.99,200000.0,500000.0,350000.0,Forever Entertainment S. A.,Forever Entertainment S. A.,1046500.0
+2091,Fortune Summoners,January,2012,19.99,100000.0,200000.0,150000.0,Lizsoft,Carpe Fulgur LLC,2998499.9999999995
+2098,VenusBlood FRONTIER International,February,2020,39.99,100000.0,200000.0,150000.0,"Ninetail, Dualtail","JAST USA, Kagura Games (Chinese Localization)",5998500.0
+2102,Sudeki,March,2005,5.99,100000.0,200000.0,150000.0,Climax Studios,Climax Group,898500.0
+2103,Dancing Girl,June,2019,2.99,100000.0,200000.0,150000.0,Snow Girl,Snow Girl,448500.00000000006
+2105,Atari Vault,March,2016,19.99,100000.0,200000.0,150000.0,Code Mystics,Atari,2998499.9999999995
+2107,How To Survive: Third Person Standalone,July,2015,9.99,200000.0,500000.0,350000.0,Eko Software,505 Games,3496500.0
+2109,Rift Wizard,September,2021,14.99,100000.0,200000.0,150000.0,Dylan White,Dylan White,2248500.0
+2113,Towns,November,2012,14.99,100000.0,200000.0,150000.0,"Xavi Canal, Ben Palgi",SMP,2248500.0
+2114,Hyperdevotion Noire: Goddess Black Heart (Neptunia),April,2016,14.99,100000.0,200000.0,150000.0,"Idea Factory, Compile Heart, Sting",Idea Factory International,2248500.0
+2117,Blood and Gold: Caribbean!,December,2015,19.99,100000.0,200000.0,150000.0,Snowbird Games,Snowbird Games,2998499.9999999995
+2121,Dungeon Rushers,September,2016,14.99,100000.0,200000.0,150000.0,Goblinz Studio,"Goblinz Publishing, WhisperGames",2248500.0
+2124,Sword and Fairy 2,January,2003,5.99,100000.0,200000.0,150000.0,SOFTSTAR ENTERTAINMENT,SOFTSTAR ENTERTAINMENT,898500.0
+2125,Suicide Countdown: 7 Days,February,2021,2.99,100000.0,200000.0,150000.0,致意,致意,448500.00000000006
+2130,Zombie Shooter,December,2007,4.99,100000.0,200000.0,150000.0,Sigma Team Inc.,Sigma Team Inc.,748500.0
+2132,Suits: A Business RPG,January,2016,0.54,100000.0,200000.0,150000.0,Technomancy Studios,Technomancy Studios,81000.0
+2133,Hero by Chance,January,2021,1.99,100000.0,200000.0,150000.0,Reborn Entertainment,Reborn Entertainment,298500.0
+2134,懒人修仙传,November,2018,3.99,200000.0,500000.0,350000.0,托更的修罗,托更的修罗,1396500.0
+2138,Gurumin: A Monstrous Adventure,March,2015,9.99,100000.0,200000.0,150000.0,"Nihon Falcom, Mastiff",Mastiff,1498500.0
+2139,KnightShift,September,2013,6.99,200000.0,500000.0,350000.0,Reality Pump,Topware Interactive,2446500.0
+2143,Swords 'n Magic and Stuff,September,2020,19.99,100000.0,200000.0,150000.0,Kindred Games,Kindred Games,2998499.9999999995
+2144,HIVESWAP: ACT 2,November,2020,14.99,100000.0,200000.0,150000.0,"What Pumpkin Games, Inc.","What Pumpkin Games, Inc.",2248500.0
+2152,Sins Of The Demon RPG,May,2016,1.99,200000.0,500000.0,350000.0,Chandler Rounsley,Senpai Studios,696500.0
+2155,Fearless Fantasy,May,2014,6.99,500000.0,1000000.0,750000.0,Enter Skies,tinyBuild,5242500.0
+2158,Dust to the End,August,2021,11.99,100000.0,200000.0,150000.0,"Haojoy Game, Zjoy Game",2P Games,1798500.0
+2161,DemonCrawl,November,2019,14.99,100000.0,200000.0,150000.0,Therefore Games,Therefore Games,2248500.0
+2165,Templar Battleforce,September,2015,9.99,100000.0,200000.0,150000.0,Trese Brothers,Trese Brothers,1498500.0
+2166,H-Isekai Loves,February,2022,2.99,100000.0,200000.0,150000.0,G-Blood,G-Blood,448500.00000000006
+2169,The Chosen RPG,February,2016,1.99,200000.0,500000.0,350000.0,Little Big Lee,Senpai Studios,696500.0
+2170,Lili: Child of Geos - Complete Edition,May,2014,14.99,100000.0,200000.0,150000.0,"BitMonster, Inc.","BitMonster, Inc.",2248500.0
+2173,Fragmented,August,2017,1.29,100000.0,200000.0,150000.0,Above and Beyond Technologies,Above and Beyond Technologies,193500.0
+2182,Dungeonmans,December,2014,14.99,100000.0,200000.0,150000.0,Adventurepro Games LLC,Adventurepro Games LLC,2248500.0
+2184,FootLOL: Epic Soccer League,August,2013,9.99,200000.0,500000.0,350000.0,HeroCraft,HeroCraft PC,3496500.0
+2186,Chinese Paladin：Sword and Fairy,October,2017,4.99,200000.0,500000.0,350000.0,SOFTSTAR TECHNOLOGY(BEIJING),"SOFTSTAR TECHNOLOGY(BEIJING), SOFTSTAR ENTERTAINMENT",1746500.0
+2189,KeeperRL,March,2015,19.99,100000.0,200000.0,150000.0,Electric Succubi,Electric Succubi,2998499.9999999995
+2190,Labyronia RPG,August,2015,1.99,200000.0,500000.0,350000.0,Labyrinthine,Senpai Studios,696500.0
+2191,Castlevania Anniversary Collection,May,2019,19.99,100000.0,200000.0,150000.0,Konami Digital Entertainment,Konami Digital Entertainment,2998499.9999999995
+2195,Siege Survival: Gloria Victis,May,2021,24.99,100000.0,200000.0,150000.0,Black Eye Games,Ravenscourt,3748500.0
+2196,Angeldust,December,2019,2.99,100000.0,200000.0,150000.0,Frank Lucas,Metagaming B.V.,448500.00000000006
+2198,Evil Maze,June,2016,0.99,200000.0,500000.0,350000.0,ZOV GAME STUDIO,ZOV GAME STUDIO,346500.0
+2201,Killing Time,September,2017,0.59,200000.0,500000.0,350000.0,ONEONE1,Paradise Project,206500.0
+2202,Killing Room,October,2016,9.99,100000.0,200000.0,150000.0,Alda Games,Alda Games,1498500.0
+2204,Heroes of the Three Kingdoms,November,2020,0.99,200000.0,500000.0,350000.0,"USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",346500.0
+2212,Stolen Realm,October,2021,19.99,100000.0,200000.0,150000.0,Burst2Flame Entertainment,Burst2Flame Entertainment,2998499.9999999995
+2219,Monster Loves You!,March,2013,9.99,200000.0,500000.0,350000.0,"Radial Games Corp, Dejobaan Games, LLC",Radial Games Corp,3496500.0
+2223,Rogue Lords,September,2021,24.99,100000.0,200000.0,150000.0,"Leikir Studio, Cyanide Studio",Nacon,3748500.0
+2225,Edge of Space,September,2015,11.99,200000.0,500000.0,350000.0,Handyman Studios,Reverb Triple XP,4196500.0
+2228,Tap Heroes,June,2015,2.99,100000.0,200000.0,150000.0,VaragtP,VaragtP,448500.00000000006
+2229,Memories of a Vagabond,July,2014,4.99,100000.0,200000.0,150000.0,Darkelite Studio Inc,SA Industry,748500.0
+2231,Hero of the Kingdom III,August,2018,1.99,100000.0,200000.0,150000.0,Lonely Troops,Lonely Troops,298500.0
+2232,Flesh Eaters,May,2016,1.99,500000.0,1000000.0,750000.0,S.C. 16 BIT NIGHTS S.R.L.,S.C. 16 BIT NIGHTS S.R.L.,1492500.0
+2234,Paranautical Activity: Deluxe Atonement Edition,February,2013,0.99,100000.0,200000.0,150000.0,Digerati Distribution,Digerati,148500.0
+2236,Fantasy Grounds Classic,May,2014,39.99,100000.0,200000.0,150000.0,"SmiteWorks USA, LLC","SmiteWorks USA, LLC",5998500.0
+2239,Great Hero's Beard,October,2018,1.99,200000.0,500000.0,350000.0,OneShark,SakuraGame,696500.0
+2245,Undead Horde,May,2019,5.94,200000.0,500000.0,350000.0,10tons Ltd,10tons Ltd,2079000.0
+2251,Jagged Alliance 2 - Wildfire,March,2004,6.99,500000.0,1000000.0,750000.0,I-deal Games,Topware Interactive,5242500.0
+2252,川建国同志想要连任/Comrade Trump's Re-election,September,2020,2.99,100000.0,200000.0,150000.0,YEARS,七彩绘色游戏,448500.00000000006
+2262,Full Mojo Rampage,May,2014,12.99,200000.0,500000.0,350000.0,Over the Top Games,Over The Top Games,4546500.0
+2265,Pesterquest,September,2019,2.39,100000.0,200000.0,150000.0,"What Pumpkin Games, Inc.",Fellow Traveller,358500.0
+2266,Crystal Project,March,2022,13.99,200000.0,500000.0,350000.0,Andrew Willman,Andrew Willman,4896500.0
+2267,巅峰骑士团,August,2019,8.99,100000.0,200000.0,150000.0,熊窝dodox,"熊窝dodox, RuiXiao",1348500.0
+2270,Loot Hero DX,July,2015,2.99,200000.0,500000.0,350000.0,VaragtP,VaragtP,1046500.0
+2275,Disciples III: Reincarnation,February,2014,9.99,100000.0,200000.0,150000.0,Akella,Kalypso Media Digital,1498500.0
+2277,Heroes of the Three Kingdoms 2,November,2020,0.99,200000.0,500000.0,350000.0,"USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",346500.0
+2278,Microcosmum: survival of cells,July,2015,7.99,200000.0,500000.0,350000.0,Satur Entertainment,Satur Entertainment,2796500.0
+2279,The Bard's Tale Trilogy,August,2018,3.74,100000.0,200000.0,150000.0,"Krome Studios, inXile Entertainment",inXile Entertainment,561000.0
+2280,Tangledeep,February,2018,14.99,100000.0,200000.0,150000.0,Impact Gameworks,"Impact Gameworks, Doyoyo Games",2248500.0
+2281,FINAL FANTASY II,July,2021,11.99,100000.0,200000.0,150000.0,Square Enix,Square Enix,1798500.0
+2282,CONSORTIUM,January,2014,9.99,200000.0,500000.0,350000.0,Interdimensional Games Inc,Interdimensional Games Inc,3496500.0
+2283,挂机神话,February,2022,1.99,100000.0,200000.0,150000.0,摸鱼猫工作室,摸鱼猫工作室,298500.0
+2288,Breath of Death VII,July,2011,2.99,500000.0,1000000.0,750000.0,Zeboyd Games,Zeboyd Games,2242500.0
+2291,Merchant of the Skies,April,2020,14.99,100000.0,200000.0,150000.0,Coldwild Games,Coldwild Games,2248500.0
+2297,Seven: Enhanced Edition,December,2017,5.99,200000.0,500000.0,350000.0,"IMGN.PRO, Fool's Theory",IMGN.PRO,2096500.0
+2298,Revita,March,2021,16.99,100000.0,200000.0,150000.0,BenStar,"Dear Villagers, Doyoyo Games",2548499.9999999995
+2301,Paper Bride,December,2021,7.99,100000.0,200000.0,150000.0,HeartBeat Plus,HeartBeat Plus,1198500.0
+2302,Out There: Ω Edition,April,2015,14.99,200000.0,500000.0,350000.0,"Mi-Clos Studio, FibreTigre","Mi-Clos Studio, WhisperGames, Fractale",5246500.0
+2303,Shoppe Keep 2,April,2019,9.99,200000.0,500000.0,350000.0,Strange Fire,Excalibur Publishing,3496500.0
+2304,Phoenotopia: Awakening,January,2021,19.99,100000.0,200000.0,150000.0,Cape Cosmic,"Cape Cosmic, Flyhigh Works",2998499.9999999995
+2306,No-brainer Heroes 挂机吧！勇者,November,2019,9.99,200000.0,500000.0,350000.0,小团团工作室,小团团工作室,3496500.0
+2307,Pine,October,2019,24.99,100000.0,200000.0,150000.0,Twirlbound,Kongregate,3748500.0
+2308,Gedonia,June,2020,14.99,100000.0,200000.0,150000.0,Kazakov Oleg,Kazakov Oleg,2248500.0
+2309,Dungeons & Dragons: Chronicles of Mystara,June,2013,4.94,200000.0,500000.0,350000.0,Iron Galaxy Studios,Capcom,1729000.0000000002
+2310,Super Seducer 2 - Advanced Seduction Tactics,September,2018,12.99,100000.0,200000.0,150000.0,RLR Training Inc,0,1948500.0
+2314,SteamWorld Quest: Hand of Gilgamech,May,2019,6.24,200000.0,500000.0,350000.0,Image & Form Games,Thunderful Publishing,2184000.0
+2315,秦殇 (Prince of Qin),January,2022,0.99,200000.0,500000.0,350000.0,北京目标在线科技有限公司,北京目标在线科技有限公司,346500.0
+2317,FINAL FANTASY III,July,2021,17.99,100000.0,200000.0,150000.0,Square Enix,Square Enix,2698499.9999999995
+2318,Weapon Shop Fantasy,February,2017,9.99,200000.0,500000.0,350000.0,INDIECN,INDIECN,3496500.0
+2319,FINAL FANTASY IV,September,2021,17.99,100000.0,200000.0,150000.0,Square Enix,Square Enix,2698499.9999999995
+2323,Ideology in Friction,June,2019,12.49,100000.0,200000.0,150000.0,ONEONE1,Kagura Games,1873500.0
+2326,Ampu-Tea,May,2014,4.99,200000.0,500000.0,350000.0,ProjectorGames,KISS ltd,1746500.0
+2327,Greyfox RPG,February,2015,1.99,200000.0,500000.0,350000.0,Lesley Dodd,Senpai Studios,696500.0
+2328,Legendary Tales,September,2021,34.99,100000.0,200000.0,150000.0,Urban Wolf Games Inc.,Urban Wolf Games Inc.,5248500.0
+2329,Prison Simulator,November,2021,19.99,100000.0,200000.0,150000.0,Baked Games S.A.,"Baked Games S.A., PlayWay S.A.",2998499.9999999995
+2331,Bardbarian,April,2014,7.99,100000.0,200000.0,150000.0,TreeFortress Games,TreeFortress Games,1198500.0
+2333,In Verbis Virtus,April,2015,4.99,100000.0,200000.0,150000.0,Indomitus Games,Indomitus Games,748500.0
+2334,Agarest: Generations of War,February,2014,14.99,100000.0,200000.0,150000.0,Idea Factory,Ghostlight LTD,2248500.0
+2336,Hedon Bloodrite,May,2019,16.99,200000.0,500000.0,350000.0,Zan_HedonDev,Zan_HedonDev,5946499.999999999
+2338,上帝之城 I：监狱帝国 [City of God I - Prison Empire],July,2018,18.99,100000.0,200000.0,150000.0,Pixel Gangsta Studio,"Pixel Gangsta Studio, Flying Interactive",2848499.9999999995
+2339,Detective Girl of the Steam City,July,2019,8.99,100000.0,200000.0,150000.0,Clymenia,Kagura Games,1348500.0
+2340,Fallen ~Makina and the City of Ruins~,February,2018,7.49,200000.0,500000.0,350000.0,Another Story,Kagura Games,2621500.0
+2344,Tales from Candlekeep: Tomb of Annihilation,October,2017,15.99,200000.0,500000.0,350000.0,BKOM Studios,BKOM Studios,5596500.0
+2351,Seek Girl Ⅳ,January,2020,0.59,100000.0,200000.0,150000.0,DSGame,DSGame,88500.0
+2352,SanctuaryRPG: Black Edition,February,2015,7.99,100000.0,200000.0,150000.0,Black Shell Media,Plug In Digital,1198500.0
+2354,神都不良探 Underdog Detective,April,2022,7.99,100000.0,200000.0,150000.0,天津芸芸科技有限公司,天津芸芸科技有限公司,1198500.0
+2355,Heat,June,2020,3.99,100000.0,200000.0,150000.0,Code}{atch,Code}{atch,598500.0
+2356,HellSign,February,2021,19.99,200000.0,500000.0,350000.0,Ballistic Interactive,Ballistic Interactive,6996499.999999999
+2359,Skyborn,February,2014,14.99,200000.0,500000.0,350000.0,Dancing Dragon Games,Komodo,5246500.0
+2361,Swords and Sandals Classic Collection,April,2019,9.99,100000.0,200000.0,150000.0,Whiskeybarrel Studios,eGames.com,1498500.0
+2362,Ambrosia,January,2021,11.99,100000.0,200000.0,150000.0,Shimobashira Workshop,Kagura Games,1798500.0
+2363,The Initial,July,2017,9.99,200000.0,500000.0,350000.0,Restory Studio,Restory Studio,3496500.0
+2365,Planet Centauri,June,2016,14.99,200000.0,500000.0,350000.0,Permadeath,Permadeath,5246500.0
+2367,Evoland Legendary Edition,February,2019,4.99,100000.0,200000.0,150000.0,Shiro Games,Shiro Unlimited,748500.0
+2368,Retirement Simulator,April,2022,13.99,100000.0,200000.0,150000.0,DoubleThink Studio,DoubleThink Studio,2098500.0
+2369,Thea 2: The Shattering,May,2019,24.99,100000.0,200000.0,150000.0,"MuHa Games, Eerie Forest Studio",MuHa Games,3748500.0
+2370,斗地主少女/ Landlord Girls,July,2020,4.99,100000.0,200000.0,150000.0,Twilight Sonata Studio,Twilight Sonata Studio,748500.0
+2371,大江湖之苍龙与白鸟,August,2022,17.99,100000.0,200000.0,150000.0,GLOAM-STUDIOS,bilibili,2698499.9999999995
+2372,Ara Fell: Enhanced Edition,June,2016,14.99,100000.0,200000.0,150000.0,Stegosoft Games,DANGEN Entertainment,2248500.0
+2376,Sea Dogs: To Each His Own - Pirate Open World RPG,February,2016,14.99,100000.0,200000.0,150000.0,BlackMark Studio,"Akella, Valkyrie Initiative",2248500.0
+2377,Quest Hunter,March,2019,19.99,200000.0,500000.0,350000.0,2 Zombie Games,2 Zombie Games,6996499.999999999
+2378,Clicker Heroes 2,July,2018,19.99,200000.0,500000.0,350000.0,Playsaurus,Playsaurus,6996499.999999999
+2380,武林志（Wushu Chronicles）,April,2019,12.99,200000.0,500000.0,350000.0,JiangHu Studio,Snail Games,4546500.0
+2384,Slasher's Keep,November,2020,13.99,200000.0,500000.0,350000.0,Damian Schloter,Damian Schloter,4896500.0
+2386,Rogue Heroes: Ruins of Tasos,February,2021,19.99,100000.0,200000.0,150000.0,Heliocentric Studios,Team17 Digital,2998499.9999999995
+2387,At Dead Of Night,November,2020,14.99,100000.0,200000.0,150000.0,Baggy Cat Ltd.,Baggy Cat Ltd.,2248500.0
+2388,Secret of Mana,February,2018,39.99,100000.0,200000.0,150000.0,Square Enix,Square Enix,5998500.0
+2389,Mini Healer,April,2020,7.99,200000.0,500000.0,350000.0,Sad Doge,Sad Doge,2796500.0
+2390,Divinity: Dragon Commander,August,2013,39.99,200000.0,500000.0,350000.0,Larian Studios,Larian Studios,13996500.0
+2393,Hylics 2,June,2020,14.99,100000.0,200000.0,150000.0,Mason Lindroth,Mason Lindroth,2248500.0
+2394,英雄群侠传II,July,2019,19.99,100000.0,200000.0,150000.0,熊窝dodox,"熊窝dodox, RuiXiao",2998499.9999999995
+2395,FINAL FANTASY VI,February,2022,17.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,6296499.999999999
+2396,Sakura Dungeon,June,2016,7.99,200000.0,500000.0,350000.0,Winged Cloud,Winged Cloud,2796500.0
+2398,DYSMANTLE,November,2021,19.99,200000.0,500000.0,350000.0,10tons Ltd,10tons Ltd,6996499.999999999
+2399,Overlord: Raising Hell,February,2008,9.99,500000.0,1000000.0,750000.0,Triumph Studios,"Codemasters, Electronic Arts",7492500.0
+2402,Kio's Adventure,April,2017,1.39,200000.0,500000.0,350000.0,Spacelight Studio,Spacelight Studio,486500.0
+2406,Dream Date,May,2020,1.29,100000.0,200000.0,150000.0,ADOG,ADOG,193500.0
+2407,"Warhammer 40,000: Inquisitor - Prophecy",July,2019,4.99,100000.0,200000.0,150000.0,NeocoreGames,NeocoreGames,748500.0
+2410,Star Control: Origins,September,2018,29.99,100000.0,200000.0,150000.0,Stardock Entertainment,Stardock Entertainment,4498500.0
+2411,Hentai Mosaique Neko Waifus,January,2020,1.99,100000.0,200000.0,150000.0,Lil Hentai Games,Lil Hentai Games,298500.0
+2414,Forward to the Sky,January,2015,7.99,200000.0,500000.0,350000.0,Animu Game,Animu Game,2796500.0
+2415,Shoppe Keep,May,2016,4.99,200000.0,500000.0,350000.0,Strange Fire,Excalibur Publishing,1746500.0
+2417,Learn Japanese To Survive! Hiragana Battle,February,2016,6.99,100000.0,200000.0,150000.0,Sleepy Duck,RIVER CROW STUDIO,1048500.0
+2419,Treasure Hunter Claire,July,2018,9.99,200000.0,500000.0,350000.0,Acerola,Kagura Games,3496500.0
+2421,Heroes of the Three Kingdoms 7,November,2020,6.99,200000.0,500000.0,350000.0,"USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",2446500.0
+2422,bit Dungeon II,December,2014,1.99,200000.0,500000.0,350000.0,Kinto Games LLC,Kinto Games LLC,696500.0
+2424,Hard Truck Apocalypse / Ex Machina,March,2014,7.99,100000.0,200000.0,150000.0,Targem Games,ESDigital Games,1198500.0
+2426,GRANDIA II HD Remaster,August,2015,19.99,100000.0,200000.0,150000.0,"GAME ARTS Co., Ltd., Sickhead Games, LLC","GungHo Online Entertainment America, Inc.",2998499.9999999995
+2431,Ys I & II Chronicles+,February,2013,14.99,200000.0,500000.0,350000.0,Nihon Falcom,XSEED Games,5246500.0
+2432,古剑奇谭二(GuJian2),August,2013,1.91,500000.0,1000000.0,750000.0,"上海烛龙信息科技有限公司, Aurogon Shanghai",北京网元圣唐娱乐科技有限公司,1432500.0
+2433,Feign,October,2021,4.99,100000.0,200000.0,150000.0,tenekekafalarstudios,tenekekafalarstudios,748500.0
+2437,Bear and Breakfast,July,2022,19.99,100000.0,200000.0,150000.0,Gummy Cat,Armor Games Studios,2998499.9999999995
+2439,Red Solstice 2: Survivors,June,2021,29.99,200000.0,500000.0,350000.0,Ironward,505 Games,10496500.0
+2440,Fairy Fencer F Advent Dark Force,February,2017,19.99,100000.0,200000.0,150000.0,"IDEA FACTORY, COMPILE HEART",Idea Factory International,2998499.9999999995
+2441,Survivalist,January,2015,4.99,200000.0,500000.0,350000.0,Bob,Ginormocorp Holdings Ltd,1746500.0
+2442,Breach & Clear,March,2014,14.99,200000.0,500000.0,350000.0,"Mighty Rabbit Studios, Gun.","Good Shepherd Entertainment, Devolver Digital",5246500.0
+2444,FINAL FANTASY VIII - REMASTERED,September,2019,9.99,100000.0,200000.0,150000.0,Square Enix,Square Enix,1498500.0
+2445,Dragon Knight,February,2018,3.99,100000.0,200000.0,150000.0,D.K Studio,Paradise Project,598500.0
+2446,Mosaique Neko Waifus 2,June,2020,1.99,100000.0,200000.0,150000.0,Lil Hentai Games,Lil Hentai Games,298500.0
+2448,Guardians of Orion (Phase 2),December,2015,0.99,200000.0,500000.0,350000.0,DANKIE,DANKIE,346500.0
+2449,大千世界,July,2020,3.99,200000.0,500000.0,350000.0,滑稽工作室,滑稽工作室,1396500.0
+2450,FORCED: Slightly Better Edition,October,2013,3.74,500000.0,1000000.0,750000.0,BetaDwarf,BetaDwarf,2805000.0
+2451,Cattails | Become a Cat!,December,2017,14.99,100000.0,200000.0,150000.0,Falcon Development,Falcon Development,2248500.0
+2452,Final Fantasy IV (3D Remake),September,2014,7.99,200000.0,500000.0,350000.0,"Square Enix, DotEmu SAS.",Square Enix,2796500.0
+2453,StarMade,November,2014,14.99,200000.0,500000.0,350000.0,Schine GmbH,Schine GmbH,5246500.0
+2454,ArcheAge: Unchained,October,2019,0.0,200000.0,500000.0,350000.0,XLGAMES,Kakao Games Europe B.V.,0.0
+2455,Nexomon: Extinction,August,2020,19.99,100000.0,200000.0,150000.0,VEWO Interactive Inc.,"PQube, VEWO Interactive Inc.",2998499.9999999995
+2456,Runestone Keeper,March,2015,9.99,200000.0,500000.0,350000.0,Blackfire,Cimugames,3496500.0
+2457,Alien Shooter 2: Reloaded,March,2009,4.99,200000.0,500000.0,350000.0,Sigma Team Inc.,Sigma Team Inc.,1746500.0
+2460,Wurm Unlimited,October,2015,29.99,200000.0,500000.0,350000.0,Code Club AB,Plug In Digital,10496500.0
+2461,Hero of the Kingdom II,February,2015,1.99,100000.0,200000.0,150000.0,Lonely Troops,Lonely Troops,298500.0
+2463,Dead Pixels,December,2012,2.99,200000.0,500000.0,350000.0,CSR-Studios,CSR-Studios,1046500.0
+2464,Knights of Pen and Paper 2,October,2015,7.99,200000.0,500000.0,350000.0,Kyy Games,Paradox Interactive,2796500.0
+2465,FortressCraft Evolved!,November,2015,12.99,100000.0,200000.0,150000.0,ProjectorGames,Digital Tribe,1948500.0
+2466,Elise the Devil,November,2017,0.59,200000.0,500000.0,350000.0,Dieselmine,Paradise Project,206500.0
+2467,BROKE PROTOCOL: Online City RPG,August,2017,1.24,1000000.0,2000000.0,1500000.0,Cylinder Studios,Cylinder Studios,1860000.0
+2468,Survivalist: Invisible Strain,June,2020,6.99,100000.0,200000.0,150000.0,Bob,Ginormocorp Holdings Ltd,1048500.0
+2469,Throne of Lies: Medieval Politics,September,2017,1.99,200000.0,500000.0,350000.0,"PT.farm Inc., Imperium42®, LLC",PT.farm Inc.,696500.0
+2470,Mysteria ~Occult Shadows~,September,2020,3.89,200000.0,500000.0,350000.0,U-Secret Studio,SakuraGame,1361500.0
+2471,Hellsplit: Arena,September,2019,19.99,100000.0,200000.0,150000.0,Deep Type Games,Deep Type Games,2998499.9999999995
+2472,Sacred 2 Gold,December,2012,14.99,500000.0,1000000.0,750000.0,Studio II,THQ Nordic,11242500.0
+2473,Space Pirates And Zombies 2,November,2017,19.99,200000.0,500000.0,350000.0,MinMax Games Ltd.,MinMax Games Ltd.,6996499.999999999
+2475,Hero's Hour,March,2022,11.69,200000.0,500000.0,350000.0,"Benjamin ""ThingOnItsOwn"" Hauer","Goblinz Publishing, Maple Whispering Limited",4091500.0
+2476,Overdungeon,August,2019,14.99,200000.0,500000.0,350000.0,Pocketpair,Pocketpair,5246500.0
+2478,Star Trek: Bridge Crew,May,2017,24.99,200000.0,500000.0,350000.0,Ubisoft,Ubisoft,8746500.0
+2480,Shantae and the Pirate's Curse,April,2015,9.99,100000.0,200000.0,150000.0,WayForward,WayForward,1498500.0
+2481,汉匈决战/Han Xiongnu Wars,December,2017,6.99,500000.0,1000000.0,750000.0,Shangshixuan,Shangshixuan,5242500.0
+2482,Seek Girl Ⅲ,December,2019,0.59,200000.0,500000.0,350000.0,DSGame,DSGame,206500.0
+2484,Dungeons & Dragons: Dark Alliance,June,2021,29.99,100000.0,200000.0,150000.0,Tuque Games,Wizards of the Coast,4498500.0
+2485,Faerie Solitaire,September,2010,14.99,200000.0,500000.0,350000.0,Subsoap,Subsoap,5246500.0
+2486,Soul Gambler,August,2013,0.51,100000.0,200000.0,150000.0,Ilex Games,Gamestorming,76500.0
+2487,EmergeNYC,November,2016,24.99,100000.0,200000.0,150000.0,FlipSwitch Games,FlipSwitch Games,3748500.0
+2488,Edge Of Eternity,June,2021,29.99,200000.0,500000.0,350000.0,Midgar Studio,"Dear Villagers, Maple Whispering Limited",10496500.0
+2489,Vanishing Realms,August,2019,19.99,200000.0,500000.0,350000.0,Indimo Labs LLC,Indimo Labs LLC,6996499.999999999
+2490,Delver,February,2018,14.99,200000.0,500000.0,350000.0,"Chad Cuddigan, Joshua Skelton",Priority Interrupt,5246500.0
+2491,The Deed,November,2015,0.99,200000.0,500000.0,350000.0,"Pilgrim Adventures, GrabTheGames Studios","GrabTheGames, WhisperGames",346500.0
+2492,Braveland,March,2014,9.99,5000000.0,10000000.0,7500000.0,Tortuga Team,Tortuga Team,74925000.0
+2493,Farmer's Dynasty,November,2019,8.99,100000.0,200000.0,150000.0,UMEO Studios,Toplitz Productions,1348500.0
+2494,Low Magic Age,January,2017,14.99,200000.0,500000.0,350000.0,Low Magic Studios,Low Magic Studios,5246500.0
+2495,Feel The Snow,December,2019,8.99,100000.0,200000.0,150000.0,Owlet,Owlet,1348500.0
+2496,ANNO: Mutationem,March,2022,24.99,200000.0,500000.0,350000.0,ThinkingStars,Lightning Games,8746500.0
+2497,This Land Is My Land,October,2021,29.99,100000.0,200000.0,150000.0,Game-Labs,Game-Labs,4498500.0
+2499,Vikings - Wolves of Midgard,March,2017,8.99,200000.0,500000.0,350000.0,Games Farm,Kalypso Media Digital,3146500.0
+2500,Renowned Explorers: International Society,September,2015,19.99,200000.0,500000.0,350000.0,Abbey Games,Abbey Games,6996499.999999999
+2501,Death Trash,August,2021,19.99,500000.0,1000000.0,750000.0,Crafting Legends,Crafting Legends,14992499.999999998
+2502,Empire of Sin,December,2020,39.99,200000.0,500000.0,350000.0,Romero Games,Paradox Interactive,13996500.0
+2503,Disgaea 5 Complete,October,2018,39.99,200000.0,500000.0,350000.0,"Nippon Ichi Software, Inc.","NIS America, Inc.",13996500.0
+2504,Ni no Kuni Wrath of the White Witch Remastered,September,2019,49.99,100000.0,200000.0,150000.0,"LEVEL-5, QLOC",BANDAI NAMCO Entertainment,7498500.0
+2505,Sword and Fairy,April,2021,4.99,100000.0,200000.0,150000.0,SOFTSTAR ENTERTAINMENT,SOFTSTAR ENTERTAINMENT,748500.0
+2507,Peekaboo,August,2019,5.99,100000.0,200000.0,150000.0,Redaster Studio,Redaster Studio,898500.0
+2508,Alien Shooter,September,2003,4.99,200000.0,500000.0,350000.0,Sigma Team Inc.,Sigma Team Inc.,1746500.0
+2509,Knights of Pen and Paper +1 Edition,June,2013,9.99,200000.0,500000.0,350000.0,Behold Studios,Paradox Interactive,3496500.0
+2510,West Sweety,December,2019,1.29,100000.0,200000.0,150000.0,ADOG,ADOG,193500.0
+2511,Billionaire Lovers,July,2021,2.99,100000.0,200000.0,150000.0,Ayacat Games,Ayacat Games,448500.00000000006
+2512,Contradiction: Spot The Liar,July,2015,12.99,200000.0,500000.0,350000.0,Baggy Cat Ltd.,Baggy Cat Ltd.,4546500.0
+2513,Sun Haven,June,2021,24.99,200000.0,500000.0,350000.0,Pixel Sprout Studios,Pixel Sprout Studios,8746500.0
+2514,AKIBA'S TRIP: Undead ＆ Undressed,May,2015,19.99,100000.0,200000.0,150000.0,ACQUIRE Corp.,"XSEED Games, Marvelous USA, Inc.",2998499.9999999995
+2515,Mortal Shell,August,2021,8.99,100000.0,200000.0,150000.0,Cold Symmetry,Playstack,1348500.0
+2516,DOKA 2 KISHKI EDITION,November,2018,0.99,100000.0,200000.0,150000.0,Agafonoff,Agafonoff,148500.0
+2517,Star Traders: Frontiers,July,2018,14.99,100000.0,200000.0,150000.0,Trese Brothers,Trese Brothers,2248500.0
+2518,The Slormancer,April,2021,11.99,200000.0,500000.0,350000.0,Slormite Studios,"Slormite Studios, Abiding Bridge",4196500.0
+2519,再刷一把 PlayAgain,July,2022,8.99,200000.0,500000.0,350000.0,滑稽工作室,滑稽工作室,3146500.0
+2520,RUSSIA BATTLEGROUNDS,July,2018,0.99,100000.0,200000.0,150000.0,Agafonoff,Agafonoff,148500.0
+2522,TaleSpire,April,2021,24.99,100000.0,200000.0,150000.0,Bouncyrock Entertainment,Bouncyrock Entertainment,3748500.0
+2523,Pretty Neko,February,2020,0.99,100000.0,200000.0,150000.0,GirlGames,GirlGames,148500.0
+2524,FINAL FANTASY XIII-2,December,2014,9.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,3496500.0
+2525,Hyperdimension Neptunia U: Action Unleashed,March,2016,4.49,200000.0,500000.0,350000.0,"Idea Factory, Compile Heart, Tamsoft",Idea Factory International,1571500.0
+2526,SD GUNDAM BATTLE ALLIANCE,August,2022,59.99,200000.0,500000.0,350000.0,ARTDINK,Bandai Namco Entertainment,20996500.0
+2527,风信楼,October,2021,11.99,100000.0,200000.0,150000.0,Pingfang Games,Pingfang Games,1798500.0
+2528,King's Bounty II,August,2021,15.99,100000.0,200000.0,150000.0,Fulqrum Games,"Fulqrum Publishing, Prime Matter, 方块游戏 (China)",2398500.0
+2529,神舞幻想 Faith of Danschant,December,2017,2.99,500000.0,1000000.0,750000.0,北京九鳳信息科技有限公司,北京网元圣唐娱乐科技有限公司,2242500.0
+2530,Epic Battle Fantasy 4,February,2014,11.99,200000.0,500000.0,350000.0,Matt Roszak,Matt Roszak,4196500.0
+2531,Encased: A Sci-Fi Post-Apocalyptic RPG,September,2021,29.99,200000.0,500000.0,350000.0,Dark Crystal Games,Prime Matter,10496500.0
+2532,Nobody Saves the World,January,2022,18.74,200000.0,500000.0,350000.0,DrinkBox Studios,DrinkBox Studios,6558999.999999999
+2533,Keplerth,May,2022,14.99,100000.0,200000.0,150000.0,TARO,Gamera Games,2248500.0
+2534,Zenith: The Last City,January,2022,29.99,200000.0,500000.0,350000.0,Ramen VR,Ramen VR,10496500.0
+2535,Day of Dragons,December,2019,19.99,100000.0,200000.0,150000.0,Beawesome Games,Beawesome Games,2998499.9999999995
+2536,M.A.S.S. Builder,September,2019,24.99,100000.0,200000.0,150000.0,Vermillion Digital,Sekai Project,3748500.0
+2537,Nine Parchments,December,2017,19.99,500000.0,1000000.0,750000.0,Frozenbyte,Frozenbyte,14992499.999999998
+2538,Buddy Simulator 1984,February,2021,9.99,100000.0,200000.0,150000.0,Not a Sailor Studios,Not a Sailor Studios,1498500.0
+2539,Vampires' Melody,October,2020,3.99,100000.0,200000.0,150000.0,AsicxArt,SakuraGame,598500.0
+2540,ELEX II,March,2022,49.99,100000.0,200000.0,150000.0,Piranha Bytes,THQ Nordic,7498500.0
+2541,Hyperdimension Neptunia Re;Birth2: Sisters Generation,May,2015,14.99,200000.0,500000.0,350000.0,"Idea Factory, Compile Heart, Felistella","Idea Factory, Idea Factory International",5246500.0
+2542,永远消失的幻想乡 ～ The Disappearing of Gensokyo,January,2018,10.99,200000.0,500000.0,350000.0,MyACG Studio,MyACG Studio,3846500.0
+2543,Mr. Prepper,March,2021,12.59,100000.0,200000.0,150000.0,Rejected Games,"PlayWay S.A., Rejected Games",1888500.0
+2544,Juicy Realm,May,2018,9.99,500000.0,1000000.0,750000.0,SpaceCan,XD,7492500.0
+2545,Megadimension Neptunia VII,July,2016,19.99,200000.0,500000.0,350000.0,"Idea Factory, Compile Heart",Idea Factory International,6996499.999999999
+2546,Roguelands,November,2015,9.99,200000.0,500000.0,350000.0,SmashGames,SmashGames,3496500.0
+2547,KINGDOMS,October,2015,9.99,100000.0,200000.0,150000.0,Oreol,Oreol,1498500.0
+2548,Might & Magic Heroes VII,September,2015,29.99,500000.0,1000000.0,750000.0,Limbic Entertainment,Ubisoft,22492500.0
+2549,Legend of Keepers: Career of a Dungeon Manager,April,2021,6.99,100000.0,200000.0,150000.0,Goblinz Studio,Goblinz Publishing,1048500.0
+2550,Legend of Grimrock 2,October,2014,23.99,200000.0,500000.0,350000.0,Almost Human Games,Almost Human Games,8396500.0
+2551,Force of Nature,December,2016,0.79,200000.0,500000.0,350000.0,A.Y.std,A.Y.std,276500.0
+2552,Hylics,October,2015,2.99,100000.0,200000.0,150000.0,Mason Lindroth,Mason Lindroth,448500.00000000006
+2553,King Arthur: Knight's Tale,April,2022,44.99,100000.0,200000.0,150000.0,NeocoreGames,NeocoreGames,6748500.0
+2554,LIGHTNING RETURNS: FINAL FANTASY XIII,December,2015,9.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,3496500.0
+2555,NEOVERSE,February,2020,19.99,200000.0,500000.0,350000.0,Tinogames Inc.,Tinogames Inc.,6996499.999999999
+2556,Pretty Angel,December,2019,0.99,100000.0,200000.0,150000.0,GirlGames,GirlGames,148500.0
+2557,Hyperdimension Neptunia Re;Birth3 V Generation,October,2015,14.99,200000.0,500000.0,350000.0,"Idea Factory, Compile Heart, Felistella","Idea Factory, Idea Factory International",5246500.0
+2558,Travellers Rest,July,2020,14.99,200000.0,500000.0,350000.0,Isolated Games,Isolated Games,5246500.0
+2559,Defender's Quest: Valley of the Forgotten (DX edition),October,2012,14.99,200000.0,500000.0,350000.0,"Level Up Labs, LLC",Level Up Labs,5246500.0
+2560,GOD EATER 2 Rage Burst,August,2016,49.99,200000.0,500000.0,350000.0,"BANDAI NAMCO Studio, SHIFT, QLOC",BANDAI NAMCO Entertainment,17496500.0
+2561,RUSSIAPHOBIA,December,2020,0.49,100000.0,200000.0,150000.0,European Flameworms,Union Onion,73500.0
+2562,Rules Of Survival,May,2018,2.99,200000.0,500000.0,350000.0,Netease Games,Netease Games,1046500.0
+2563,Swords & Souls: Neverseen,July,2019,14.99,200000.0,500000.0,350000.0,SoulGame Studio,Armor Games Studios,5246500.0
+2564,Fox Hime,November,2017,1.99,100000.0,200000.0,150000.0,AsicxArt,SakuraGame,298500.0
+2565,Caster,March,2009,1.99,200000.0,500000.0,350000.0,Elecorn,Elecorn,696500.0
+2566,Costume Quest,October,2011,9.99,200000.0,500000.0,350000.0,Double Fine Productions,Double Fine Productions,3496500.0
+2567,Evoland 2,August,2015,19.99,100000.0,200000.0,150000.0,Shiro Games,Shiro Unlimited,2998499.9999999995
+2568,Divinity II: Developer's Cut,October,2012,19.99,500000.0,1000000.0,750000.0,Larian Studios,"Larian Studios, Focus Home Interactive",14992499.999999998
+2569,GRAV,January,2015,19.99,500000.0,1000000.0,750000.0,"BitMonster, Inc.","BitMonster, Inc.",14992499.999999998
+2570,Barony,June,2015,14.99,200000.0,500000.0,350000.0,Turning Wheel LLC,Turning Wheel LLC,5246500.0
+2571,Staxel,April,2019,19.99,200000.0,500000.0,350000.0,Plukit,Humble Games,6996499.999999999
+2572,Hell Girls,January,2017,0.59,200000.0,500000.0,350000.0,Athena Works,"Athena Works, SakuraGame",206500.0
+2573,TOGETHER BnB,April,2021,17.99,100000.0,200000.0,150000.0,AURORA Games,AURORA Games,2698499.9999999995
+2574,Tiny Tina's Wonderlands,June,2022,40.19,500000.0,1000000.0,750000.0,Gearbox Software,2K,30142500.0
+2575,Tales of Symphonia,February,2016,19.99,200000.0,500000.0,350000.0,BANDAI NAMCO Entertainment Inc.,BANDAI NAMCO Entertainment,6996499.999999999
+2576,古剑奇谭(GuJian),July,2010,1.19,500000.0,1000000.0,750000.0,"上海烛龙信息科技有限公司, Aurogon Shanghai",北京网元圣唐娱乐科技有限公司,892500.0
+2577,HIVESWAP: ACT 1,September,2017,7.99,200000.0,500000.0,350000.0,"What Pumpkin Games, Inc.","What Pumpkin Games, Inc.",2796500.0
+2578,Vagante,February,2018,14.99,100000.0,200000.0,150000.0,Nuke Nine,Nuke Nine,2248500.0
+2579,Swaying Girl,November,2020,0.99,100000.0,200000.0,150000.0,Wet Girl,Shoot Girl,148500.0
+2580,Seek Girl:Fog Ⅰ,August,2020,3.99,100000.0,200000.0,150000.0,DSGame,DSGame,598500.0
+2581,SWORD ART ONLINE Alicization Lycoris,July,2020,59.99,100000.0,200000.0,150000.0,"AQURIA Co., Ltd.",BANDAI NAMCO Entertainment,8998500.0
+2582,Kingdoms of Amalur: Re-Reckoning,September,2020,39.99,500000.0,1000000.0,750000.0,"KAIKO, Big Huge Games, 38 Studios",THQ Nordic,29992500.0
+2583,Outlaws of the Old West,March,2019,19.99,200000.0,500000.0,350000.0,Virtual Basement LLC,Wandering Wizard,6996499.999999999
+2584,Savage Lands,December,2021,2.49,200000.0,500000.0,350000.0,Last Bastion Studios LLC,Last Bastion Studios LLC,871500.0000000001
+2585,Angels of Death,December,2016,9.99,200000.0,500000.0,350000.0,"Vaka Game Magazine, Makoto Sanada","Vaka Game Magazine, PLAYISM",3496500.0
+2586,One Way Heroics,February,2014,3.49,500000.0,1000000.0,750000.0,Smoking WOLF,PLAYISM,2617500.0
+2587,Regions Of Ruin,February,2018,11.99,200000.0,500000.0,350000.0,Gameclaw Studio,Gameclaw Studio,4196500.0
+2588,Peglin,April,2022,19.99,100000.0,200000.0,150000.0,Red Nexus Games Inc.,"Red Nexus Games Inc., IndieArk",2998499.9999999995
+2589,Hood: Outlaws & Legends,May,2021,19.99,200000.0,500000.0,350000.0,Sumo Digital,Focus Entertainment,6996499.999999999
+2590,Swords of Legends Online,July,2021,0.0,1000000.0,2000000.0,1500000.0,"Wangyuan Shengtang Entertainment Technology CO., 上海烛龙信息科技有限公司",Gameforge 4D GmbH,0.0
+2591,Mosaique Neko Waifus 4,February,2021,1.99,100000.0,200000.0,150000.0,Lil Hentai Games,Lil Hentai Games,298500.0
+2592,Emily is Away <3,April,2021,9.99,200000.0,500000.0,350000.0,Kyle Seeley,Kyle Seeley,3496500.0
+2593,Lay a Beauty to Rest: The Darkness Peach Blossom Spring,October,2021,13.99,100000.0,200000.0,150000.0,Zero Creation Games,"Zero Creation Games, Fun Quarter",2098500.0
+2594,Rising World,December,2014,14.99,200000.0,500000.0,350000.0,JIW-Games,JIW-Games,5246500.0
+2596,LiEat,February,2016,2.99,200000.0,500000.0,350000.0,△○□× (Miwashiba),PLAYISM,1046500.0
+2597,FINAL FANTASY,July,2021,11.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,4196500.0
+2598,Citadel: Forged with Fire,November,2019,39.99,200000.0,500000.0,350000.0,Blue Isle Studios,Blue Isle Publishing,13996500.0
+2599,Chrono Ark,December,2019,19.99,200000.0,500000.0,350000.0,Al Fine,Al Fine,6996499.999999999
+2600,Hero of the Kingdom,December,2012,5.99,100000.0,200000.0,150000.0,Lonely Troops,Lonely Troops,898500.0
+2601,Word Game,January,2022,34.99,100000.0,200000.0,150000.0,Team9,"Team9, indienova, Path",5248500.0
+2602,Cyberdimension Neptunia: 4 Goddesses Online,February,2018,29.99,200000.0,500000.0,350000.0,"IDEA FACTORY, COMPILE HEART, TAMSOFT",Idea Factory International,10496500.0
+2603,Symphony of War: The Nephilim Saga,June,2022,15.99,200000.0,500000.0,350000.0,Dancing Dragon Games,Freedom Games,5596500.0
+2604,CryoFall,April,2021,19.99,200000.0,500000.0,350000.0,AtomicTorch Studio,Daedalic Entertainment,6996499.999999999
+2605,Super Robot Wars 30,October,2021,59.99,200000.0,500000.0,350000.0,"B.B.STUDIO CO.,LTD.",Bandai Namco Entertainment,20996500.0
+2606,Fox Hime Zero,May,2018,1.99,100000.0,200000.0,150000.0,AsicxArt,SakuraGame,298500.0
+2607,Fahrenheit: Indigo Prophecy Remastered,January,2015,9.99,200000.0,500000.0,350000.0,"Aspyr, Quantic Dream (original release)",Aspyr,3496500.0
+2608,Dead Age,July,2016,14.99,200000.0,500000.0,350000.0,Silent Dreams,Headup,5246500.0
+2609,Little Witch in the Woods,May,2022,15.99,200000.0,500000.0,350000.0,SUNNY SIDE UP,SUNNY SIDE UP,5596500.0
+2610,Trials of Mana,April,2020,49.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,17496500.0
+2611,Across the Obelisk,April,2021,15.99,100000.0,200000.0,150000.0,Dreamsite Games,Paradox Arc,2398500.0
+2612,Epic Battle Fantasy 5,November,2018,19.99,200000.0,500000.0,350000.0,Matt Roszak,Matt Roszak,6996499.999999999
+2613,Far Away,August,2021,9.99,200000.0,500000.0,350000.0,Gratesca,Thermite Games,3496500.0
+2614,Interstellar Marines,July,2013,9.99,200000.0,500000.0,350000.0,Zero Point Software,Zero Point Software,3496500.0
+2615,EVERSPACE 2,January,2021,39.99,200000.0,500000.0,350000.0,ROCKFISH Games,ROCKFISH Games,13996500.0
+2616,The Wind Road,July,2020,29.99,500000.0,1000000.0,750000.0,甘肃嘉元数字科技有限公司,Phoenix Games,22492500.0
+2617,Pixel Piracy,April,2015,9.99,200000.0,500000.0,350000.0,Vitali Kirpu,Commotion Games Pty Ltd,3496500.0
+2618,Dark Elf,August,2017,1.19,200000.0,500000.0,350000.0,ONEONE1,Paradise Project,416500.0
+2620,WolfQuest: Anniversary Edition,July,2019,19.99,100000.0,200000.0,150000.0,eduweb,eduweb,2998499.9999999995
+2621,Wet Girl,January,2019,0.99,200000.0,500000.0,350000.0,Wet Girl,Shoot Girl,346500.0
+2622,House of Detention,May,2020,0.99,200000.0,500000.0,350000.0,"Aniki, Male Union ♂",Dungeon Master,346500.0
+2623,Hentai Girl,August,2018,0.99,200000.0,500000.0,350000.0,GirlGames,GirlGames,346500.0
+2624,侠客风云传(Tale of Wuxia),April,2016,16.99,200000.0,500000.0,350000.0,Heluo Studio,Phoenix Game,5946499.999999999
+2625,Home Behind,June,2016,5.99,200000.0,500000.0,350000.0,TPP Studio,TPP Studio,2096500.0
+2626,The Wild Eight,October,2019,24.99,200000.0,500000.0,350000.0,FNTASTIC,HypeTrain Digital,8746500.0
+2627,Fantasy Girl,June,2019,0.99,100000.0,200000.0,150000.0,Inverse Game,Inverse Game,148500.0
+2628,Azur Lane Crosswave,February,2020,39.99,200000.0,500000.0,350000.0,"IDEA FACTORY, COMPILE HEART, FELISTELLA",Idea Factory International,13996500.0
+2629,Torchlight III,October,2020,9.99,200000.0,500000.0,350000.0,Echtra Inc.,Perfect World Entertainment,3496500.0
+2630,DESOLATE,January,2019,24.99,200000.0,500000.0,350000.0,Nearga,HypeTrain Digital,8746500.0
+2631,Dragonia,May,2017,1.99,200000.0,500000.0,350000.0,Blue Studio,Paradise Project,696500.0
+2632,Ancestors: The Humankind Odyssey,August,2020,39.99,200000.0,500000.0,350000.0,Panache Digital Games,Private Division,13996500.0
+2633,Dungeon Munchies,July,2022,19.99,100000.0,200000.0,150000.0,maJAJa,maJAJa,2998499.9999999995
+2634,SpellForce 3 Reforced,December,2017,39.99,500000.0,1000000.0,750000.0,Grimlore Games,THQ Nordic,29992500.0
+2635,Cultivation Tales,April,2022,19.99,500000.0,1000000.0,750000.0,Ac Games,Ac Games,14992499.999999998
+2636,Carto,October,2020,19.99,200000.0,500000.0,350000.0,Sunhead Games,"Humble Games, XD",6996499.999999999
+2637,Eastern Exorcist,July,2021,0.0,500000.0,1000000.0,750000.0,Wildfire Game（无锡野火数字科技有限公司）,bilibili,0.0
+2638,Caves of Qud,July,2015,17.99,200000.0,500000.0,350000.0,Freehold Games,Freehold Games,6296499.999999999
+2639,Hobo: Tough Life,April,2021,29.99,100000.0,200000.0,150000.0,Perun Creative,Perun Creative,4498500.0
+2640,Mortal Online 2,January,2022,39.99,200000.0,500000.0,350000.0,Star Vault AB,Star Vault AB,13996500.0
+2642,Minecraft Dungeons,September,2021,19.99,500000.0,1000000.0,750000.0,"Mojang Studios, ‪Double Eleven",Xbox Game Studios,14992499.999999998
+2643,Otaku's Adventure,May,2019,4.89,200000.0,500000.0,350000.0,Spacelight Studio,Spacelight Studio,1711500.0
+2644,The Last Spell,June,2021,14.99,500000.0,1000000.0,750000.0,Ishtar Games,"The Arcade Crew, Gamera Games, Dangen Entertainment",11242500.0
+2645,Gloria Victis: Medieval MMORPG,June,2016,19.99,100000.0,200000.0,150000.0,Black Eye Games,Black Eye Games,2998499.9999999995
+2646,Tales of Maj'Eyal,December,2012,6.99,500000.0,1000000.0,750000.0,Netcore Games,Netcore Games,5242500.0
+2647,Secrets of Grindea,July,2015,14.99,100000.0,200000.0,150000.0,Pixel Ferrets,Pixel Ferrets,2248500.0
+2648,Space Haven,May,2020,22.99,200000.0,500000.0,350000.0,Bugbyte Ltd.,Bugbyte Ltd.,8046499.999999999
+2649,Littlewood,August,2020,14.99,200000.0,500000.0,350000.0,Sean Young,SmashGames,5246500.0
+2650,Home Behind 2,February,2022,19.99,200000.0,500000.0,350000.0,TPP Studio,TPP Studio,6996499.999999999
+2651,"Yes, Your Grace",March,2020,19.99,500000.0,1000000.0,750000.0,Brave At Night,No More Robots,14992499.999999998
+2652,FINAL FANTASY XII THE ZODIAC AGE,February,2018,24.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,18742500.0
+2653,Neverwinter Nights: Enhanced Edition,March,2018,19.99,500000.0,1000000.0,750000.0,Beamdog,Beamdog,14992499.999999998
+2654,DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,December,2020,25.99,200000.0,500000.0,350000.0,Square Enix,Square Enix,9096500.0
+2655,Sword Art Online: Hollow Realization Deluxe Edition,October,2017,49.99,200000.0,500000.0,350000.0,AQURIA,BANDAI NAMCO Entertainment,17496500.0
+2656,Banner of the Maid,May,2019,16.99,200000.0,500000.0,350000.0,Azure Flame Studio,CE-Asia,5946499.999999999
+2657,Xuan-Yuan Sword VII,October,2020,34.99,200000.0,500000.0,350000.0,"SOFTSTAR, DOMO Studio","SOFTSTAR, Yooreka Studio",12246500.0
+2658,CHRONO TRIGGER,February,2018,7.49,200000.0,500000.0,350000.0,Square Enix,Square Enix,2621500.0
+2659,Dragon Cliff,May,2018,9.99,500000.0,1000000.0,750000.0,Meta Interaction,Meta Interaction,7492500.0
+2660,Yokai's Secret,February,2020,1.99,200000.0,500000.0,350000.0,Double W,Toffee Cafe,696500.0
+2661,Crawl,April,2017,14.99,500000.0,1000000.0,750000.0,Powerhoof,Powerhoof,11242500.0
+2662,Lost,September,2019,1.99,200000.0,500000.0,350000.0,DSGame,DSGame,696500.0
+2663,Comedy Night,August,2017,4.99,500000.0,1000000.0,750000.0,Lighthouse Games Studio,Lighthouse Games Studio,3742500.0
+2664,E.Y.E: Divine Cybermancy,July,2011,9.99,500000.0,1000000.0,750000.0,Streum On Studio,Streum On Studio,7492500.0
+2665,Dark and Light,July,2017,17.99,500000.0,1000000.0,750000.0,Snail Games USA,Snail Games USA,13492499.999999998
+2666,Melvor Idle,November,2021,9.99,500000.0,1000000.0,750000.0,Games by Malcs,Jagex Ltd,7492500.0
+2667,The Vagrant,July,2018,3.99,200000.0,500000.0,350000.0,O.T.K Games,SakuraGame,1396500.0
+2668,Naval Action,June,2019,19.99,200000.0,500000.0,350000.0,Game-Labs,Game-Labs,6996499.999999999
+2669,King Exit,October,2017,0.59,200000.0,500000.0,350000.0,深爪貴族,Paradise Project,206500.0
+2670,灵魂筹码 Soul at Stake,June,2018,17.99,500000.0,1000000.0,750000.0,Chongming Studio,Chongming Studio,13492499.999999998
+2671,Death Road to Canada,July,2016,14.99,200000.0,500000.0,350000.0,"Rocketcat Games, Madgarden",Rocketcat Games,5246500.0
+2672,Magicite,June,2014,9.99,500000.0,1000000.0,750000.0,SmashGames,SmashGames,7492500.0
+2673,Next Day: Survival,May,2018,9.99,500000.0,1000000.0,750000.0,SOFF Games,Last Level,7492500.0
+2674,TROUBLESHOOTER: Abandoned Children,April,2020,24.99,200000.0,500000.0,350000.0,Dandylion,Dandylion,8746500.0
+2675,Rebel Galaxy,October,2015,19.99,500000.0,1000000.0,750000.0,Double Damage Games,Double Damage Games,14992499.999999998
+2676,河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon),November,2018,17.99,200000.0,500000.0,350000.0,香港商河洛互動娛樂股份有限公司,"香港商河洛互動娛樂股份有限公司, 方块游戏",6296499.999999999
+2677,Digimon Story Cyber Sleuth: Complete Edition,October,2019,49.99,200000.0,500000.0,350000.0,"h.a.n.d., Inc.",BANDAI NAMCO Entertainment Inc.,17496500.0
+2678,Heroes of Hammerwatch,March,2018,11.99,500000.0,1000000.0,750000.0,Crackshell,"Crackshell, Surefire.Games",8992500.0
+2679,Cube World,September,2019,19.99,500000.0,1000000.0,750000.0,Picroma,Picroma,14992499.999999998
+2680,Wartales,December,2021,34.99,200000.0,500000.0,350000.0,Shiro Games,Shiro Unlimited,12246500.0
+2681,The Walking Dead: Saints & Sinners,January,2020,39.99,200000.0,500000.0,350000.0,Skydance Interactive,Skydance Interactive,13996500.0
+2682,Pathologic 2,May,2019,34.99,200000.0,500000.0,350000.0,Ice-Pick Lodge,tinyBuild,12246500.0
+2683,FINAL FANTASY VII REMAKE INTERGRADE,June,2022,49.69,200000.0,500000.0,350000.0,Square Enix,Square Enix,17391500.0
+2684,Gauntlet Slayer Edition,September,2014,19.99,1000000.0,2000000.0,1500000.0,Arrowhead Game Studios,WB Games,29985000.0
+2685,UnderMine,August,2020,19.99,200000.0,500000.0,350000.0,Thorium,Thorium,6996499.999999999
+2686,FINAL FANTASY VIII,December,2013,5.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,4492500.0
+2687,Exanima,April,2015,14.99,500000.0,1000000.0,750000.0,Bare Mettle Entertainment,Bare Mettle Entertainment,11242500.0
+2688,Kingdom Heroes 8,January,2021,29.99,200000.0,500000.0,350000.0,"USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",10496500.0
+2689,Chronicon,August,2020,9.79,500000.0,1000000.0,750000.0,Subworld,Subworld,7342499.999999999
+2690,Call of Cthulhu,October,2018,19.99,500000.0,1000000.0,750000.0,Cyanide Studio,Focus Entertainment,14992499.999999998
+2691,PixARK,May,2019,39.99,200000.0,500000.0,350000.0,Snail Games USA,Snail Games USA,13996500.0
+2692,Material Girl,June,2017,1.99,200000.0,500000.0,350000.0,Dieselmine,Paradise Project,696500.0
+2693,Tales of the Black Forest,September,2019,3.99,100000.0,200000.0,150000.0,拾英工作室,SakuraGame,598500.0
+2694,State of Decay: YOSE,April,2015,19.99,200000.0,500000.0,350000.0,Undead Labs,Xbox Game Studios,6996499.999999999
+2695,My Time at Sandrock,May,2022,24.99,200000.0,500000.0,350000.0,Pathea Games,"Pathea Games, PM Studios, Inc., DMM GAMES",8746500.0
+2696,Osiris: New Dawn,September,2016,34.99,500000.0,1000000.0,750000.0,Fenix Fire Entertainment,Fenix Fire Entertainment,26242500.0
+2697,Hand Simulator: Survival,December,2019,0.99,500000.0,1000000.0,750000.0,HFM Games,HFM Games,742500.0
+2698,Freeman: Guerrilla Warfare,October,2019,24.99,500000.0,1000000.0,750000.0,KK Game Studio,KK Game Studio,18742500.0
+2699,Summer Memories,June,2020,14.99,200000.0,500000.0,350000.0,Dojin Otome,Kagura Games,5246500.0
+2700,Reign Of Kings,December,2015,1.99,200000.0,500000.0,350000.0,Code}{atch,Code}{atch,696500.0
+2701,Fear Surrounds,October,2021,7.99,200000.0,500000.0,350000.0,SaltyEgg Studio,Yooreka Studio,2796500.0
+2702,Dinkum,July,2022,19.99,200000.0,500000.0,350000.0,James Bendon,James Bendon,6996499.999999999
+2703,LoveChoice,November,2021,1.99,200000.0,500000.0,350000.0,Akaba Studio,Akaba Studio,696500.0
+2704,Changed,April,2018,5.99,500000.0,1000000.0,750000.0,DragonSnow,DragonSnow,4492500.0
+2705,Sword and Fairy 7,October,2021,29.99,200000.0,500000.0,350000.0,"Softstar Technology (Beijing) Co., Ltd","CubeGame, Softstar Technology (Beijing) Co., Ltd",10496500.0
+2706,Fable Anniversary,September,2014,8.74,500000.0,1000000.0,750000.0,Lionhead Studios,Xbox Game Studios,6555000.0
+2707,Touhou Mystia's Izakaya,October,2021,5.99,200000.0,500000.0,350000.0,"二色幽紫蝶, Re零同人社","二色幽紫蝶, Re零同人社",2096500.0
+2708,Cyber Manhunt,February,2021,9.99,200000.0,500000.0,350000.0,Aluba Studio,Aluba Studio,3496500.0
+2709,觅长生,November,2019,11.99,500000.0,1000000.0,750000.0,Chalcedony Network,Chalcedony Network,8992500.0
+2710,"Flashing Lights - Police, Firefighting, Emergency Services Simulator",June,2018,14.99,500000.0,1000000.0,750000.0,Nils Jakrins,Excalibur Games,11242500.0
+2711,Dungeon of the ENDLESS,October,2014,11.99,500000.0,1000000.0,750000.0,AMPLITUDE Studios,SEGA,8992500.0
+2712,Fate Seeker II,November,2021,22.6,200000.0,500000.0,350000.0,甲山林娛樂股份有限公司,甲山林娛樂股份有限公司,7910000.000000001
+2713,Darksiders Warmastered Edition,November,2016,4.99,1000000.0,2000000.0,1500000.0,"KAIKO, Vigil Games",THQ Nordic,7485000.0
+2714,FINAL FANTASY XIII,October,2014,7.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,5992500.0
+2715,Valkyria Chronicles,November,2014,19.99,500000.0,1000000.0,750000.0,SEGA,SEGA,14992499.999999998
+2716,House Party,July,2022,24.99,500000.0,1000000.0,750000.0,"Eek! Games, LLC","Eek! Games, LLC",18742500.0
+2717,Fate Seeker,August,2018,21.09,500000.0,1000000.0,750000.0,甲山林娛樂股份有限公司,甲山林娛樂股份有限公司,15817500.0
+2718,Tribes of Midgard,July,2021,19.99,1000000.0,2000000.0,1500000.0,Norsfell,Gearbox Publishing,29985000.0
+2719,Darksiders II Deathinitive Edition,November,2015,7.49,2000000.0,5000000.0,3500000.0,"Gunfire Games, Vigil Games, THQ Nordic",THQ Nordic,26215000.0
+2720,Going Medieval,June,2021,22.49,200000.0,500000.0,350000.0,Foxy Voxel,The Irregular Corporation,7871499.999999999
+2721,She Will Punish Them,April,2020,15.99,500000.0,1000000.0,750000.0,L2 Games,L2 Games,11992500.0
+2722,Craft The World,November,2014,18.99,500000.0,1000000.0,750000.0,Dekovir Entertainment,Black Maple Games,14242499.999999998
+2723,Last Epoch,April,2019,34.99,200000.0,500000.0,350000.0,Eleventh Hour Games,Eleventh Hour Games,12246500.0
+2724,Solasta: Crown of the Magister,May,2021,39.99,500000.0,1000000.0,750000.0,Tactical Adventures,Tactical Adventures,29992500.0
+2725,The Ascent,July,2021,29.99,500000.0,1000000.0,750000.0,Neon Giant,Curve Games,22492500.0
+2726,Craftopia,September,2020,24.99,500000.0,1000000.0,750000.0,Pocketpair,Pocketpair,18742500.0
+2727,Aliens: Fireteam Elite,August,2021,29.99,500000.0,1000000.0,750000.0,Cold Iron Studios,"Cold Iron Studios, Focus Entertainment",22492500.0
+2728,BioShock 2 Remastered,September,2016,4.99,1000000.0,2000000.0,1500000.0,"2K Marin, 2K China, Digital Extremes, 2K Australia, Blind Squirrel, Feral Interactive (Mac)","2K, Feral Interactive (Mac)",7485000.0
+2729,FINAL FANTASY X/X-2 HD Remaster,May,2016,14.99,500000.0,1000000.0,750000.0,Square Enix,Square Enix,11242500.0
+2730,Core Keeper,March,2022,12.99,500000.0,1000000.0,750000.0,Pugstorm,Fireshine Games,9742500.0
+2731,Mountain,July,2014,0.99,500000.0,1000000.0,750000.0,David OReilly,David OReilly,742500.0
+2732,Borderlands Game of the Year Enhanced,April,2019,29.99,1000000.0,2000000.0,1500000.0,"Gearbox Software, Blind Squirrel Games",2K,44985000.0
+2733,Library Of Ruina,August,2021,29.99,500000.0,1000000.0,750000.0,ProjectMoon,ProjectMoon,22492500.0
+2734,Last Oasis,March,2020,29.99,500000.0,1000000.0,750000.0,Donkey Crew,Donkey Crew,22492500.0
+2735,South Park: The Fractured But Whole,October,2017,49.99,500000.0,1000000.0,750000.0,Ubisoft San Francisco,Ubisoft,37492500.0
+2736,Outward Definitive Edition,May,2022,23.99,500000.0,1000000.0,750000.0,Nine Dots Studio,Prime Matter,17992500.0
+2737,Streets of Rogue,July,2019,19.99,500000.0,1000000.0,750000.0,Matt Dabrowski,tinyBuild,14992499.999999998
+2738,Notes of Soul,January,2019,29.99,500000.0,1000000.0,750000.0,（Hong Kong）GKD Game Studio,（Hong Kong）GKD Game Studio,22492500.0
+2739,暖雪 Warm Snow,January,2022,17.99,500000.0,1000000.0,750000.0,BadMudStudio,bilibili,13492499.999999998
+2740,Sands of Salzaar,December,2021,14.99,500000.0,1000000.0,750000.0,汉家松鼠Han-Squirrel Studio,XD,11242500.0
+2741,Neon Abyss,July,2020,9.99,1000000.0,2000000.0,1500000.0,Veewo Games,"Team17, Yooreka Studio (China)",14985000.0
+2742,NieR Replicant ver.1.22474487139...,April,2021,29.99,200000.0,500000.0,350000.0,"Square Enix, Toylogic Inc.",Square Enix,10496500.0
+2743,Dust: An Elysian Tail,May,2013,3.74,1000000.0,2000000.0,1500000.0,Humble Hearts LLC,Xbox Game Studios,5610000.0
+2744,Amazing Cultivation Simulator,November,2020,24.99,500000.0,1000000.0,750000.0,GSQ Games,Gamera Games,18742500.0
+2745,Marvel's Avengers,September,2020,15.99,500000.0,1000000.0,750000.0,"Crystal Dynamics, Eidos-Montréal, Nixxes",Square Enix,11992500.0
+2746,Lost Castle / 失落城堡,August,2016,9.99,2000000.0,5000000.0,3500000.0,Hunter Studio,Neon Doctrine,34965000.0
+2747,ATLAS,December,2018,29.99,1000000.0,2000000.0,1500000.0,"Grapeshot Games, Instinct Games",Grapeshot Games,44985000.0
+2748,Foxhole,July,2017,29.99,1000000.0,2000000.0,1500000.0,Siege Camp,Siege Camp,44985000.0
+2749,FINAL FANTASY VII,July,2013,5.99,1000000.0,2000000.0,1500000.0,Square Enix,Square Enix,8985000.0
+2750,Chinese Parents,September,2018,9.99,1000000.0,2000000.0,1500000.0,墨鱼玩游戏,墨鱼玩游戏,14985000.0
+2751,Miscreated,December,2018,29.99,500000.0,1000000.0,750000.0,Entrada Interactive LLC,Entrada Interactive LLC,22492500.0
+2752,嗜血印 Bloody Spell,January,2022,24.99,500000.0,1000000.0,750000.0,艺龙游戏,艺龙游戏,18742500.0
+2753,ORION: Prelude,April,2013,0.99,2000000.0,5000000.0,3500000.0,DANKIE,DANKIE,3465000.0
+2754,Path Of Wuxia,April,2020,34.99,500000.0,1000000.0,750000.0,香港商河洛互動娛樂股份有限公司,香港商河洛互動娛樂股份有限公司,26242500.0
+2755,STAR WARS - Knights of the Old Republic,November,2003,9.99,1000000.0,2000000.0,1500000.0,"BioWare, Aspyr (Mac)","LucasArts, Aspyr (Mac), Disney, Lucasfilm",14985000.0
+2756,Hero Siege,January,2014,1.04,1000000.0,2000000.0,1500000.0,"Elias Viglione, Jussi Kukkonen",Panic Art Studios,1560000.0
+2757,Titan Quest Anniversary Edition,August,2016,19.99,2000000.0,5000000.0,3500000.0,"Iron Lore Entertainment, THQ Nordic",THQ Nordic,69965000.0
+2758,HuniePop,January,2015,9.99,1000000.0,2000000.0,1500000.0,HuniePot,HuniePot,14985000.0
+2759,Loop Hero,March,2021,14.99,1000000.0,2000000.0,1500000.0,Four Quarters,Devolver Digital,22485000.0
+2760,Temtem,September,2022,44.99,500000.0,1000000.0,750000.0,Crema,Humble Games,33742500.0
+2761,Bloodstained: Ritual of the Night,June,2019,39.99,500000.0,1000000.0,750000.0,ArtPlay,505 Games,29992500.0
+2762,Town of Salem,December,2014,4.99,1000000.0,2000000.0,1500000.0,BlankMediaGames,BlankMediaGames,7485000.0
+2763,Blade and Sorcery,December,2018,19.99,1000000.0,2000000.0,1500000.0,WarpFrog,WarpFrog,29985000.0
+2764,太吾绘卷 The Scroll Of Taiwu,September,2018,19.99,2000000.0,5000000.0,3500000.0,ConchShip Games,ConchShip Games,69965000.0
+2765,FINAL FANTASY XV WINDOWS EDITION,March,2018,17.49,1000000.0,2000000.0,1500000.0,Square Enix,Square Enix,26235000.0
+2766,古剑奇谭三(Gujian3),December,2018,11.99,500000.0,1000000.0,750000.0,"上海烛龙信息科技有限公司, Aurogon Shanghai",北京网元圣唐娱乐科技有限公司,8992500.0
+2767,Mirror 2: Project X,January,2022,1.99,1000000.0,2000000.0,1500000.0,KAGAMI Ⅱ WORKs,NIJICO,2985000.0
+2768,OUTRIDERS,April,2021,19.99,1000000.0,2000000.0,1500000.0,People Can Fly,Square Enix,29985000.0
+2769,Noita,October,2020,19.99,1000000.0,2000000.0,1500000.0,Nolla Games,Nolla Games,29985000.0
+2770,Baldur's Gate 3,October,2020,59.99,2000000.0,5000000.0,3500000.0,Larian Studios,Larian Studios,209965000.0
+2771,South Park: The Stick of Truth,March,2014,29.99,2000000.0,5000000.0,3500000.0,Obsidian Entertainment,Ubisoft,104965000.0
+2772,Tabletop Simulator,June,2015,19.99,2000000.0,5000000.0,3500000.0,Berserk Games,Berserk Games,69965000.0
+2773,Fallout 76: The Pitt,April,2020,39.99,2000000.0,5000000.0,3500000.0,Bethesda Game Studios,Bethesda Softworks,139965000.0
+2774,Tom Clancy’s The Division,March,2016,29.99,5000000.0,10000000.0,7500000.0,Massive Entertainment,Ubisoft,224925000.0
+2775,Conan Exiles,May,2018,39.99,2000000.0,5000000.0,3500000.0,Funcom,Funcom,139965000.0
+2776,Middle-earth: Shadow of War,October,2017,49.99,2000000.0,5000000.0,3500000.0,Monolith Productions,WB Games,174965000.0
+2777,Horizon Zero Dawn Complete Edition,August,2020,49.99,1000000.0,2000000.0,1500000.0,Guerrilla,PlayStation PC LLC,74985000.0
+2778,Assassin's Creed Origins,October,2017,59.99,2000000.0,5000000.0,3500000.0,Ubisoft Montreal,Ubisoft,209965000.0
+2779,Gunfire Reborn,November,2021,19.99,2000000.0,5000000.0,3500000.0,Duoyi Games,Duoyi Games,69965000.0
+2780,Mirror,April,2018,1.99,2000000.0,5000000.0,3500000.0,KAGAMI WORKS,Paradise Project,6965000.0
+2781,Dying Light 2 Stay Human,February,2022,59.99,2000000.0,5000000.0,3500000.0,Techland,Techland,209965000.0
+2782,Castle Crashers,September,2012,14.99,5000000.0,10000000.0,7500000.0,The Behemoth,The Behemoth,112425000.0
+2783,鬼谷八荒 Tale of Immortal,January,2021,19.99,10000000.0,20000000.0,15000000.0,鬼谷工作室,"鬼谷工作室, Lightning Games",299850000.0
+2784,Assassin's Creed Odyssey,October,2018,59.99,2000000.0,5000000.0,3500000.0,"Ubisoft Quebec, Ubisoft Montreal, Ubisoft Bucharest, Ubisoft Singapore, Ubisoft Montpellier, Ubisoft Kiev, Ubisoft Shanghai",Ubisoft,209965000.0
+2785,Project Zomboid,November,2013,19.99,5000000.0,10000000.0,7500000.0,The Indie Stone,The Indie Stone,149925000.0
+2786,Vampire Survivors,December,2021,4.99,2000000.0,5000000.0,3500000.0,poncle,poncle,17465000.0
+2787,Lost Ark,February,2022,0.0,20000000.0,50000000.0,35000000.0,Smilegate RPG,Amazon Games,0.0
+2788,Mount & Blade II: Bannerlord,March,2020,49.99,10000000.0,20000000.0,15000000.0,TaleWorlds Entertainment,TaleWorlds Entertainment,749850000.0
+2789,7 Days to Die,December,2013,24.99,5000000.0,10000000.0,7500000.0,The Fun Pimps,The Fun Pimps Entertainment LLC,187425000.0
+2790,Valheim,February,2021,19.99,20000000.0,50000000.0,35000000.0,Iron Gate AB,Coffee Stain Publishing,699650000.0
+3651,Heart of a Warrior,February,2022,10.99,500000.0,1000000.0,750000.0,Techworld Communication,Techworld Communication,8242500.0
+3721,Sabre Team,January,1992,6.99,1000000.0,2000000.0,1500000.0,Krisalis Software,Ziggurat,10485000.0
+3722,Tactical Vanguard Saga,July,2021,4.99,100000.0,200000.0,150000.0,Blacc Ski Weekend Industries,Blacc Ski Weekend Industries,748500.0
+3727,Spirit of Adventure,February,1991,8.99,200000.0,500000.0,350000.0,Attic Entertainment Software,Unique Games,3146500.0
+3945,Arcade Boy,August,2021,0.0,100000.0,200000.0,150000.0,Edvar Studio,Edvar Studio,0.0
+3970,Miasma 2: Freedom Uprising,December,2021,2.99,100000.0,200000.0,150000.0,ESP Games,David Addis,448500.00000000006
+3987,Witches of the Fourth Multiplayer,March,2022,4.99,200000.0,500000.0,350000.0,"Flgaming, Fareed",Fareed Flgaming,1746500.0
+4115,Dragon Hunters,December,2021,11.99,100000.0,200000.0,150000.0,Sigonheart Games LLC,Sigonheart Games LLC,1798500.0
+4203,执剑九霄,March,2022,3.5,100000.0,200000.0,150000.0,K.Kaiser's Game Studio,K.Kaiser's Game Studio,525000.0
+4225,Way Walkers: University 2,October,2020,4.99,100000.0,200000.0,150000.0,Hosted Games,Hosted Games,748500.0
+4235,S E V E R A N C E,April,2022,1.99,200000.0,500000.0,350000.0,Polybit_Game,Polybit_Game,696500.0
+4244,TAD: That Alien Dude,June,2018,4.99,100000.0,200000.0,150000.0,"Modern Aeon, Anderson Evans",Modern Aeon,748500.0
+4261,Lost Patrol,September,2020,5.99,100000.0,200000.0,150000.0,Shadow Development,Pixel Games UK,898500.0
+4263,Warspace,January,2022,2.99,100000.0,200000.0,150000.0,Real Gamer,Real Gamer,448500.00000000006
+4439,Diamond Hands Arena,May,2022,4.99,100000.0,200000.0,150000.0,Wonderful Days,Wonderful Days,748500.0
+4474,NO LOVE,November,2019,16.99,100000.0,200000.0,150000.0,Wallace Lovecraft,Wallace Lovecraft,2548499.9999999995
+4595,Sugar Story,February,2022,1.64,100000.0,200000.0,150000.0,"Source Byte Sp. z o.o., Nikodem Świder",Source Byte Sp. z o.o.,246000.0
+4660,WeeRPG,May,2022,6.99,100000.0,200000.0,150000.0,Narfox LLC,Narfox LLC,1048500.0
+4685,Minicraft Shooter,February,2021,0.99,500000.0,1000000.0,750000.0,Sweet Games,Sweet Games,742500.0
+4763,The Girl Who Sees,June,2021,8.99,100000.0,200000.0,150000.0,InterIntellectus NFP,InterIntellectus NFP,1348500.0
+4862,Morth,September,2020,0.99,100000.0,200000.0,150000.0,Hidden Crawlspace Studios,Hidden Crawlspace Studios,148500.0
+4871,Our Hero! Two,October,2021,1.99,100000.0,200000.0,150000.0,Ste's Project,Ste's Project,298500.0
+5055,Daemonsgate,October,2017,6.99,200000.0,500000.0,350000.0,Imagitec,Ziggurat,2446500.0
+5094,Liege Dragon,August,2020,14.99,100000.0,200000.0,150000.0,Exe Create Inc.,KEMCO,2248500.0
+5123,A Visit to Friends,December,2021,0.0,100000.0,200000.0,150000.0,Joel D.,...,0.0
+5147,Invictus: In the Shadow of Olympus,December,2017,9.99,200000.0,500000.0,350000.0,Quicksilver Software,Interplay,3496500.0
+5237,Fenrir's Prelude,June,2021,2.99,100000.0,200000.0,150000.0,Ragnarok Aesthetic,Ragnarok Aesthetic,448500.00000000006
+5360,AVRACH RESURRECTION,July,2020,9.99,100000.0,200000.0,150000.0,Fluffy Bisons,Fluffy Bisons,1498500.0
+5435,Apprentice Arriving,July,2020,12.99,100000.0,200000.0,150000.0,Jewel Seeker Entertainment,Jewel Seeker Entertainment,1948500.0
+5480,reD:起始的旋转之音(The beginning of the Melody),July,2019,0.99,100000.0,200000.0,150000.0,ButterCube,ButterCube,148500.0
+5489,Warrior Beneath Heaven,October,2020,3.59,500000.0,1000000.0,750000.0,Keyue Game Studio,Keyue Game Studio,2692500.0
+5522,Miasma: Citizens of Free Thought,November,2021,0.99,200000.0,500000.0,350000.0,ESP Games,David Addis,346500.0
+5548,村庄-The Village,March,2021,8.99,100000.0,200000.0,150000.0,橙光游戏,橙光游戏,1348500.0
+5592,ARK -the lost fairytale-,April,2018,2.99,100000.0,200000.0,150000.0,"Narrator, STORIA",Narrator,448500.00000000006
+5625,Coldage,July,2022,13.99,100000.0,200000.0,150000.0,Roosterlandia,Roosterlandia,2098500.0
+5696,Galaxy Citizen,February,2022,0.0,100000.0,200000.0,150000.0,Studio Baby,Baby,0.0
+5722,Dungeon Crawler,February,2022,5.99,100000.0,200000.0,150000.0,Jinxi,Jinxi,898500.0
+5902,Höll Space 5D6,May,2021,4.99,100000.0,200000.0,150000.0,5D6 Games,5D6 Games,748500.0
+5918,Valkyrie: Journey To Midgard,August,2021,1.99,200000.0,500000.0,350000.0,Succubella Games,Angel And Demons,696500.0
+6031,孤胆惊魂2：消失的207（Fear 2: The Disappeared 207）,June,2021,1.99,100000.0,200000.0,150000.0,PYSL,Wolf Game,298500.0
+6139,Game Master Plus,January,2019,6.99,100000.0,200000.0,150000.0,Great Potion Games,Great Potion Games,1048500.0
+6192,Roseblight,September,2021,0.79,100000.0,200000.0,150000.0,AploveStudio,AploveStudio,118500.0
+6240,道不可道,March,2022,1.99,200000.0,500000.0,350000.0,乐子人,乐子人,696500.0
+6313,[Neolithic]To the End,July,2004,4.99,100000.0,200000.0,150000.0,orochi2k,"orochi2k, RMAsia",748500.0
+6398,Starwalker,June,2018,4.99,100000.0,200000.0,150000.0,MP Game Studios,MP Game Studios,748500.0
+6489,PARTY RUSH!!,March,2022,6.99,200000.0,500000.0,350000.0,SECHAN,CREST,2446500.0
+6520,The Sacred Stone,April,2021,4.99,100000.0,200000.0,150000.0,Panzer Gaming,HandMade Games,748500.0
+6586,Pegasus: Broken Wings,September,2021,6.99,100000.0,200000.0,150000.0,Astronomic Games,Astronomic Games,1048500.0
+6741,It's time to get out from the solar system,August,2014,2.99,100000.0,200000.0,150000.0,WTFOMGames,WTFOMGames,448500.00000000006
+6836,Aurora - Hidden Colors,September,2021,4.99,100000.0,200000.0,150000.0,Aurora - Mídia & Games,Aurora - Mídia & Games,748500.0
+6882,Sentinel: Cursed Knight,April,2021,4.99,100000.0,200000.0,150000.0,Sentinel Studios,Sentinel Studios,748500.0
+6954,StarCrawlers Chimera,November,2021,19.99,100000.0,200000.0,150000.0,Juggernaut Games,Juggernaut Games,2998499.9999999995
+7371,Dungeon of Rikka,December,2020,1.44,200000.0,500000.0,350000.0,Poorly Drawn Squid,Poorly Drawn Squid,504000.0
+7439,Fate of WINDSHIFT,June,2021,10.99,100000.0,200000.0,150000.0,REAL Co.Ltd,Real Co.Ltd,1648500.0
+7498,Pixelot,March,2021,5.99,100000.0,200000.0,150000.0,Kyle Berger,Kyle Berger,898500.0
+7645,HEXCRAFT: Harlequin Fair,October,2021,12.99,200000.0,500000.0,350000.0,Oleander Garden,Hex Code Coven,4546500.0
+7739,A Timely Intervention,March,2017,0.59,100000.0,200000.0,150000.0,Aldorlea Games,Aldorlea Games,88500.0
+7772,On the Dragon Wings - Birth of a Hero,September,2022,8.99,500000.0,1000000.0,750000.0,Queen Developer,Queen Developer,6742500.0
+7919,PARKAN: THE IMPERIAL CHRONICLES,September,1997,2.99,100000.0,200000.0,150000.0,GameXP.com,GameXP.com,448500.00000000006
+7929,Rogue Port - Blue Nightmare,February,2017,3.99,100000.0,200000.0,150000.0,Volens Nolens Games,Volens Nolens Games,598500.0
+8087,The Legend of Bean,December,2017,2.99,100000.0,200000.0,150000.0,Windward_Birds,XNZONE,448500.00000000006
+8219,Lord of the Dark Castle,April,2015,0.99,200000.0,500000.0,350000.0,Craze Creative Studios,Trinity Project,346500.0
+8257,Star Shift Origins,November,2021,3.83,200000.0,500000.0,350000.0,Psychronic Game Studios,"G-DEVS.com, Psychronic Games",1340500.0
+8351,Army of Tentacles: (Not) A Cthulhu Dating Sim,February,2016,4.99,200000.0,500000.0,350000.0,Stegalosaurus Game Development,Stegalosaurus Game Development,1746500.0
+8415,Black Home,August,2015,0.49,100000.0,200000.0,150000.0,Warfare Studios,Aldorlea Games,73500.0
+8500,After The End: The Harvest,June,2017,4.99,100000.0,200000.0,150000.0,Elushis,Elushis Music & Gaming,748500.0
+8509,Redemption: Eternal Quest,August,2015,0.99,100000.0,200000.0,150000.0,SimProse Studios,Trinity Project,148500.0
+8516,Elmarion: Dragon's Princess,December,2020,5.49,100000.0,200000.0,150000.0,Fleon Games,Fleon Games,823500.0
+8550,Grim wanderings 2,September,2021,5.99,100000.0,200000.0,150000.0,Ellinia games,Ellinia games,898500.0
+8599,Data Hacker: Corruption,October,2014,0.99,500000.0,1000000.0,750000.0,New Reality Games,New Reality Games,742500.0
+8652,Alchemyland,August,2017,0.99,200000.0,500000.0,350000.0,azimuth team,azimuth team,346500.0
+8661,The Dragoness: Command of the Flame,September,2022,19.99,100000.0,200000.0,150000.0,Crazy Goat Games,PQube,2998499.9999999995
+8700,Final Quest II,October,2016,0.99,200000.0,500000.0,350000.0,RPG Video,Back To Basics Gaming,346500.0
+8737,AI Roguelite,March,2022,4.99,100000.0,200000.0,150000.0,Max Loh,Max Loh,748500.0
+8772,Warriors of Vilvatikta,August,2016,0.99,500000.0,1000000.0,750000.0,RPG Video,Back To Basics Gaming,742500.0
+8773,Final Quest,August,2016,0.99,200000.0,500000.0,350000.0,RPG Video,Back To Basics Gaming,346500.0
+8813,戾谈,January,2021,0.0,100000.0,200000.0,150000.0,SPG Mistarille,SPG Mistarille,0.0
+8822,Outbreak,January,2017,9.99,100000.0,200000.0,150000.0,Dead Drop Studios LLC,Dead Drop Studios LLC,1498500.0
+8825,Sweet Lily Dreams,May,2014,14.99,100000.0,200000.0,150000.0,RosePortal Games,Komodo,2248500.0
+8834,Rogue Port - Red Nightmare,May,2016,1.99,100000.0,200000.0,150000.0,Volens Nolens Games,Volens Nolens Games,298500.0
+8849,Dungeons and Robots,February,2016,8.99,100000.0,200000.0,150000.0,Glow Games Studio,Digital Tribe,1348500.0
+8859,Remnants Of Isolation,May,2015,1.99,100000.0,200000.0,150000.0,Team Isolation,Komodo,298500.0
+8889,Introvert Quest,March,2017,2.99,100000.0,200000.0,150000.0,Amaterasu Software,Amaterasu Software,448500.00000000006
+8891,The Dark Side of the Moon: An Interactive FMV Thriller,March,2021,14.99,100000.0,200000.0,150000.0,Tayanna Studios,Tayanna Studios,2248500.0
+8965,Eisenwald: Blood of November,November,2016,8.99,100000.0,200000.0,150000.0,Aterdux Entertainment,Aterdux Entertainment,1348500.0
+8995,Dark Shadows - Army of Evil,March,2014,4.99,200000.0,500000.0,350000.0,Burian Media Enterprises,Volens Nolens Games,1746500.0
+9041,Police Enforcement VR : 1-King-27,June,2018,4.49,100000.0,200000.0,150000.0,Karnage Gaming,Karnage Gaming,673500.0
+9064,Deadly Sin 2,July,2010,4.99,100000.0,200000.0,150000.0,Dancing Dragon Games,Komodo,748500.0
+9160,Daily Chthonicle: Editor's Edition,September,2016,3.99,200000.0,500000.0,350000.0,Sinister Systems,Sometimes You,1396500.0
+9238,Wanda - A Beautiful Apocalypse,June,2016,1.99,100000.0,200000.0,150000.0,Kodots Games,Kodots Games,298500.0
+9262,Data Hacker: Reboot,April,2015,0.99,100000.0,200000.0,150000.0,New Reality Games,New Reality Games,148500.0
+9263,The Dark Stone from Mebara,February,2015,7.99,100000.0,200000.0,150000.0,Jerseyware Gaming,KISS ltd,1198500.0
+9308,Drayt Empire,July,2016,0.99,200000.0,500000.0,350000.0,RPG Video,Back To Basics Gaming,346500.0
+9355,3DRPG,January,2016,0.49,100000.0,200000.0,150000.0,Doomster Entertainment,Doomster Entertainment,73500.0
+9357,Greed: Black Border,January,2010,0.74,100000.0,200000.0,150000.0,"Headup Games, Clockstone",Headup Games,111000.0
+9374,Invasion: Brain Craving,June,2016,0.99,500000.0,1000000.0,750000.0,New Reality Games,New Reality Games,742500.0
+9414,SpellForce 2 - Demons of the Past,January,2014,19.99,200000.0,500000.0,350000.0,"THQ Nordic, Mind Over Matter Studios",THQ Nordic,6996499.999999999
+9440,Data Hacker: Initiation,July,2014,0.99,1000000.0,2000000.0,1500000.0,New Reality Games,New Reality Games,1485000.0
+9448,EBOLA 2,January,2021,12.99,100000.0,200000.0,150000.0,indie_games_studio,indie_games_studio,1948500.0
+9453,Wolflord - Werewolf Online,August,2019,2.49,100000.0,200000.0,150000.0,LizardFactory,LizardFactory,373500.00000000006
+9454,"Precipice of Darkness, Episode Two",October,2008,7.99,100000.0,200000.0,150000.0,Hothead Games,Hothead Games,1198500.0
+9468,Wizardry 6: Bane of the Cosmic Forge,September,2013,4.99,100000.0,200000.0,150000.0,Sir-Tech,"Drecom Co. Ltd., Nightdive Studios",748500.0
+9503,The Adventurer - Episode 1: Beginning of the End,July,2017,4.99,100000.0,200000.0,150000.0,ZemunBRE,SA Industry,748500.0
+9518,Gaia Beyond,August,2020,14.99,100000.0,200000.0,150000.0,Warp Turtle,Warp Turtle,2248500.0
+9526,Zoop! - Hunter's Grimm,March,2017,1.99,200000.0,500000.0,350000.0,Warfare Studios,Senpai Studios,696500.0
+9531,Wizardry 7: Crusaders of the Dark Savant,September,2013,4.99,100000.0,200000.0,150000.0,Sir-Tech,"Drecom Co. Ltd., Nightdive Studios",748500.0
+9569,Steam Marines,September,2013,19.99,100000.0,200000.0,150000.0,Worthless Bums,Red Barrels,2998499.9999999995
+9572,Gladiator Trainer,November,2016,1.99,100000.0,200000.0,150000.0,Pilgrim Adventures,Senpai Studios,298500.0
+9605,Girlfriend Rescue,July,2015,0.54,100000.0,200000.0,150000.0,Aldorlea Games,Aldorlea Games,81000.0
+9616,Phantom Tentacle,July,2022,1.99,100000.0,200000.0,150000.0,LSP GAME,LSP GAME,298500.0
+9625,The Lords of the Earth Flame,September,2016,9.99,100000.0,200000.0,150000.0,Rhino Games,Rhino Games,1498500.0
+9626,Unforgiving Trials: The Space Crusade,October,2016,0.99,500000.0,1000000.0,750000.0,Amaterasu Software,Amaterasu Software,742500.0
+9632,DarkEnd,October,2014,1.99,200000.0,500000.0,350000.0,Kodots Games,Kodots Games,696500.0
+9695,Hotel Anatolia,March,2017,0.51,100000.0,200000.0,150000.0,Elven Workshop,Elven Workshop,76500.0
+9696,Calcu-Late,March,2016,0.99,500000.0,1000000.0,750000.0,Blazing Fanfish,Back To Basics Gaming,742500.0
+9705,THE IMPOSSIBLE,July,2020,4.99,200000.0,500000.0,350000.0,"IMPOSSIBLE INC, Airem",Airem,1746500.0
+9706,Heroes of Steel RPG,April,2014,9.99,100000.0,200000.0,150000.0,Trese Brothers,Trese Brothers,1498500.0
+9720,Freedom Force vs. the Third Reich,March,2005,4.99,100000.0,200000.0,150000.0,Irrational Games,2K,748500.0
+9758,Realms of Arkania: Blade of Destiny,July,2013,14.99,100000.0,200000.0,150000.0,"United Independent Entertainment, Crafty Studios",United Independent Entertainment,2248500.0
+9765,Survive in Space,May,2016,10.99,500000.0,1000000.0,750000.0,EGAMER,EGAMER,8242500.0
+9797,Interstellaria,July,2015,9.99,100000.0,200000.0,150000.0,Coldrice Games LLC,Studio Paint,1498500.0
+9807,Dear RED - Extended,April,2016,2.99,200000.0,500000.0,350000.0,Lee Sang,Sometimes You,1046500.0
+9815,99 Spirits,May,2013,4.99,200000.0,500000.0,350000.0,TORaIKI,Fruitbat Factory,1746500.0
+9824,RUNE II: Decapitation Edition,November,2020,11.08,100000.0,200000.0,150000.0,Studio 369,"Ragnarok Game, LLC",1662000.0
+9829,Royal Heroes,February,2016,9.99,100000.0,200000.0,150000.0,Badim,Badim,1498500.0
+9834,City of Chains,December,2015,8.99,200000.0,500000.0,350000.0,Astronomic Games,New Reality Games,3146500.0
+9878,Ravensword: Shadowlands,December,2013,6.99,100000.0,200000.0,150000.0,Crescent Moon Games,Crescent Moon Games,1048500.0
+9888,Wanderlust: Rebirth,June,2011,4.99,100000.0,200000.0,150000.0,Yeti Trunk,Chucklefish,748500.0
+9892,ArcaniA: Fall of Setarrif,October,2011,14.99,100000.0,200000.0,150000.0,Spellbound,THQ Nordic,2248500.0
+9900,Atonement: Scourge of Time,July,2015,5.99,500000.0,1000000.0,750000.0,Astronomic Games,New Reality Games,4492500.0
+9903,Brigand: Oaxaca,July,2017,3.59,1000000.0,2000000.0,1500000.0,"Brian Lancaster, Laughing Coyote Software","Brian Lancaster, Laughing Coyote Software",5385000.0
+9922,Victim of Xen,May,2014,9.99,200000.0,500000.0,350000.0,Barnes,Barnes,3496500.0
+9925,OH! RPG!,December,2015,2.99,100000.0,200000.0,150000.0,RosePortal Games,Aldorlea Games,448500.00000000006
+9936,Queen's Wish: The Conqueror,September,2019,9.99,100000.0,200000.0,150000.0,Spiderweb Software,Spiderweb Software,1498500.0
+9945,Penny Arcade's On the Rain-Slick Precipice of Darkness 4,June,2013,1.99,200000.0,500000.0,350000.0,Zeboyd Games,"Penny Arcade, Inc.",696500.0
+9951,Vendetta - Curse of Raven's Cry,November,2015,29.99,200000.0,500000.0,350000.0,Reality Pump Studios,"TopWare Interactive, ACE",10496500.0
+9954,Escape Machines,April,2015,0.99,500000.0,1000000.0,750000.0,Mint Age Studios,Back To Basics Gaming,742500.0
+9955,Caravaneer 2,December,2014,5.99,100000.0,200000.0,150000.0,Dmitry Zheltobriukhov,Dmitry Zheltobriukhov,898500.0
+9976,Geneforge 1 - Mutagen,February,2021,19.99,100000.0,200000.0,150000.0,Spiderweb Software,Spiderweb Software,2998499.9999999995
+9986,Millennium - A New Hope,April,2014,5.99,200000.0,500000.0,350000.0,Aldorlea Games,Aldorlea Games,2096500.0
+9993,Rogue,October,2020,2.99,100000.0,200000.0,150000.0,"Epyx, Inc.",Pixel Games UK,448500.00000000006
+10016,Burgers,August,2015,0.99,100000.0,200000.0,150000.0,storm_sharks,storm_sharks,148500.0
+10026,Roundguard,March,2020,19.99,100000.0,200000.0,150000.0,Wonderbelly Games,Wonderbelly Games,2998499.9999999995
+10039,romantic player,July,2020,2.99,100000.0,200000.0,150000.0,Old High Software,Old High Software,448500.00000000006
+10041,The Iron Oath,April,2022,17.99,100000.0,200000.0,150000.0,Curious Panda Games,Humble Games,2698499.9999999995
+10046,Wasteland 1 - The Original Classic,May,1988,0.71,200000.0,500000.0,350000.0,inXile Entertainment,inXile Entertainment,248500.0
+10064,Merchants of Kaidan,November,2014,14.99,100000.0,200000.0,150000.0,Forever Entertainment S. A.,Forever Entertainment S. A.,2248500.0
+10076,Geneforge 1,December,2001,19.99,100000.0,200000.0,150000.0,Spiderweb Software,Spiderweb Software,2998499.9999999995
+10079,FATE: The Cursed King,November,2014,7.99,100000.0,200000.0,150000.0,WildTangent,WildTangent,1198500.0
+10091,Alaloth: Champions of The Four Kingdoms,June,2022,24.99,100000.0,200000.0,150000.0,Gamera Interactive,Gamera Interactive,3748500.0
+10106,Omikron: The Nomad Soul,November,1999,9.99,100000.0,200000.0,150000.0,Quantic Dream,Square Enix,1498500.0
+10109,The Last Hope,August,2016,0.49,100000.0,200000.0,150000.0,"Atomic Fabrik, Cristian Manolachi","Atomic Fabrik, Cristian Manolachi",73500.0
+10124,R.A.W. Realms of Ancient War,October,2012,4.99,200000.0,500000.0,350000.0,Wizarbox,Focus Entertainment,1746500.0
+10125,Yaga,January,2021,24.99,100000.0,200000.0,150000.0,Breadcrumbs Interactive,Versus Evil,3748500.0
+10132,Alien Shooter: Revisited,April,2009,4.99,200000.0,500000.0,350000.0,Sigma Team Inc.,Sigma Team Inc.,1746500.0
+10157,King Arthur - The Role-playing Wargame,November,2009,4.99,200000.0,500000.0,350000.0,NeocoreGames,Paradox Interactive,1746500.0
+10160,Alien Shooter 2 Conscription,May,2012,9.99,100000.0,200000.0,150000.0,Sigma Team Inc.,Sigma Team Inc.,1498500.0
+10162,Dredgers,October,2019,11.99,100000.0,200000.0,150000.0,Pirate-Rob,Pirate-Rob,1798500.0
+10180,Saturday Morning RPG,January,2014,6.99,100000.0,200000.0,150000.0,Mighty Rabbit Studios,Critical Depth,1048500.0
+10185,Storm Of Spears RPG,June,2016,1.99,100000.0,200000.0,150000.0,Warfare Studios,Senpai Studios,298500.0
+10191,Potion Permit,September,2022,19.99,100000.0,200000.0,150000.0,MassHive Media,PQube,2998499.9999999995
+10198,Secret Of Magia,August,2015,1.99,500000.0,1000000.0,750000.0,0,Senpai Studios,1492500.0
+10200,Unforgiving Trials: The Darkest Crusade,June,2016,0.99,200000.0,500000.0,350000.0,Amaterasu Software,Amaterasu Software,346500.0
+10220,Shattered Planet,July,2014,14.99,200000.0,500000.0,350000.0,Kitfox Games,Kitfox Games,5246500.0
+10226,GRAVEN,May,2021,24.99,100000.0,200000.0,150000.0,Slipgate Ironworks™,"3D Realms, Fulqrum Publishing",3748500.0
+10239,GabeN: The Final Decision,September,2015,0.99,100000.0,200000.0,150000.0,Alex Zhang,Alex Zhang,148500.0
+10242,"Precipice of Darkness, Episode One",May,2008,7.99,200000.0,500000.0,350000.0,Hothead Games,Hothead Games,2796500.0
+10247,QuestRun,April,2014,2.99,200000.0,500000.0,350000.0,Cuve Games,Digerati,1046500.0
+10254,Elmarion: Dragon time,March,2020,7.49,100000.0,200000.0,150000.0,Fleon Games,Fleon Games,1123500.0
+10262,Marauder,September,2009,9.99,100000.0,200000.0,150000.0,Apeiron,ESDigital Games,1498500.0
+10265,Heroes of the Three Kingdoms 3,November,2020,1.99,100000.0,200000.0,150000.0,"USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",298500.0
+10281,Anima: Gate of Memories,June,2016,4.99,100000.0,200000.0,150000.0,Anima Project,BadLand Publishing,748500.0
+10291,Pathfinder Adventures,June,2017,9.99,100000.0,200000.0,150000.0,Obsidian Entertainment,Twin Sails Interactive,1498500.0
+10293,Labyronia RPG 2,August,2015,1.99,200000.0,500000.0,350000.0,Labyrinthine,Senpai Studios,696500.0
+10299,Breach & Clear: Deadline Rebirth (2016),July,2015,9.99,100000.0,200000.0,150000.0,"Mighty Rabbit Studios, Gun Media","Good Shepherd Entertainment, Devolver Digital",1498500.0
+10300,Songs Of Wuxia,September,2020,6.99,100000.0,200000.0,150000.0,苏州幻步网络科技有限公司,方块游戏(CubeGame),1048500.0
+10301,Shiren the Wanderer: The Tower of Fortune and the Dice of Fate,December,2020,19.99,100000.0,200000.0,150000.0,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",2998499.9999999995
+10307,The Advisor - Episode 1: Royal Pain,May,2021,2.54,100000.0,200000.0,150000.0,Randumb Studios,Randumb Studios,381000.0
+10309,Asteroid Bounty Hunter,February,2016,10.99,200000.0,500000.0,350000.0,EGAMER,SA Industry,3846500.0
+10311,Star Wolves 3: Civil War,March,2010,4.99,100000.0,200000.0,150000.0,Elite Games Team,Fulqrum Publishing,748500.0
+10320,Penny Arcade's On the Rain-Slick Precipice of Darkness 3,June,2012,1.99,200000.0,500000.0,350000.0,Zeboyd Games,"Penny Arcade, Inc.",696500.0
+10331,Faery - Legends of Avalon,June,2014,6.99,100000.0,200000.0,150000.0,Spiders,Focus Entertainment,1048500.0
+10336,Gothic 3: Forsaken Gods Enhanced Edition,March,2011,9.99,200000.0,500000.0,350000.0,"Trine Studios, G3 Community Patch Team, Mad Vulture Games",THQ Nordic,3496500.0
+10340,Zombie Shooter 2,September,2009,9.99,100000.0,200000.0,150000.0,Sigma Team Inc.,Sigma Team Inc.,1498500.0
+10344,Cubicle Quest,February,2015,4.99,100000.0,200000.0,150000.0,Ian Isaro,GrabTheGames,748500.0
+10354,One Deck Dungeon,May,2018,9.99,100000.0,200000.0,150000.0,Handelabra Games Inc.,Handelabra Games Inc.,1498500.0
+10366,Quest of Dungeons,March,2014,4.99,100000.0,200000.0,150000.0,David Amador,David Amador,748500.0
+10368,Stay! Stay! Democratic People's Republic of Korea!,May,2017,9.99,100000.0,200000.0,150000.0,DEVGRU-P,DEVGRU-P,1498500.0
+10370,Legend of Mysteria RPG,October,2015,1.99,200000.0,500000.0,350000.0,Labyrinthine,Senpai Studios,696500.0
+10371,Destiny Warriors RPG,September,2015,1.99,200000.0,500000.0,350000.0,ninjalex,Senpai Studios,696500.0
+10389,Deep Dungeons of Doom,October,2014,4.99,200000.0,500000.0,350000.0,Bossa Studios,Bossa Studios,1746500.0
+10390,Age of Gladiators,February,2016,9.99,100000.0,200000.0,150000.0,Creative Storm Entertainment,Creative Storm Entertainment,1498500.0
+10391,Super Motherload,November,2013,14.99,100000.0,200000.0,150000.0,XGen Studios,XGen Studios,2248500.0
+10400,Zombie Party,June,2016,9.99,100000.0,200000.0,150000.0,Peach Pie Productions,"Peach Pie Productions, Plug In Digital",1498500.0
+10405,Strike Buster Prototype,May,2021,3.99,100000.0,200000.0,150000.0,ZeroCastle Game Studios,BD Games,598500.0
+10416,Blood Knights,November,2013,2.99,100000.0,200000.0,150000.0,Deck 13,Kalypso Media Digital,448500.00000000006
+10422,The I of the Dragon,March,2004,6.99,1000000.0,2000000.0,1500000.0,Primal,TopWare Interactive,10485000.0
+10426,Age of Wonders,October,2010,1.49,100000.0,200000.0,150000.0,Triumph Studios,Paradox Interactive,223500.0
+10428,STORM AREA 51: AYY LMAO EDITION,September,2019,0.99,100000.0,200000.0,150000.0,Agafonoff,Agafonoff,148500.0
+10430,Battlepaths,October,2012,2.99,200000.0,500000.0,350000.0,Key17 Games,Digerati,1046500.0
+10433,200% Mixed Juice!,October,2015,3.49,100000.0,200000.0,150000.0,Orange_Juice,Fruitbat Factory,523500.00000000006
+10435,Zanzarah: The Hidden Portal,August,2015,7.99,100000.0,200000.0,150000.0,Funatics Software,Daedalic Entertainment,1198500.0
+10441,Metaverse Keeper / 元能失控,April,2019,14.99,100000.0,200000.0,150000.0,Sparks Games,Sparks Games,2248500.0
+10450,New kind of adventure,June,2015,0.99,500000.0,1000000.0,750000.0,Mint Age Studios,Back To Basics Gaming,742500.0
+10454,Demonicon,October,2013,9.99,200000.0,500000.0,350000.0,Noumena Studios,Kalypso Media Digital,3496500.0
+10462,Trigon: Space Story,April,2022,13.39,100000.0,200000.0,150000.0,Sernur.tech,Gameforge 4D GmbH,2008500.0
+10465,Legend of Mana,June,2021,29.99,100000.0,200000.0,150000.0,"Square Enix, M2 Co., Ltd.",Square Enix,4498500.0
+10466,Coffin of Ashes,December,2016,6.99,100000.0,200000.0,150000.0,"Ladomu, Angels Blue Digital Entertainment, DigitalEZ",DigitalEZ,1048500.0
+10467,Shotgun Legend,January,2018,0.49,100000.0,200000.0,150000.0,Jonathan Tindell,Wastebasket Games,73500.0
+10470,Mirror Maker,January,2019,1.99,100000.0,200000.0,150000.0,KAGAMI WORKs,Paradise Project,298500.0
+10473,Sunrider: Liberation Day - Captain's Edition,March,2016,24.99,100000.0,200000.0,150000.0,Love in Space,Sekai Project,3748500.0
+10477,World's Dawn,January,2016,9.99,100000.0,200000.0,150000.0,Wayward Prophet,Wayward Prophet,1498500.0
+1086940,Baldur's Gate 3,August,2023,59.99,15000000.0,25000000.0,20000000.0,Larian Studios,Larian Studios,1199800000.0
